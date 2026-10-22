@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="40.0" y="50.0" width="340.0" height="220.0" rx="8" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="60.0" y="85.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Fever</text>
+<circle cx="340.0" cy="78.0" r="16" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M332.8 78.0L338.4 83.6L348.0 71.6" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M40.0 105.0L380.0 105.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<text x="60.0" y="140.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Confusion</text>
+<circle cx="340.0" cy="133.0" r="16" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M332.8 133.0L338.4 138.6L348.0 126.6" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M40.0 160.0L380.0 160.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<text x="60.0" y="195.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Fast breathing</text>
+<circle cx="340.0" cy="188.0" r="16" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M332.8 188.0L338.4 193.6L348.0 181.6" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M40.0 215.0L380.0 215.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<text x="60.0" y="250.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Spreading redness</text>
+<circle cx="340.0" cy="243.0" r="16" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M332.8 243.0L338.4 248.6L348.0 236.6" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M392.0 160.0L458.0 160.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="470.0,160.0 458.0,168.0 458.0,152.0" fill="#2b2620"/>
+<svg x="475.0" y="100.0" width="140.0" height="105.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 14L148 104H12Z" fill="#f2c14e"/><path d="M80 44V74" stroke-width="8"/><circle cx="80" cy="89" r="5" fill="#2b2620" stroke="none"/></g></svg>
+<text x="545.0" y="230.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">More urgent</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Several signs together raise urgency.</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="25.0" y="150.0" width="150.0" height="60.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="100.0" y="176.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="100.0" dy="0.0">Read battery</tspan><tspan x="100.0" dy="19.2">level</tspan></text>
+<path d="M177.0 180.0L223.0 180.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="235.0,180.0 223.0,188.0 223.0,172.0" fill="#2b2620"/>
+<svg x="235.0" y="123.8" width="150.0" height="112.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 12L148 60L80 108L12 60Z" fill="#ffffff"/><path d="M80 18L140 60" stroke-width="2" stroke="#e6d9bd"/><path d="M56 60H104" stroke-width="6" stroke="#b9ab8f"/></g></svg>
+<text x="310.0" y="260.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620"><tspan x="310.0" dy="0.0">Above start</tspan><tspan x="310.0" dy="18.0">threshold?</tspan></text>
+<path d="M375.0 150.0L440.6 97.5" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="450.0,90.0 445.6,103.7 435.6,91.2" fill="#2b2620"/>
+<text x="425.0" y="140.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Yes</text>
+<rect x="465.0" y="55.0" width="150.0" height="60.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="540.0" y="81.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="540.0" dy="0.0">Run engine</tspan><tspan x="540.0" dy="19.2">outdoors</tspan></text>
+<path d="M375.0 210.0L440.6 262.5" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="450.0,270.0 435.6,268.8 445.6,256.3" fill="#2b2620"/>
+<text x="425.0" y="235.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">No</text>
+<rect x="465.0" y="245.0" width="150.0" height="60.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="540.0" y="280.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Rest</text>
+<text x="320.0" y="345.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Check before every run.</text>
+</svg>

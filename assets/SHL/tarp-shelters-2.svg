@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="40.0" y="100.0" width="170.0" height="127.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M124 64Q140 80 128 98Q120 106 108 102" stroke-width="11"/><path d="M124 64Q140 80 128 98Q120 106 108 102" stroke-width="5" stroke="#d9b77a"/><path d="M36 64A44 30 0 1 0 124 64A44 30 0 1 0 36 64" stroke-width="11"/><path d="M46 64A34 22 0 1 0 114 64A34 22 0 1 0 46 64" stroke-width="11"/><path d="M56 64A24 14 0 1 0 104 64A24 14 0 1 0 56 64" stroke-width="11"/><path d="M36 64A44 30 0 1 0 124 64A44 30 0 1 0 36 64" stroke-width="5" stroke="#d9b77a"/><path d="M46 64A34 22 0 1 0 114 64A34 22 0 1 0 46 64" stroke-width="5" stroke="#d9b77a"/><path d="M56 64A24 14 0 1 0 104 64A24 14 0 1 0 56 64" stroke-width="5" stroke="#d9b77a"/></g></svg>
+<path d="M190.0 170.0L450.0 170.0" fill="none" stroke="#2b2620" stroke-width="5" stroke-linecap="round"/>
+<text x="320.0" y="150.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Standing end</text>
+<path d="M120.0 70.0L120.0 120.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="120.0" cy="120.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="120.0" y="62.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Loop</text>
+<path d="M250.0 250.0L438.0 250.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="450.0,250.0 438.0,258.0 438.0,242.0" fill="#2b2620"/>
+<path d="M450.0 250.0L262.0 250.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="250.0,250.0 262.0,242.0 262.0,258.0" fill="#2b2620"/>
+<text x="350.0" y="284.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Tension</text>
+</svg>

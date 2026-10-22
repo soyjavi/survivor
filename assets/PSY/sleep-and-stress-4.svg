@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<path d="M60.0 280.0L60.0 52.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="60.0,40.0 68.0,52.0 52.0,52.0" fill="#2b2620"/>
+<path d="M60.0 280.0L598.0 280.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="610.0,280.0 598.0,288.0 598.0,272.0" fill="#2b2620"/>
+<text x="50.0" y="76.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Light</text>
+<text x="50.0" y="230.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Deep</text>
+<path d="M70 80L110 210L160 90L210 195L260 90L310 175L360 85L410 155L460 80L510 130L560 78L600 75" fill="none" stroke="#3f7fb0" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="70.0" y="312.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Bedtime</text>
+<text x="580.0" y="312.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Morning</text>
+<text x="320.0" y="346.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Deep sleep is early, so early rest matters most.</text>
+</svg>

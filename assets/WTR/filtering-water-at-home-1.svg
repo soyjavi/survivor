@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="20.0" y="90.0" width="200.0" height="150.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M47 48C47 6 113 6 113 48" stroke-width="2"/><clipPath id="WTR-filtering-water-at-home-1-0-c4"><path d="M46 44L54 100Q55 104 60 104H100Q105 104 106 100L114 44Z"/></clipPath><path d="M46 44L54 100Q55 104 60 104H100Q105 104 106 100L114 44Z" fill="#dfe4e6" stroke="none"/><rect x="94" y="0" width="66" height="120" fill="#b3bec4" stroke="none" clip-path="url(#WTR-filtering-water-at-home-1-0-c4)"/><path d="M46 44L54 100Q55 104 60 104H100Q105 104 106 100L114 44Z"/><path d="M48.3 60H111.7M52.3 88H107.7" stroke-width="2"/><ellipse cx="80" cy="44" rx="34" ry="7" fill="#4a4036"/><circle cx="48" cy="50" r="3" fill="#2b2620" stroke="none"/><circle cx="112" cy="50" r="3" fill="#2b2620" stroke="none"/></g></svg>
+<svg x="366.0" y="6.0" width="44.0" height="33.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 12C80 12 114 52 114 74A34 34 0 0 1 46 74C46 52 80 12 80 12Z" fill="#3f7fb0"/><path d="M62 72Q62 88 76 94" stroke-width="5" stroke="#ffffff"/></g></svg>
+<path d="M388.0 56.0L388.0 62.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="388.0,74.0 380.0,62.0 396.0,62.0" fill="#2b2620"/>
+<rect x="290.0" y="80.0" width="200.0" height="56.0" rx="4" fill="#b9ab8f" stroke="#2b2620" stroke-width="3"/>
+<text x="390.0" y="114.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Gravel</text>
+<rect x="290.0" y="136.0" width="200.0" height="56.0" rx="4" fill="#b9ab8f" stroke="#2b2620" stroke-width="3"/>
+<text x="390.0" y="170.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Coarse sand</text>
+<rect x="290.0" y="192.0" width="200.0" height="56.0" rx="4" fill="#f6b84b" stroke="#2b2620" stroke-width="3"/>
+<text x="390.0" y="226.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Fine sand</text>
+<rect x="290.0" y="248.0" width="200.0" height="56.0" rx="4" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="390.0" y="282.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Cloth</text>
+<path d="M215.0 160.0L268.0 160.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="280.0,160.0 268.0,168.0 268.0,152.0" fill="#2b2620"/>
+<text x="120.0" y="270.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Bucket</text>
+<path d="M540.0 220.0L484.0 220.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="484.0" cy="220.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="548.0" y="216.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620"><tspan x="548.0" dy="0.0">Last</tspan><tspan x="548.0" dy="18.0">cleaning</tspan></text>
+<text x="320.0" y="346.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Fine sand sits just above the cloth, so it does the last cleaning.</text>
+</svg>

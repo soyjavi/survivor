@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="40.0" y="80.0" width="110.0" height="82.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="36" fill="#2b2620"/><text x="80" y="76" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="46" font-weight="800" text-anchor="middle" fill="#ffffff" stroke="none">1</text></g></svg>
+<text x="95.0" y="188.5" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Dry layers</text>
+<path d="M154.0 121.2L174.0 121.2" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="186.0,121.2 174.0,129.2 174.0,113.2" fill="#2b2620"/>
+<svg x="190.0" y="80.0" width="110.0" height="82.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="36" fill="#2b2620"/><text x="80" y="76" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="46" font-weight="800" text-anchor="middle" fill="#ffffff" stroke="none">2</text></g></svg>
+<text x="245.0" y="188.5" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Blanket</text>
+<path d="M304.0 121.2L324.0 121.2" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="336.0,121.2 324.0,129.2 324.0,113.2" fill="#2b2620"/>
+<svg x="340.0" y="80.0" width="110.0" height="82.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="36" fill="#2b2620"/><text x="80" y="76" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="46" font-weight="800" text-anchor="middle" fill="#ffffff" stroke="none">3</text></g></svg>
+<text x="395.0" y="188.5" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Warm drink</text>
+<path d="M454.0 121.2L474.0 121.2" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="486.0,121.2 474.0,129.2 474.0,113.2" fill="#2b2620"/>
+<svg x="490.0" y="80.0" width="110.0" height="82.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M24 26H136Q146 26 146 36V84Q146 94 136 94H24Q14 94 14 84V36Q14 26 24 26Z" fill="#ffffff"/><circle cx="34" cy="46" r="9" fill="#2b2620" stroke="#2b2620"/><path d="M52 46H124" stroke-width="6" stroke="#b9ab8f"/><path d="M34 66H124" stroke-width="4" stroke="#b9ab8f"/><path d="M34 78H100" stroke-width="4" stroke="#b9ab8f"/></g></svg>
+<text x="545.0" y="188.5" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="545.0" dy="0.0">Heat to chest</tspan><tspan x="545.0" dy="19.2">and trunk</tspan></text>
+<text x="320.0" y="320.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">The centre warms first.</text>
+</svg>

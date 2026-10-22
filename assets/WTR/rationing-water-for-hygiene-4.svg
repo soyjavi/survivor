@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="20.0" y="40.0" width="500.0" height="56.0" rx="6" fill="#b9ab8f" stroke="#2b2620" stroke-width="3"/>
+<text x="85.0" y="64.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#2b2620"><tspan x="85.0" dy="0.0">Allowance</tspan><tspan x="85.0" dy="18.0">per person</tspan></text>
+<text x="205.0" y="73.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#2b2620">Litres used</text>
+<text x="315.0" y="73.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#2b2620">Litres left</text>
+<text x="445.0" y="64.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#2b2620"><tspan x="445.0" dy="0.0">Where we</tspan><tspan x="445.0" dy="18.0">struggled</tspan></text>
+<rect x="20.0" y="96.0" width="500.0" height="112.0" rx="6" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<path d="M20.0 152.0L520.0 152.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M150.0 40.0L150.0 208.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M260.0 40.0L260.0 208.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M370.0 40.0L370.0 208.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<svg x="546.0" y="100.0" width="80.0" height="60.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M34 12H108L126 30V108H34Z" fill="#ffffff"/><path d="M108 12V30H126" fill="#e6d9bd"/><path d="M48 32H96" stroke-width="6" stroke="#b9ab8f"/><path d="M48 52H112" stroke-width="4" stroke="#b9ab8f"/><path d="M48 66H112" stroke-width="4" stroke="#b9ab8f"/><path d="M48 80H90" stroke-width="4" stroke="#b9ab8f"/></g></svg>
+<text x="320.0" y="300.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Shows where the allowance runs out first, so plan changes before a shortage.</text>
+</svg>

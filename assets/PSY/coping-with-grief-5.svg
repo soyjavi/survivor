@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="16.0" y="163.0" width="128.0" height="54.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="80.0" y="186.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="80.0" dy="0.0">Distress</tspan><tspan x="80.0" dy="19.2">sign</tspan></text>
+<path d="M146.0 190.0L178.0 190.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="190.0,190.0 178.0,198.0 178.0,182.0" fill="#2b2620"/>
+<svg x="190.0" y="130.0" width="130.0" height="97.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 12L148 60L80 108L12 60Z" fill="#ffffff"/><path d="M80 18L140 60" stroke-width="2" stroke="#e6d9bd"/><path d="M56 60H104" stroke-width="6" stroke="#b9ab8f"/></g></svg>
+<text x="255.0" y="100.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="255.0" dy="0.0">Self-harm or weeks</tspan><tspan x="255.0" dy="19.2">not functioning?</tspan></text>
+<path d="M320.0 190.0L360.0 190.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="372.0,190.0 360.0,198.0 360.0,182.0" fill="#2b2620"/>
+<text x="346.0" y="176.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#c4432f">Yes</text>
+<rect x="400.0" y="54.0" width="200.0" height="52.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="500.0" y="85.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Health post</text>
+<path d="M372.0 190.0L398.0 80.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<rect x="400.0" y="164.0" width="200.0" height="52.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="500.0" y="195.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Counsellor</text>
+<path d="M372.0 190.0L398.0 190.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<rect x="400.0" y="274.0" width="200.0" height="52.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="500.0" y="305.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Community leader</text>
+<path d="M372.0 190.0L398.0 300.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<path d="M255.0 250.0L255.0 290.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<text x="270.0" y="270.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#5f8436">No</text>
+<rect x="170.0" y="293.0" width="170.0" height="38.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="255.0" y="317.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Keep checking in</text>
+</svg>

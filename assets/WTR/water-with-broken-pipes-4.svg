@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<path d="M40.0 170.0L600.0 170.0" fill="none" stroke="#2b2620" stroke-width="8" stroke-linecap="round"/>
+<svg x="110.0" y="100.0" width="60.0" height="45.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="80" cy="102" rx="20" ry="5" fill="#e6d9bd" stroke-width="2"/><path d="M80 100C80 100 50 66 50 44A30 30 0 0 1 110 44C110 66 80 100 80 100Z" fill="#c4432f"/><circle cx="80" cy="44" r="11" fill="#ffffff"/></g></svg>
+<text x="140.0" y="220.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Joint 1</text>
+<svg x="230.0" y="100.0" width="60.0" height="45.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="80" cy="102" rx="20" ry="5" fill="#e6d9bd" stroke-width="2"/><path d="M80 100C80 100 50 66 50 44A30 30 0 0 1 110 44C110 66 80 100 80 100Z" fill="#c4432f"/><circle cx="80" cy="44" r="11" fill="#ffffff"/></g></svg>
+<text x="260.0" y="220.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Joint 2</text>
+<svg x="350.0" y="100.0" width="60.0" height="45.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="80" cy="102" rx="20" ry="5" fill="#e6d9bd" stroke-width="2"/><path d="M80 100C80 100 50 66 50 44A30 30 0 0 1 110 44C110 66 80 100 80 100Z" fill="#c4432f"/><circle cx="80" cy="44" r="11" fill="#ffffff"/></g></svg>
+<text x="380.0" y="220.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Joint 3</text>
+<svg x="470.0" y="80.0" width="80.0" height="60.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 12L128 60L80 108L32 60Z" fill="#f2c14e"/><path d="M80 26L114 60L80 94L46 60Z" stroke-width="2"/><path d="M80 42V64" stroke-width="7"/><circle cx="80" cy="77" r="4.5" fill="#2b2620" stroke="none"/></g></svg>
+<text x="510.0" y="190.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Repair</text>
+<rect x="65.0" y="28.0" width="150.0" height="44.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="140.0" y="55.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Gauge low</text>
+<text x="320.0" y="320.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Low reading: check every joint.</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="200.0" y="40.0" width="230.0" height="172.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><clipPath id="SEC-the-go-bag-3-0-c10"><path d="M54 40Q36 70 44 98Q46 104 54 104H106Q114 104 116 98Q124 70 106 40Z"/></clipPath><path d="M54 40Q36 70 44 98Q46 104 54 104H106Q114 104 116 98Q124 70 106 40Z" fill="#b9c99a" stroke="none"/><rect x="98" y="0" width="62" height="120" fill="#9dbb6a" stroke="none" clip-path="url(#SEC-the-go-bag-3-0-c10)"/><path d="M54 40Q36 70 44 98Q46 104 54 104H106Q114 104 116 98Q124 70 106 40Z"/><path d="M60 32L64 16L72 26L80 14L88 26L96 16L100 32Z" fill="#b9c99a"/><path d="M58 38H102" stroke-width="5"/><path d="M80 38Q74 50 66 54M80 38Q88 48 96 50" stroke-width="2"/><path d="M62 64Q60 80 64 96M98 66Q100 80 96 96" stroke-width="2"/></g></svg>
+<path d="M245.0 50.0L245.0 260.0" fill="none" stroke="#3f7fb0" stroke-width="4" stroke-linecap="round" stroke-dasharray="9 7"/>
+<text x="230.0" y="160.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Back</text>
+<text x="490.0" y="100.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Light above</text>
+<path d="M485.0 95.0L350.0 100.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="350.0" cy="100.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="490.0" y="220.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Heavy low</text>
+<path d="M485.0 215.0L350.0 185.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="350.0" cy="185.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="320.0" y="335.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Packing order decides how the load sits.</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="170.0" y="30.0" width="300.0" height="270.0" rx="24" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="66.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#2b2620">Phone</text>
+<rect x="210.0" y="102.0" width="220.0" height="56.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="135.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Device lock</text>
+<path d="M190.0 180.0L450.0 180.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-dasharray="9 7"/>
+<rect x="210.0" y="202.0" width="220.0" height="56.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="235.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Account protection</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Two independent layers.</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="150.0" y="23.0" width="300.0" height="46.0" rx="12" fill="#b9ab8f" stroke="#2b2620" stroke-width="3"/>
+<text x="300.0" y="51.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#2b2620">Handover card</text>
+<rect x="150.0" y="95.0" width="300.0" height="50.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="300.0" y="125.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Patient needs</text>
+<path d="M300.0 145.0L300.0 165.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<rect x="150.0" y="165.0" width="300.0" height="50.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="300.0" y="195.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Due times</text>
+<path d="M300.0 215.0L300.0 235.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<rect x="150.0" y="235.0" width="300.0" height="50.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="300.0" y="265.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Recent changes</text>
+<svg x="470.0" y="200.0" width="110.0" height="82.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 12L128 60L80 108L32 60Z" fill="#f2c14e"/><path d="M80 26L114 60L80 94L46 60Z" stroke-width="2"/><path d="M80 42V64" stroke-width="7"/><circle cx="80" cy="77" r="4.5" fill="#2b2620" stroke="none"/></g></svg>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">The card lists what changed, not only the routine.</text>
+</svg>

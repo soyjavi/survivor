@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="120.0" y="24.0" width="400.0" height="48.0" rx="10" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="150.0" y="55.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Cover</text>
+<circle cx="490.0" cy="48.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M483.7 48.0L488.6 52.9L497.0 42.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="120.0" y="84.0" width="400.0" height="48.0" rx="10" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="150.0" y="115.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Distance from waste</text>
+<circle cx="490.0" cy="108.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M483.7 108.0L488.6 112.9L497.0 102.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="120.0" y="144.0" width="400.0" height="48.0" rx="10" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="150.0" y="175.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Apron</text>
+<circle cx="490.0" cy="168.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M483.7 168.0L488.6 172.9L497.0 162.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="120.0" y="204.0" width="400.0" height="48.0" rx="10" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="150.0" y="235.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Drainage slope</text>
+<circle cx="490.0" cy="228.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M483.7 228.0L488.6 232.9L497.0 222.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="120.0" y="264.0" width="400.0" height="48.0" rx="10" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="150.0" y="295.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Test</text>
+<circle cx="490.0" cy="288.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M483.7 288.0L488.6 292.9L497.0 282.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="70.0" y="50.0" width="230.0" height="172.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M64 86L94 76L112 98" stroke-width="13"/><path d="M62 54L84 70L96 74" stroke-width="13"/><path d="M60 50L62 84" stroke-width="22"/><circle cx="58" cy="30" r="11" fill="#ffffff"/><path d="M64 86L94 76L112 98" stroke-width="7" stroke="#ffffff"/><path d="M62 54L84 70L96 74" stroke-width="7" stroke="#ffffff"/><path d="M60 50L62 84" stroke-width="16" stroke="#ffffff"/><path d="M28 104H132"/></g></svg>
+<svg x="370.0" y="60.0" width="150.0" height="112.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M74 20A6 6 0 0 1 86 20V74A15 15 0 1 1 74 74Z" fill="#ffffff"/><path d="M80 40V84" stroke-width="6" stroke="#c4432f"/><circle cx="80" cy="87" r="9" fill="#c4432f"/><path d="M92 30H98M92 42H98M92 54H98M92 66H98" stroke-width="2"/></g></svg>
+<path d="M375.0 150.0L252.0 159.1" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="240.0,160.0 251.4,151.1 252.6,167.1" fill="#2b2620"/>
+<path d="M100.0 290.0L190.0 185.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="190.0" cy="185.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="30.0" y="316.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Arm against chest</text>
+<text x="440.0" y="55.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Under arm</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">The arm stays closed so the reading holds steady.</text>
+</svg>

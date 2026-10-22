@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360">
+<rect x="0" y="0" width="640" height="360" fill="#ffffff" stroke="none"/>
+<g fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="260" cy="190" r="120"/>
+<line x1="260" y1="190" x2="260.0" y2="70.0"/>
+<line x1="260" y1="190" x2="363.92304845413264" y2="250.0"/>
+<line x1="260" y1="190" x2="156.07695154586736" y2="250.0"/>
+<line x1="260" y1="190" x2="295.0" y2="129.3782217350893"/>
+<polyline points="294.1,141.3 295.0,129.4 285.1,136.1"/>
+<text x="260" y="40" font-size="16" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Cold: wait longest</text>
+<text x="470" y="190" font-size="16" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Cool: wait longer</text>
+<text x="50" y="190" font-size="16" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Warm: label time</text>
+<text x="260" y="340" font-size="15" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Water temperature setting</text>
+</g>
+</svg>

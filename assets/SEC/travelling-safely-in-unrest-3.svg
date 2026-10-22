@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="47.5" y="80.0" width="150.0" height="112.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="36" fill="#2b2620"/><text x="80" y="76" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="46" font-weight="800" text-anchor="middle" fill="#ffffff" stroke="none">1</text></g></svg>
+<text x="122.5" y="218.5" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Stop calmly</text>
+<path d="M201.5 136.2L229.0 136.2" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="241.0,136.2 229.0,144.2 229.0,128.2" fill="#2b2620"/>
+<svg x="245.0" y="80.0" width="150.0" height="112.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="36" fill="#2b2620"/><text x="80" y="76" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="46" font-weight="800" text-anchor="middle" fill="#ffffff" stroke="none">2</text></g></svg>
+<text x="320.0" y="218.5" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Hands visible</text>
+<path d="M399.0 136.2L426.5 136.2" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="438.5,136.2 426.5,144.2 426.5,128.2" fill="#2b2620"/>
+<svg x="442.5" y="80.0" width="150.0" height="112.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="36" fill="#2b2620"/><text x="80" y="76" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="46" font-weight="800" text-anchor="middle" fill="#ffffff" stroke="none">3</text></g></svg>
+<text x="517.5" y="218.5" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Show ID</text>
+<text x="320.0" y="320.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Hands are seen first, before any movement.</text>
+</svg>

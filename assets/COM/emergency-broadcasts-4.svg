@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="190.0" y="20.0" width="220.0" height="40.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="300.0" y="45.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Note the time</text>
+<circle cx="150.0" cy="40.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M143.7 40.0L148.6 44.9L157.0 34.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="190.0" y="72.0" width="220.0" height="40.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="300.0" y="97.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Note the area</text>
+<circle cx="150.0" cy="92.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M143.7 92.0L148.6 96.9L157.0 86.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="190.0" y="124.0" width="220.0" height="40.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="300.0" y="149.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Act</text>
+<circle cx="150.0" cy="144.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M143.7 144.0L148.6 148.9L157.0 138.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="190.0" y="176.0" width="220.0" height="40.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="300.0" y="201.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Tell neighbours</text>
+<circle cx="150.0" cy="196.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M143.7 196.0L148.6 200.9L157.0 190.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="190.0" y="228.0" width="220.0" height="40.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="300.0" y="253.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Keep listening</text>
+<circle cx="150.0" cy="248.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M143.7 248.0L148.6 252.9L157.0 242.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M412 248H470V140H412" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M412 140L420 140" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="410.0,140.0 422.0,132.0 422.0,148.0" fill="#2b2620"/>
+<text x="480.0" y="190.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#2b2620"><tspan x="480.0" dy="0.0">Updates</tspan><tspan x="480.0" dy="18.0">arrive</tspan></text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="200.0" y="40.0" width="240.0" height="180.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M24 12H54V108H24ZM106 12H136V108H106Z" fill="#d9906f"/><path d="M24 28H54M24 44H54M24 60H54M24 76H54M24 92H54M106 28H136M106 44H136M106 60H136M106 76H136M106 92H136M38 12V28M40 44V60M36 76V92M120 12V28M122 44V60M118 76V92" stroke-width="2"/><path d="M66 12H94V108H66Z" fill="#dfe4e6"/><path d="M66 20H94M66 28H94M66 36H94M66 44H94M66 52H94M66 60H94M66 68H94M66 76H94M66 84H94M66 92H94M66 100H94" stroke-width="2" stroke="#b3bec4"/><path d="M66 12H94V108H66Z"/><path d="M80 40V18" stroke-width="2" stroke="#4a4036"/><path d="M80.0 12.0 L85.0 20.0 L75.0 20.0Z" fill="#4a4036" stroke="#4a4036"/></g></svg>
+<path d="M60.0 190.0L220.0 190.0" fill="none" stroke="#3f7fb0" stroke-width="4" stroke-linecap="round"/>
+<polygon points="232.0,190.0 220.0,198.0 220.0,182.0" fill="#3f7fb0"/>
+<text x="60.0" y="172.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#3f7fb0">Cold air in</text>
+<path d="M430.0 200.0L430.0 72.0" fill="none" stroke="#c4432f" stroke-width="4" stroke-linecap="round"/>
+<polygon points="430.0,60.0 438.0,72.0 422.0,72.0" fill="#c4432f"/>
+<text x="445.0" y="120.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#c4432f">Warm air rises</text>
+<svg x="520.0" y="170.0" width="100.0" height="75.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M74 20A6 6 0 0 1 86 20V74A15 15 0 1 1 74 74Z" fill="#ffffff"/><path d="M80 40V84" stroke-width="6" stroke="#c4432f"/><circle cx="80" cy="87" r="9" fill="#c4432f"/><path d="M92 30H98M92 42H98M92 54H98M92 66H98" stroke-width="2"/></g></svg>
+<text x="320.0" y="336.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">A cold flue draws poorly.</text>
+</svg>

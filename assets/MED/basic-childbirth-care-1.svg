@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="35.0" y="138.0" width="110.0" height="44.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="90.0" y="165.9" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">baby</text>
+<path d="M145.0 160.0L610.0 160.0" fill="none" stroke="#b9ab8f" stroke-width="6" stroke-linecap="round"/>
+<svg x="270.0" y="125.0" width="100.0" height="75.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M14 86C50 86 70 82 84 58C96 36 70 22 60 40" stroke-width="12"/><path d="M14 86C50 86 70 82 84 58C96 36 70 22 60 40" stroke-width="6" stroke="#d9b77a"/><path d="M60 40C52 56 80 74 96 78C112 82 128 78 146 70" stroke-width="12"/><path d="M60 40C52 56 80 74 96 78C112 82 128 78 146 70" stroke-width="6" stroke="#d9b77a"/></g></svg>
+<svg x="400.0" y="125.0" width="100.0" height="75.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M14 86C50 86 70 82 84 58C96 36 70 22 60 40" stroke-width="12"/><path d="M14 86C50 86 70 82 84 58C96 36 70 22 60 40" stroke-width="6" stroke="#d9b77a"/><path d="M60 40C52 56 80 74 96 78C112 82 128 78 146 70" stroke-width="12"/><path d="M60 40C52 56 80 74 96 78C112 82 128 78 146 70" stroke-width="6" stroke="#d9b77a"/></g></svg>
+<text x="320.0" y="230.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">tie one</text>
+<text x="450.0" y="230.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">tie two</text>
+<path d="M150.0 270.0L248.0 270.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="260.0,270.0 248.0,278.0 248.0,262.0" fill="#2b2620"/>
+<path d="M260.0 270.0L162.0 270.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="150.0,270.0 162.0,262.0 162.0,278.0" fill="#2b2620"/>
+<text x="205.0" y="300.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">away from the baby</text>
+<text x="320.0" y="346.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">The cord is tied in two places.</text>
+</svg>

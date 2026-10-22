@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="20.0" y="20.0" width="110.0" height="82.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M38 34H122A26 26 0 0 1 122 86H38A26 26 0 0 1 38 34Z" fill="#ffffff"/><circle cx="40" cy="60" r="8" fill="#2b2620"/><path d="M58 60H118" stroke-width="6" stroke="#b9ab8f"/></g></svg>
+<svg x="510.0" y="20.0" width="110.0" height="82.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M38 34H122A26 26 0 0 1 122 86H38A26 26 0 0 1 38 34Z" fill="#ffffff"/><circle cx="40" cy="60" r="8" fill="#2b2620"/><path d="M58 60H118" stroke-width="6" stroke="#b9ab8f"/></g></svg>
+<text x="140.0" y="70.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Exit</text>
+<text x="500.0" y="70.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Exit</text>
+<path d="M70.0 150.0L70.0 320.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<path d="M570.0 150.0L570.0 320.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<path d="M70.0 300.0L70.0 182.0" fill="none" stroke="#5f8436" stroke-width="3" stroke-linecap="round"/>
+<polygon points="70.0,170.0 78.0,182.0 62.0,182.0" fill="#5f8436"/>
+<path d="M70.0 160.0L112.3 109.2" fill="none" stroke="#5f8436" stroke-width="3" stroke-linecap="round"/>
+<polygon points="120.0,100.0 118.5,114.3 106.2,104.1" fill="#5f8436"/>
+<path d="M570.0 300.0L570.0 182.0" fill="none" stroke="#5f8436" stroke-width="3" stroke-linecap="round"/>
+<polygon points="570.0,170.0 578.0,182.0 562.0,182.0" fill="#5f8436"/>
+<path d="M570.0 160.0L527.7 109.2" fill="none" stroke="#5f8436" stroke-width="3" stroke-linecap="round"/>
+<polygon points="520.0,100.0 533.8,104.1 521.5,114.3" fill="#5f8436"/>
+<text x="86.0" y="312.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Edge lane</text>
+<rect x="220.0" y="195.0" width="200.0" height="70.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="235.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Dense centre</text>
+<svg x="270.0" y="100.0" width="100.0" height="75.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 12L128 60L80 108L32 60Z" fill="#f2c14e"/><path d="M80 26L114 60L80 94L46 60Z" stroke-width="2"/><path d="M80 42V64" stroke-width="7"/><circle cx="80" cy="77" r="4.5" fill="#2b2620" stroke="none"/></g></svg>
+<text x="320.0" y="345.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Move along the edge, never against the flow.</text>
+</svg>

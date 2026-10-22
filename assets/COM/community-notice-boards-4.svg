@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<text x="150.0" y="40.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#2b2620">Before</text>
+<rect x="40.0" y="60.0" width="220.0" height="44.0" rx="0" fill="#b3bec4" stroke="#2b2620" stroke-width="3" stroke-dasharray="6 5"/>
+<rect x="40.0" y="112.0" width="220.0" height="44.0" rx="0" fill="#b3bec4" stroke="#2b2620" stroke-width="3" stroke-dasharray="6 5"/>
+<rect x="40.0" y="164.0" width="220.0" height="44.0" rx="0" fill="#b3bec4" stroke="#2b2620" stroke-width="3" stroke-dasharray="6 5"/>
+<rect x="40.0" y="216.0" width="220.0" height="44.0" rx="0" fill="#b3bec4" stroke="#2b2620" stroke-width="3" stroke-dasharray="6 5"/>
+<circle cx="150.0" cy="290.0" r="16" fill="#c4432f" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M143.6 283.6L156.4 296.4M156.4 283.6L143.6 296.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M285.0 170.0L333.0 170.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="345.0,170.0 333.0,178.0 333.0,162.0" fill="#2b2620"/>
+<text x="490.0" y="40.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#2b2620">After</text>
+<rect x="380.0" y="60.0" width="220.0" height="44.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="400.0" y="88.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#2b2620">Date</text>
+<rect x="380.0" y="112.0" width="220.0" height="44.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="400.0" y="140.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#2b2620">Date</text>
+<rect x="380.0" y="164.0" width="220.0" height="44.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="400.0" y="192.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#2b2620">Date</text>
+<rect x="380.0" y="216.0" width="220.0" height="44.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="400.0" y="244.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#2b2620">Date</text>
+<svg x="460.0" y="258.0" width="60.0" height="45.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="40" fill="#5f8436"/><path d="M60 62L75 77L102 46" stroke-width="9" stroke="#ffffff"/></g></svg>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Refreshing is a daily removal step.</text>
+</svg>

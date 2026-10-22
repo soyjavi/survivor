@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="200.0" y="30.0" width="160.0" height="56.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="380.0" y="64.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Morning check</text>
+<rect x="200.0" y="86.0" width="160.0" height="56.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="380.0" y="120.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Short messages</text>
+<rect x="200.0" y="142.0" width="160.0" height="70.0" rx="0" fill="#f6b84b" stroke="#2b2620" stroke-width="3"/>
+<text x="380.0" y="183.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">One reserve call</text>
+<rect x="200.0" y="212.0" width="160.0" height="100.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="380.0" y="268.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">The rest saved</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">The reserve is a fixed slice, not what is left over.</text>
+</svg>

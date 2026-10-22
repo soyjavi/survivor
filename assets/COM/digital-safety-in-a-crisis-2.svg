@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="5.0" y="80.0" width="150.0" height="112.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="40" fill="#3f7fb0"/><circle cx="80" cy="38" r="5.5" fill="#ffffff" stroke="none"/><path d="M80 54V84" stroke-width="9" stroke="#ffffff"/></g></svg>
+<text x="80.0" y="215.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="80.0" dy="0.0">Suspicious</tspan><tspan x="80.0" dy="19.2">message</tspan></text>
+<path d="M125.0 150.0L178.0 150.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="190.0,150.0 178.0,158.0 178.0,142.0" fill="#2b2620"/>
+<svg x="175.0" y="90.0" width="120.0" height="90.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="40" fill="#c4432f"/><path d="M64 44L96 76M96 44L64 76" stroke-width="9" stroke="#ffffff"/></g></svg>
+<text x="235.0" y="215.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Stop</text>
+<path d="M285.0 150.0L318.0 150.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="330.0,150.0 318.0,158.0 318.0,142.0" fill="#2b2620"/>
+<svg x="305.0" y="70.0" width="160.0" height="120.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><clipPath id="COM-digital-safety-in-a-crisis-2-2-c50"><path d="M62 12H98Q106 12 106 20V100Q106 108 98 108H62Q54 108 54 100V20Q54 12 62 12Z"/></clipPath><path d="M62 12H98Q106 12 106 20V100Q106 108 98 108H62Q54 108 54 100V20Q54 12 62 12Z" fill="#4a4036" stroke="none"/><rect x="98" y="0" width="62" height="120" fill="#2b2620" stroke="none" clip-path="url(#COM-digital-safety-in-a-crisis-2-2-c50)"/><path d="M62 12H98Q106 12 106 20V100Q106 108 98 108H62Q54 108 54 100V20Q54 12 62 12Z"/><path d="M60 22H100V92H60Z" fill="#bfdaec" stroke-width="2"/><text x="80" y="66" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="800" text-anchor="middle" fill="#c4432f" stroke="none">SOS</text><path d="M68 40V36M74 40V32M80 40V28" stroke-width="3"/><circle cx="80" cy="100" r="3" fill="#ffffff" stroke="none"/></g></svg>
+<text x="385.0" y="215.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Verify call</text>
+<path d="M440.0 150.0L483.0 150.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="495.0,150.0 483.0,158.0 483.0,142.0" fill="#2b2620"/>
+<rect x="510.0" y="118.0" width="110.0" height="64.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="565.0" y="146.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="565.0" dy="0.0">Authority's</tspan><tspan x="565.0" dy="19.2">list</tspan></text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Call the authority's own number, not the one in the message.</text>
+</svg>

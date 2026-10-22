@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="200.0" y="120.0" width="240.0" height="90.0" rx="14" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="172.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#2b2620">spacer chamber</text>
+<rect x="25.0" y="43.0" width="150.0" height="34.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="100.0" y="65.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">inhaler slot</text>
+<path d="M100.0 78.0L204.0 134.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="204.0" cy="134.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<rect x="465.0" y="43.0" width="150.0" height="34.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="540.0" y="65.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">mask seal</text>
+<path d="M540.0 78.0L436.0 134.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="436.0" cy="134.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<path d="M230.0 260.0L398.0 260.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="410.0,260.0 398.0,268.0 398.0,252.0" fill="#2b2620"/>
+<text x="320.0" y="290.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">dose</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">The dose stays in the chamber when the seal is tight.</text>
+</svg>

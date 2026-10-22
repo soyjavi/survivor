@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="270.0" y="137.0" width="100.0" height="75.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M16 60H144" stroke-width="30"/><path d="M16 60H144" stroke-width="24" stroke="#ffffff"/><path d="M20 67H140" stroke-width="6" stroke="#e6d9bd"/><ellipse cx="80" cy="60" rx="30" ry="14" stroke-width="2" stroke="#c4432f" stroke-dasharray="5 5"/><circle cx="72" cy="60" r="3.5" fill="#c4432f" stroke-width="2"/><circle cx="88" cy="60" r="3.5" fill="#c4432f" stroke-width="2"/></g></svg>
+<path d="M258 175a62 62 0 1 0 124 0a62 62 0 1 0 -124 0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="9 8"/>
+<path d="M222 175a98 98 0 1 0 196 0a98 98 0 1 0 -196 0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="9 8"/>
+<path d="M320.0 211.0L320.0 245.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="320.0,257.0 312.0,245.0 328.0,245.0" fill="#2b2620"/>
+<path d="M170.0 175.0L274.0 175.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="274.0" cy="175.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="164.0" y="181.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Bite site</text>
+<path d="M466.0 96.0L389.0 106.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="389.0" cy="106.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="472.0" y="102.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Expanding ring</text>
+<text x="320.0" y="346.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">The rash grows outward from the bite site.</text>
+</svg>

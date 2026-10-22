@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<path d="M30.0 250.0L610.0 250.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<circle cx="90.0" cy="250.0" r="9" fill="#f6b84b" stroke="#2b2620" stroke-width="3"/>
+<rect x="30.0" y="24.0" width="120.0" height="40.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="90.0" y="49.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Morning</text>
+<path d="M90.0 64.0L90.0 241.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 7"/>
+<circle cx="240.0" cy="250.0" r="9" fill="#f6b84b" stroke="#2b2620" stroke-width="3"/>
+<rect x="180.0" y="24.0" width="120.0" height="40.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="240.0" y="49.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Midday</text>
+<path d="M240.0 64.0L240.0 241.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 7"/>
+<circle cx="400.0" cy="250.0" r="9" fill="#f6b84b" stroke="#2b2620" stroke-width="3"/>
+<rect x="340.0" y="24.0" width="120.0" height="40.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="400.0" y="49.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Afternoon</text>
+<path d="M400.0 64.0L400.0 241.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 7"/>
+<circle cx="550.0" cy="250.0" r="9" fill="#f6b84b" stroke="#2b2620" stroke-width="3"/>
+<rect x="490.0" y="24.0" width="120.0" height="40.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="550.0" y="49.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Evening</text>
+<path d="M550.0 64.0L550.0 241.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 7"/>
+<svg x="180.0" y="90.0" width="120.0" height="90.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M54 108Q66 64 98 22" stroke-width="13"/><path d="M54 108Q66 64 98 22" stroke-width="7" stroke="#c08f5a"/><clipPath id="PSY-daily-structure-1-0-c34"><path d="M86 14L114 22Q130 34 130 62Q116 48 100 46L84 40Z"/></clipPath><path d="M86 14L114 22Q130 34 130 62Q116 48 100 46L84 40Z" fill="#dfe4e6" stroke="none"/><rect x="114" y="0" width="46" height="120" fill="#b3bec4" stroke="none" clip-path="url(#PSY-daily-structure-1-0-c34)"/><path d="M86 14L114 22Q130 34 130 62Q116 48 100 46L84 40Z"/><path d="M116 26Q126 38 126 56" stroke-width="2"/></g></svg>
+<text x="240.0" y="292.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Heavy work</text>
+<svg x="335.0" y="85.0" width="130.0" height="97.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M64 86L94 76L112 98" stroke-width="13"/><path d="M62 54L84 70L96 74" stroke-width="13"/><path d="M60 50L62 84" stroke-width="22"/><circle cx="58" cy="30" r="11" fill="#ffffff"/><path d="M64 86L94 76L112 98" stroke-width="7" stroke="#ffffff"/><path d="M62 54L84 70L96 74" stroke-width="7" stroke="#ffffff"/><path d="M60 50L62 84" stroke-width="16" stroke="#ffffff"/><path d="M28 104H132"/></g></svg>
+<text x="400.0" y="292.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Rest</text>
+<text x="320.0" y="336.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Heavy work sits at midday, rest in the afternoon.</text>
+</svg>

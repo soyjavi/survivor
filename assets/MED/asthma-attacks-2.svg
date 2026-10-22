@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="16.0" y="90.0" width="590.0" height="44.0" rx="8" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="231.0" y="119.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff">mild</text>
+<text x="381.0" y="119.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff">moderate</text>
+<text x="531.0" y="119.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff">severe</text>
+<rect x="16.0" y="134.0" width="590.0" height="44.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="28.0" y="163.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">speech</text>
+<rect x="16.0" y="178.0" width="590.0" height="44.0" rx="0" fill="#f5f1e8" stroke="#2b2620" stroke-width="3"/>
+<text x="28.0" y="207.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">breathing rate</text>
+<rect x="16.0" y="222.0" width="590.0" height="44.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="28.0" y="251.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">lip colour</text>
+<rect x="16.0" y="266.0" width="590.0" height="44.0" rx="0" fill="#f5f1e8" stroke="#2b2620" stroke-width="3"/>
+<text x="28.0" y="295.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">action</text>
+<path d="M156.0 90.0L156.0 310.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M306.0 90.0L306.0 310.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M456.0 90.0L456.0 310.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<text x="531.0" y="163.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#c4432f">1-2 words</text>
+<svg x="496.0" y="8.0" width="80.0" height="60.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 12L128 60L80 108L32 60Z" fill="#f2c14e"/><path d="M80 26L114 60L80 94L46 60Z" stroke-width="2"/><path d="M80 42V64" stroke-width="7"/><circle cx="80" cy="77" r="4.5" fill="#2b2620" stroke="none"/></g></svg>
+<text x="320.0" y="346.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">One or two words at a time: call for help now.</text>
+</svg>

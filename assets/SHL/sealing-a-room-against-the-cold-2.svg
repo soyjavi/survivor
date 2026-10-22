@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="150.0" y="20.0" width="300.0" height="225.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><clipPath id="SHL-sealing-a-room-against-the-cold-2-0-c66"><path d="M28 30Q60 22 90 30T136 34L128 92Q96 100 66 94T26 96Z"/></clipPath><path d="M28 30Q60 22 90 30T136 34L128 92Q96 100 66 94T26 96Z" fill="#f1ead8" stroke="none"/><rect x="104" y="0" width="56" height="120" fill="#e6d9bd" stroke="none" clip-path="url(#SHL-sealing-a-room-against-the-cold-2-0-c66)"/><path d="M28 30Q60 22 90 30T136 34L128 92Q96 100 66 94T26 96Z"/><path d="M50 34Q56 64 48 94M88 32Q82 62 92 96M112 36Q118 60 108 94" stroke-width="2"/></g></svg>
+<svg x="230.0" y="190.0" width="100.0" height="75.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M24 96C24 26 128 22 128 84"/><path d="M128.0 98.0 L121.0 84.0 L135.0 84.0Z" fill="#2b2620" stroke="#2b2620"/></g></svg>
+<text x="345.0" y="240.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Warm air trapped</text>
+<path d="M415.0 70.0L468.0 70.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="480.0,70.0 468.0,78.0 468.0,62.0" fill="#2b2620"/>
+<text x="490.0" y="76.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Top gap</text>
+<path d="M190.0 215.0L142.0 215.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="130.0,215.0 142.0,207.0 142.0,223.0" fill="#2b2620"/>
+<text x="160.0" y="245.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Side gap</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Do not seal every gap.</text>
+</svg>

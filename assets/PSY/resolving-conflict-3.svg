@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="20.0" y="50.0" width="340.0" height="255.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M24 26H136Q146 26 146 36V84Q146 94 136 94H24Q14 94 14 84V36Q14 26 24 26Z" fill="#ffffff"/><circle cx="34" cy="46" r="9" fill="#2b2620" stroke="#2b2620"/><path d="M52 46H124" stroke-width="6" stroke="#b9ab8f"/><path d="M34 66H124" stroke-width="4" stroke="#b9ab8f"/><path d="M34 78H100" stroke-width="4" stroke="#b9ab8f"/></g></svg>
+<text x="400.0" y="140.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#2b2620">One agreed change</text>
+<path d="M395.0 134.0L300.0 134.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="300.0" cy="134.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<svg x="420.0" y="190.0" width="100.0" height="75.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M50 40V106" stroke-width="2" stroke-dasharray="6 6"/><circle cx="50" cy="28" r="11" fill="#f6b84b"/><circle cx="50" cy="28" r="4" fill="#2b2620" stroke="none"/><path d="M72 22H132" stroke-width="6" stroke="#b9ab8f"/><path d="M72 38H116" stroke-width="4" stroke="#b9ab8f"/></g></svg>
+<text x="410.0" y="292.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Check-by date</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">One change with a date, not a full settlement.</text>
+</svg>

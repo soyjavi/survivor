@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="100.0" y="14.0" width="440.0" height="330.0" rx="14" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<rect x="100.0" y="14.0" width="440.0" height="52.0" rx="14" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="130.0" y="48.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff">Before you finish</text>
+<circle cx="135.0" cy="106.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M128.7 106.0L133.6 110.9L142.0 100.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="165.0" y="112.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#2b2620">Problem</text>
+<path d="M340.0 118.0L510.0 118.0" fill="none" stroke="#b9ab8f" stroke-width="4" stroke-linecap="round"/>
+<circle cx="135.0" cy="156.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M128.7 156.0L133.6 160.9L142.0 150.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="165.0" y="162.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#2b2620">Urgency</text>
+<path d="M340.0 168.0L510.0 168.0" fill="none" stroke="#b9ab8f" stroke-width="4" stroke-linecap="round"/>
+<circle cx="135.0" cy="206.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M128.7 206.0L133.6 210.9L142.0 200.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="165.0" y="212.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#2b2620">Source contacted</text>
+<path d="M340.0 218.0L510.0 218.0" fill="none" stroke="#b9ab8f" stroke-width="4" stroke-linecap="round"/>
+<circle cx="135.0" cy="256.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M128.7 256.0L133.6 260.9L142.0 250.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="165.0" y="262.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#2b2620">Thanks given</text>
+<path d="M340.0 268.0L510.0 268.0" fill="none" stroke="#b9ab8f" stroke-width="4" stroke-linecap="round"/>
+<circle cx="135.0" cy="306.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M128.7 306.0L133.6 310.9L142.0 300.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="165.0" y="312.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#2b2620">Request note</text>
+<path d="M340.0 318.0L510.0 318.0" fill="none" stroke="#b9ab8f" stroke-width="4" stroke-linecap="round"/>
+</svg>

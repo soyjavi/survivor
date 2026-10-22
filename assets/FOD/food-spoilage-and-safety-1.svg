@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="250.0" y="118.0" width="260.0" height="112.0" rx="0" fill="#f9e3b4" stroke="#f9e3b4" stroke-width="1"/>
+<path d="M250.0 60.0L250.0 310.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<svg x="55.0" y="90.0" width="150.0" height="190.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M74 20A6 6 0 0 1 86 20V74A15 15 0 1 1 74 74Z" fill="#ffffff"/><path d="M80 40V84" stroke-width="6" stroke="#c4432f"/><circle cx="80" cy="87" r="9" fill="#c4432f"/><path d="M92 30H98M92 42H98M92 54H98M92 66H98" stroke-width="2"/></g></svg>
+<path d="M250.0 118.0L510.0 118.0" fill="none" stroke="#c4432f" stroke-width="3" stroke-linecap="round" stroke-dasharray="9 7"/>
+<path d="M250.0 230.0L510.0 230.0" fill="none" stroke="#3f7fb0" stroke-width="3" stroke-linecap="round" stroke-dasharray="9 7"/>
+<text x="240.0" y="123.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">60 °C</text>
+<text x="240.0" y="235.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">5 °C</text>
+<text x="530.0" y="80.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Cooked above</text>
+<text x="530.0" y="180.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Danger zone</text>
+<text x="530.0" y="280.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Below</text>
+<path d="M300.0 100.0L300.0 62.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="300.0,50.0 308.0,62.0 292.0,62.0" fill="#2b2620"/>
+<path d="M300.0 250.0L300.0 288.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="300.0,300.0 292.0,288.0 308.0,288.0" fill="#2b2620"/>
+</svg>

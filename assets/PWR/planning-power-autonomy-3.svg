@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="250.0" y="120.0" width="110.0" height="40.0" rx="4" fill="#f6b84b" stroke="#2b2620" stroke-width="3"/>
+<rect x="250.0" y="160.0" width="110.0" height="150.0" rx="4" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="305.0" y="232.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="305.0" dy="0.0">Usable</tspan><tspan x="305.0" dy="19.2">6,000 Wh</tspan></text>
+<path d="M372 120H382V160H372" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="395.0" y="146.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Loss 1,500 Wh</text>
+<path d="M236 120H226V310H236" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="216.0" y="205.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="216.0" dy="0.0">Nominal</tspan><tspan x="216.0" dy="19.2">7,500 Wh</tspan></text>
+<path d="M110.0 312.0L530.0 312.0" fill="none" stroke="#2b2620" stroke-width="5" stroke-linecap="round"/>
+<text x="320.0" y="345.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Losses are a fifth of nominal capacity.</text>
+</svg>

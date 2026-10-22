@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="130.0" y="16.0" width="380.0" height="285.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M22 30L60 20L100 30L138 20V90L100 100L60 90L22 100Z" fill="#f3ead4"/><path d="M60 20L100 30V100L60 90Z" fill="#e6d9bd" stroke="none"/><path d="M22 30L60 20L100 30L138 20V90L100 100L60 90L22 100ZM60 20V90M100 30V100"/><path d="M30 82Q46 60 64 66T96 52T126 40" stroke-width="3" stroke="#c4432f" stroke-dasharray="6 5"/><path d="M120 34L132 46M132 34L120 46" stroke-width="3" stroke="#c4432f"/><path d="M30 46Q42 40 52 46M106 76Q118 70 130 76" stroke-width="2" stroke="#5f8436"/></g></svg>
+<path d="M200.0 150.0L450.0 150.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<circle cx="215.0" cy="150.0" r="16" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="215.0" y="155.8" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17.6" font-weight="800" fill="#ffffff">1</text>
+<circle cx="270.0" cy="150.0" r="16" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="270.0" y="155.8" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17.6" font-weight="800" fill="#ffffff">2</text>
+<circle cx="325.0" cy="150.0" r="16" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="325.0" y="155.8" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17.6" font-weight="800" fill="#ffffff">3</text>
+<circle cx="380.0" cy="150.0" r="16" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="380.0" y="156.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">4</text>
+<circle cx="435.0" cy="150.0" r="16" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="435.0" y="156.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">5</text>
+<svg x="80.0" y="290.0" width="130.0" height="97.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 60H60"/><path d="M76 60H140" stroke-width="6" stroke="#b9ab8f"/></g></svg>
+<text x="228.0" y="343.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Visited</text>
+<svg x="340.0" y="290.0" width="130.0" height="97.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 60H60" stroke-dasharray="10 7"/><path d="M76 60H140" stroke-width="6" stroke="#b9ab8f"/></g></svg>
+<text x="488.0" y="343.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Not yet</text>
+</svg>

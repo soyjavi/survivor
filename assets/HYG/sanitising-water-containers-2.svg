@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="200.0" y="50.0" width="240.0" height="180.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M62 32V22H98V32" stroke-width="12"/><path d="M62 32V22H98V32" stroke-width="6" stroke="#ffffff"/><path d="M108 30L112 16H124L126 30Z" fill="#c4432f"/><clipPath id="HYG-sanitising-water-containers-2-0-c6"><path d="M48 30H116Q124 30 124 38V96Q124 104 116 104H48Q40 104 40 96V38Q40 30 48 30Z"/></clipPath><path d="M48 30H116Q124 30 124 38V96Q124 104 116 104H48Q40 104 40 96V38Q40 30 48 30Z" fill="#e6907a" stroke="none"/><rect x="106" y="0" width="54" height="120" fill="#cf6f58" stroke="none" clip-path="url(#HYG-sanitising-water-containers-2-0-c6)"/><path d="M48 30H116Q124 30 124 38V96Q124 104 116 104H48Q40 104 40 96V38Q40 30 48 30Z"/><path d="M52 42H112V92H52Z" stroke-width="2"/><path d="M56 46L108 88M108 46L56 88" stroke-width="2"/></g></svg>
+<svg x="292.0" y="140.0" width="56.0" height="42.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="40" fill="#5f8436"/><path d="M60 62L75 77L102 46" stroke-width="9" stroke="#ffffff"/></g></svg>
+<path d="M372.0 52.0L374.0 78.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="374.0" cy="78.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="372.0" y="40.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Cap sealed</text>
+<text x="510.0" y="191.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Inside clean</text>
+<path d="M505.0 186.0L344.0 172.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="344.0" cy="172.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<svg x="500.0" y="60.0" width="60.0" height="45.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 12C80 12 114 52 114 74A34 34 0 0 1 46 74C46 52 80 12 80 12Z" fill="#3f7fb0"/><path d="M62 72Q62 88 76 94" stroke-width="5" stroke="#ffffff"/></g></svg>
+<path d="M500.0 96.0L411.7 117.2" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="400.0,120.0 409.8,109.4 413.5,125.0" fill="#2b2620"/>
+<text x="560.0" y="56.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Rinse</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Check the seal at every refill.</text>
+</svg>

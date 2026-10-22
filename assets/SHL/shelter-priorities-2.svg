@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="30.0" y="60.0" width="250.0" height="187.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M12 96L148 32V104H12Z" fill="#e6d9bd" stroke="none"/><path d="M12 96L148 32"/><path d="M12 96H74" stroke-width="2" stroke-dasharray="6 5"/><path d="M48 96A36 36 0 0 0 44.6 80.8" stroke-width="2"/></g></svg>
+<path d="M90.0 100.0L134.8 194.2" fill="none" stroke="#3f7fb0" stroke-width="4" stroke-linecap="round"/>
+<polygon points="140.0,205.0 127.6,197.6 142.1,190.7" fill="#3f7fb0"/>
+<text x="80.0" y="90.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Cold air</text>
+<text x="120.0" y="270.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Hollow</text>
+<path d="M120.0 256.0L125.0 232.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="125.0" cy="232.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<svg x="360.0" y="60.0" width="250.0" height="187.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M12 96L148 32V104H12Z" fill="#e6d9bd" stroke="none"/><path d="M12 96L148 32"/><path d="M12 96H74" stroke-width="2" stroke-dasharray="6 5"/><path d="M48 96A36 36 0 0 0 44.6 80.8" stroke-width="2"/></g></svg>
+<path d="M350.0 110.0L558.0 110.0" fill="none" stroke="#3f7fb0" stroke-width="4" stroke-linecap="round"/>
+<polygon points="570.0,110.0 558.0,118.0 558.0,102.0" fill="#3f7fb0"/>
+<text x="440.0" y="98.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Wind</text>
+<text x="565.0" y="80.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Ridge</text>
+<path d="M570.0 88.0L590.0 108.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="590.0" cy="108.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<text x="320.0" y="36.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Tin</text>
+<rect x="170.0" y="50.0" width="300.0" height="250.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<rect x="200.0" y="61.0" width="240.0" height="38.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="85.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Strip</text>
+<rect x="200.0" y="109.0" width="240.0" height="38.0" rx="12" fill="#f5f1e8" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="133.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Salt</text>
+<rect x="200.0" y="157.0" width="240.0" height="38.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="181.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Strip</text>
+<rect x="200.0" y="205.0" width="240.0" height="38.0" rx="12" fill="#f5f1e8" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="229.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Salt</text>
+<rect x="200.0" y="253.0" width="240.0" height="38.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="277.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Strip</text>
+<text x="320.0" y="334.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Every strip sits in salt, so no surface is left unsalted.</text>
+</svg>

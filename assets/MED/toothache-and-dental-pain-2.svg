@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="25.0" y="102.0" width="150.0" height="56.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="100.0" y="135.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Sip</text>
+<path d="M178.0 130.0L230.0 130.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="242.0,130.0 230.0,138.0 230.0,122.0" fill="#2b2620"/>
+<rect x="245.0" y="102.0" width="150.0" height="56.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="135.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Swish gently</text>
+<path d="M398.0 130.0L450.0 130.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="462.0,130.0 450.0,138.0 450.0,122.0" fill="#2b2620"/>
+<rect x="465.0" y="102.0" width="150.0" height="56.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="540.0" y="135.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Spit</text>
+<path d="M480 160 C 480 250 160 250 160 162" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M160.0 190.0L160.0 172.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="160.0,160.0 168.0,172.0 152.0,172.0" fill="#2b2620"/>
+<text x="320.0" y="240.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Repeat</text>
+<rect x="170.0" y="280.0" width="300.0" height="40.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="305.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#c4432f">Never swallow the salt water</text>
+</svg>

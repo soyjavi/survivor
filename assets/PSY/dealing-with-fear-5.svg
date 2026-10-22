@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="10.0" y="70.0" width="240.0" height="180.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M56.8 28H103.2M55.0 48H105.0M53.2 68H106.8M51.4 88H108.6" stroke-width="10"/><path d="M56.8 28H103.2M55.0 48H105.0M53.2 68H106.8M51.4 88H108.6" stroke-width="4" stroke="#e6c99b"/><path d="M50 106L58 12" stroke-width="12"/><path d="M110 106L102 12" stroke-width="12"/><path d="M50 106L58 12" stroke-width="6" stroke="#c08f5a"/><path d="M110 106L102 12" stroke-width="6" stroke="#c08f5a"/></g></svg>
+<rect x="330.0" y="33.0" width="240.0" height="54.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="450.0" y="65.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Professional support</text>
+<path d="M450.0 126.0L450.0 102.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="450.0,90.0 458.0,102.0 442.0,102.0" fill="#2b2620"/>
+<text x="466.0" y="122.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Not helped?</text>
+<rect x="330.0" y="133.0" width="240.0" height="54.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="450.0" y="165.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Talk to someone</text>
+<path d="M450.0 226.0L450.0 202.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="450.0,190.0 458.0,202.0 442.0,202.0" fill="#2b2620"/>
+<text x="466.0" y="222.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Not helped?</text>
+<rect x="330.0" y="233.0" width="240.0" height="54.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="450.0" y="265.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Self-care</text>
+<text x="320.0" y="346.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Move up only when the step below has not helped.</text>
+</svg>

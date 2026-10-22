@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="245.0" y="14.0" width="150.0" height="44.0" rx="12" fill="#f6b84b" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="41.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#2b2620">Leader</text>
+<path d="M320.0 58.0L320.0 90.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<path d="M65.5 90.0L570.5 90.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<path d="M65.5 90.0L65.5 120.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<rect x="16.0" y="122.0" width="99.0" height="52.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="65.5" y="153.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#2b2620">Water</text>
+<path d="M65.5 174.0L65.5 210.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<rect x="25.5" y="216.0" width="80.0" height="40.0" rx="12" fill="#f5f1e8" stroke="#2b2620" stroke-width="3"/>
+<text x="65.5" y="241.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#2b2620">Deputy</text>
+<path d="M166.5 90.0L166.5 120.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<rect x="117.0" y="122.0" width="99.0" height="52.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="166.5" y="153.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#2b2620">Food</text>
+<path d="M166.5 174.0L166.5 210.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<rect x="126.5" y="216.0" width="80.0" height="40.0" rx="12" fill="#f5f1e8" stroke="#2b2620" stroke-width="3"/>
+<text x="166.5" y="241.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#2b2620">Deputy</text>
+<path d="M267.5 90.0L267.5 120.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<rect x="218.0" y="122.0" width="99.0" height="52.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="267.5" y="153.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#2b2620">Fire</text>
+<path d="M267.5 174.0L267.5 210.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<rect x="227.5" y="216.0" width="80.0" height="40.0" rx="12" fill="#f5f1e8" stroke="#2b2620" stroke-width="3"/>
+<text x="267.5" y="241.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#2b2620">Deputy</text>
+<path d="M368.5 90.0L368.5 120.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<rect x="319.0" y="122.0" width="99.0" height="52.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="368.5" y="153.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#2b2620">Medical</text>
+<path d="M368.5 174.0L368.5 210.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<rect x="328.5" y="216.0" width="80.0" height="40.0" rx="12" fill="#f5f1e8" stroke="#2b2620" stroke-width="3"/>
+<text x="368.5" y="241.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#2b2620">Deputy</text>
+<path d="M469.5 90.0L469.5 120.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<rect x="420.0" y="122.0" width="99.0" height="52.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="469.5" y="153.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#2b2620">Children</text>
+<path d="M469.5 174.0L469.5 210.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<rect x="429.5" y="216.0" width="80.0" height="40.0" rx="12" fill="#f5f1e8" stroke="#2b2620" stroke-width="3"/>
+<text x="469.5" y="241.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#2b2620">Deputy</text>
+<path d="M570.5 90.0L570.5 120.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<rect x="521.0" y="122.0" width="99.0" height="52.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="570.5" y="153.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#2b2620">Comms</text>
+<path d="M570.5 174.0L570.5 210.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<rect x="530.5" y="216.0" width="80.0" height="40.0" rx="12" fill="#f5f1e8" stroke="#2b2620" stroke-width="3"/>
+<text x="570.5" y="241.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#2b2620">Deputy</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">No role lacks a second name.</text>
+</svg>

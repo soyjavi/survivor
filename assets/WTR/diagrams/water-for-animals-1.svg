@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360">
+<rect x="0" y="0" width="640" height="360" fill="#ffffff" stroke="none"/>
+<g fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<rect x="40" y="80" width="170" height="150" rx="0"/>
+<text x="125" y="160" font-size="14" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">House and drinking tap</text>
+<line x1="260" y1="40" x2="260" y2="320"/>
+<text x="260" y="30" font-size="15" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Keep apart</text>
+<rect x="330" y="180" width="230" height="80" rx="6"/>
+<rect x="340" y="210" width="210" height="10" rx="0"/>
+<text x="445" y="290" font-size="15" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Animal water, labelled</text>
+<line x1="260" y1="230" x2="330" y2="230"/>
+<polyline points="319.2,235.2 330,230 319.2,224.8"/>
+</g>
+</svg>

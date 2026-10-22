@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360">
+<rect x="0" y="0" width="640" height="360" fill="#ffffff" stroke="none"/>
+<g fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<rect x="90" y="70" width="460" height="240" rx="0"/>
+<line x1="90" y1="130" x2="550" y2="130"/>
+<line x1="90" y1="190" x2="550" y2="190"/>
+<line x1="90" y1="250" x2="550" y2="250"/>
+<line x1="300" y1="70" x2="300" y2="310"/>
+<text x="195" y="106" font-size="16" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Water condition</text>
+<text x="425" y="106" font-size="16" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Bleach per litre</text>
+<text x="195" y="166" font-size="15" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Clear, room temperature</text>
+<text x="425" y="166" font-size="16" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">2 drops</text>
+<text x="195" y="226" font-size="15" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Cloudy or cold</text>
+<text x="425" y="226" font-size="16" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">4 drops</text>
+<text x="195" y="286" font-size="15" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Very cloudy</text>
+<text x="425" y="286" font-size="13" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Filter first, then cloudy dose</text>
+</g>
+</svg>

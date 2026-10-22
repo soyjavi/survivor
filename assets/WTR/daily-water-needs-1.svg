@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="200.0" y="50.0" width="200.0" height="36.0" rx="10" fill="#faf7f0" stroke="#2b2620" stroke-width="3" stroke-dasharray="8 6"/>
+<text x="300.0" y="75.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">+20%</text>
+<rect x="200.0" y="86.0" width="200.0" height="56.0" rx="10" fill="#b9ab8f" stroke="#2b2620" stroke-width="3"/>
+<text x="300.0" y="120.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Hygiene</text>
+<rect x="200.0" y="142.0" width="200.0" height="56.0" rx="10" fill="#b9ab8f" stroke="#2b2620" stroke-width="3"/>
+<text x="300.0" y="176.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Cooking</text>
+<rect x="200.0" y="198.0" width="200.0" height="86.0" rx="10" fill="#3f7fb0" stroke="#2b2620" stroke-width="3"/>
+<text x="300.0" y="247.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Drinking</text>
+<svg x="410.0" y="120.0" width="120.0" height="90.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M54 16Q42 16 42 28V48Q42 60 30 60Q42 60 42 72V92Q42 104 54 104"/><path d="M70 36H136" stroke-width="6" stroke="#b9ab8f"/><path d="M70 60H120" stroke-width="6" stroke="#b9ab8f"/><path d="M70 84H130" stroke-width="6" stroke="#b9ab8f"/></g></svg>
+<text x="520.0" y="190.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">3 litres</text>
+<svg x="262.0" y="6.0" width="60.0" height="45.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 12C80 12 114 52 114 74A34 34 0 0 1 46 74C46 52 80 12 80 12Z" fill="#3f7fb0"/><path d="M62 72Q62 88 76 94" stroke-width="5" stroke="#ffffff"/></g></svg>
+<text x="320.0" y="322.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Drinking is fixed, so washing is cut first.</text>
+</svg>

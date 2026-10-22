@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="16.0" y="30.0" width="606.0" height="44.0" rx="6" fill="#b9ab8f" stroke="#2b2620" stroke-width="3"/>
+<text x="94.0" y="58.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"></text>
+<text x="247.0" y="58.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Mild</text>
+<text x="397.0" y="58.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Moderate</text>
+<text x="547.0" y="58.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Severe</text>
+<rect x="16.0" y="74.0" width="606.0" height="44.0" rx="6" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="28.0" y="102.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Thirst</text>
+<rect x="16.0" y="118.0" width="606.0" height="44.0" rx="6" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="28.0" y="146.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Dizziness</text>
+<rect x="16.0" y="162.0" width="606.0" height="44.0" rx="6" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="28.0" y="190.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Sunken eyes</text>
+<rect x="16.0" y="206.0" width="606.0" height="44.0" rx="6" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="28.0" y="234.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">No tears</text>
+<rect x="16.0" y="250.0" width="606.0" height="44.0" rx="6" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="28.0" y="278.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Sleepiness</text>
+<path d="M172.0 30.0L172.0 294.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M322.0 30.0L322.0 294.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M472.0 30.0L472.0 294.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="247.0" cy="96.0" r="12" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M241.6 96.0L245.8 100.2L253.0 91.2" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="397.0" cy="96.0" r="12" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M391.6 96.0L395.8 100.2L403.0 91.2" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="547.0" cy="96.0" r="12" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M541.6 96.0L545.8 100.2L553.0 91.2" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="397.0" cy="140.0" r="12" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M391.6 140.0L395.8 144.2L403.0 135.2" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="547.0" cy="140.0" r="12" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M541.6 140.0L545.8 144.2L553.0 135.2" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="397.0" cy="184.0" r="12" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M391.6 184.0L395.8 188.2L403.0 179.2" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="547.0" cy="184.0" r="12" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M541.6 184.0L545.8 188.2L553.0 179.2" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="547.0" cy="228.0" r="12" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M541.6 228.0L545.8 232.2L553.0 223.2" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="547.0" cy="272.0" r="12" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M541.6 272.0L545.8 276.2L553.0 267.2" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="320.0" y="342.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Severity rises across the columns.</text>
+</svg>

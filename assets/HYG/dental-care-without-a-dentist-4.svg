@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="190.0" y="50.0" width="260.0" height="195.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M54 20Q66 12 80 20Q94 12 106 20Q118 32 110 52L104 100Q100 108 94 100L88 70Q80 66 72 70L66 100Q60 108 56 100L50 52Q42 32 54 20Z" fill="#ffffff"/><path d="M20 56Q50 46 80 54Q110 46 140 56V108H20Z" fill="#e8a3a0"/><clipPath id="HYG-dental-care-without-a-dentist-4-0-c170"><path d="M20 56Q50 46 80 54Q110 46 140 56V108H20Z"/></clipPath><g clip-path="url(#HYG-dental-care-without-a-dentist-4-0-c170)"><path d="M54 20Q66 12 80 20Q94 12 106 20Q118 32 110 52L104 100Q100 108 94 100L88 70Q80 66 72 70L66 100Q60 108 56 100L50 52Q42 32 54 20Z" fill="#f6d9d6" stroke-width="2"/></g><path d="M20 56Q50 46 80 54Q110 46 140 56"/><path d="M62 28Q66 22 74 24" stroke-width="3" stroke="#e6d9bd"/></g></svg>
+<path d="M120.0 80.0L300.0 100.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="300.0" cy="100.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="110.0" y="86.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Enamel</text>
+<path d="M120.0 200.0L246.0 150.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="246.0" cy="150.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="110.0" y="206.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Gum line</text>
+<path d="M520.0 140.0L372.0 134.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="372.0" cy="134.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="530.0" y="146.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Plaque line</text>
+<text x="320.0" y="336.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Plaque sits where brushing must reach.</text>
+</svg>

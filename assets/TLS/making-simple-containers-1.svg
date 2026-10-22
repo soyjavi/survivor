@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="150.0" y="20.0" width="340.0" height="255.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M47 48C47 6 113 6 113 48" stroke-width="2"/><clipPath id="TLS-making-simple-containers-1-0-c4"><path d="M46 44L54 100Q55 104 60 104H100Q105 104 106 100L114 44Z"/></clipPath><path d="M46 44L54 100Q55 104 60 104H100Q105 104 106 100L114 44Z" fill="#dfe4e6" stroke="none"/><rect x="94" y="0" width="66" height="120" fill="#b3bec4" stroke="none" clip-path="url(#TLS-making-simple-containers-1-0-c4)"/><path d="M46 44L54 100Q55 104 60 104H100Q105 104 106 100L114 44Z"/><path d="M48.3 60H111.7M52.3 88H107.7" stroke-width="2"/><ellipse cx="80" cy="44" rx="34" ry="7" fill="#4a4036"/><circle cx="48" cy="50" r="3" fill="#2b2620" stroke="none"/><circle cx="112" cy="50" r="3" fill="#2b2620" stroke="none"/></g></svg>
+<path d="M240.0 134.0L400.0 134.0" fill="none" stroke="#c4432f" stroke-width="3" stroke-linecap="round" stroke-dasharray="9 7"/>
+<text x="420.0" y="140.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Fill line</text>
+<path d="M210.0 56.0L318.0 56.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="318.0" cy="56.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="200.0" y="62.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Bail</text>
+<path d="M210.0 108.0L246.0 108.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="246.0" cy="108.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="200.0" y="114.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Rim</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Fill only to the line so it carries without spilling.</text>
+</svg>

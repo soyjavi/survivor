@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="235.0" y="59.0" width="170.0" height="62.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="86.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="320.0" dy="0.0">Cue: leave</tspan><tspan x="320.0" dy="19.2">the latrine</tspan></text>
+<rect x="408.2" y="194.0" width="170.0" height="62.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="493.2" y="221.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="493.2" dy="0.0">Action: wash</tspan><tspan x="493.2" dy="19.2">hands with soap</tspan></text>
+<rect x="61.8" y="194.0" width="170.0" height="62.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="146.8" y="221.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="146.8" dy="0.0">Reward: clean</tspan><tspan x="146.8" dy="19.2">hands before food</tspan></text>
+<path d="M367.5 127.0L436.3 180.6" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="445.7,188.0 431.4,186.9 441.2,174.3" fill="#2b2620"/>
+<path d="M402.2 225.0L249.8 225.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="237.8,225.0 249.8,217.0 249.8,233.0" fill="#2b2620"/>
+<path d="M194.3 188.0L263.1 134.4" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="272.5,127.0 268.0,140.7 258.1,128.1" fill="#2b2620"/>
+<svg x="485.0" y="262.0" width="70.0" height="52.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="108" cy="26" r="7" fill="#ffffff" stroke-width="2"/><circle cx="124" cy="16" r="5" fill="#ffffff" stroke-width="2"/><circle cx="96" cy="14" r="4" fill="#ffffff" stroke-width="2"/><clipPath id="HYG-daily-hygiene-routine-2-0-c77"><path d="M28 58Q28 44 42 44H118Q132 44 132 58V86Q132 100 118 100H42Q28 100 28 86Z"/></clipPath><path d="M28 58Q28 44 42 44H118Q132 44 132 58V86Q132 100 118 100H42Q28 100 28 86Z" fill="#bfe0d6" stroke="none"/><rect x="116" y="0" width="44" height="120" fill="#93c5b6" stroke="none" clip-path="url(#HYG-daily-hygiene-routine-2-0-c77)"/><path d="M28 58Q28 44 42 44H118Q132 44 132 58V86Q132 100 118 100H42Q28 100 28 86Z"/><path d="M40 56H104" stroke-width="3" stroke="#ffffff"/></g></svg>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">The cue already happens, so no reminder is needed.</text>
+</svg>

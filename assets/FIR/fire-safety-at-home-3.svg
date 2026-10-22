@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<path d="M95 170A105 105 0 1 0 305 170A105 105 0 1 0 95 170" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 8"/>
+<svg x="172.0" y="90.0" width="60.0" height="45.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 14L148 104H12Z" fill="#f2c14e"/><path d="M80 44V74" stroke-width="8"/><circle cx="80" cy="89" r="5" fill="#2b2620" stroke="none"/></g></svg>
+<text x="202.0" y="168.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Alarm</text>
+<path d="M60.0 240.0L428.0 240.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="440.0,240.0 428.0,248.0 428.0,232.0" fill="#2b2620"/>
+<text x="360.0" y="224.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Escape route</text>
+<svg x="460.0" y="120.0" width="130.0" height="97.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M46 104V12H114V104" stroke-width="6"/><clipPath id="FIR-fire-safety-at-home-3-1-c52"><path d="M52 18H108V104H52Z"/></clipPath><path d="M52 18H108V104H52Z" fill="#e6c99b" stroke="none"/><rect x="96" y="0" width="64" height="120" fill="#c08f5a" stroke="none" clip-path="url(#FIR-fire-safety-at-home-3-1-c52)"/><path d="M52 18H108V104H52Z"/><path d="M60 26H100V56H60ZM60 64H100V96H60Z" stroke-width="2"/><circle cx="98" cy="62" r="4" fill="#b3bec4" stroke-width="2"/><path d="M24 104H136"/></g></svg>
+<text x="525.0" y="275.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Door</text>
+<text x="320.0" y="335.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">The alarm should cover the route out, not just the kitchen.</text>
+</svg>

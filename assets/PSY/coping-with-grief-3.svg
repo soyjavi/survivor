@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<path d="M320.0 30.0L320.0 300.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-dasharray="8 8"/>
+<svg x="110.0" y="50.0" width="100.0" height="75.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="40" fill="#c4432f"/><path d="M64 44L96 76M96 44L64 76" stroke-width="9" stroke="#ffffff"/></g></svg>
+<rect x="60.0" y="190.0" width="200.0" height="60.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="160.0" y="225.9" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">At least</text>
+<svg x="430.0" y="50.0" width="100.0" height="75.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="40" fill="#5f8436"/><path d="M60 62L75 77L102 46" stroke-width="9" stroke="#ffffff"/></g></svg>
+<rect x="350.0" y="185.0" width="260.0" height="70.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="480.0" y="215.8" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620"><tspan x="480.0" dy="0.0">I am sorry,</tspan><tspan x="480.0" dy="20.4">this is very hard</tspan></text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">The helpful phrase names the loss directly.</text>
+</svg>

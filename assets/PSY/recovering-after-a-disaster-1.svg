@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<path d="M24.0 270.0L604.0 270.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="616.0,270.0 604.0,278.0 604.0,262.0" fill="#2b2620"/>
+<path d="M40.0 261.0L40.0 279.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<path d="M190.0 261.0L190.0 279.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<path d="M340.0 261.0L340.0 279.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<svg x="40.0" y="100.0" width="120.0" height="90.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M24 26H136Q146 26 146 36V84Q146 94 136 94H24Q14 94 14 84V36Q14 26 24 26Z" fill="#ffffff"/><circle cx="34" cy="46" r="9" fill="#2b2620" stroke="#2b2620"/><path d="M52 46H124" stroke-width="6" stroke="#b9ab8f"/><path d="M34 66H124" stroke-width="4" stroke="#b9ab8f"/><path d="M34 78H100" stroke-width="4" stroke="#b9ab8f"/></g></svg>
+<svg x="190.0" y="100.0" width="120.0" height="90.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M24 26H136Q146 26 146 36V84Q146 94 136 94H24Q14 94 14 84V36Q14 26 24 26Z" fill="#ffffff"/><circle cx="34" cy="46" r="9" fill="#2b2620" stroke="#2b2620"/><path d="M52 46H124" stroke-width="6" stroke="#b9ab8f"/><path d="M34 66H124" stroke-width="4" stroke="#b9ab8f"/><path d="M34 78H100" stroke-width="4" stroke="#b9ab8f"/></g></svg>
+<svg x="340.0" y="15.0" width="270.0" height="202.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M24 26H136Q146 26 146 36V84Q146 94 136 94H24Q14 94 14 84V36Q14 26 24 26Z" fill="#ffffff"/><circle cx="34" cy="46" r="9" fill="#2b2620" stroke="#2b2620"/><path d="M52 46H124" stroke-width="6" stroke="#b9ab8f"/><path d="M34 66H124" stroke-width="4" stroke="#b9ab8f"/><path d="M34 78H100" stroke-width="4" stroke="#b9ab8f"/></g></svg>
+<text x="100.0" y="225.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Immediate needs</text>
+<text x="250.0" y="225.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Daily life</text>
+<text x="475.0" y="225.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Rebuilding</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Rebuilding starts once the first two are reliable.</text>
+</svg>

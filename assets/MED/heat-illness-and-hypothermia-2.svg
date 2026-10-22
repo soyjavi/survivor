@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="190.0" y="40.0" width="250.0" height="187.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M64 86L94 76L112 98" stroke-width="13"/><path d="M62 54L84 70L96 74" stroke-width="13"/><path d="M60 50L62 84" stroke-width="22"/><circle cx="58" cy="30" r="11" fill="#ffffff"/><path d="M64 86L94 76L112 98" stroke-width="7" stroke="#ffffff"/><path d="M62 54L84 70L96 74" stroke-width="7" stroke="#ffffff"/><path d="M60 50L62 84" stroke-width="16" stroke="#ffffff"/><path d="M28 104H132"/></g></svg>
+<path d="M115.0 86.0L270.0 110.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="270.0" cy="110.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="105.0" y="92.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Neck</text>
+<path d="M115.0 150.0L272.0 150.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="272.0" cy="150.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="105.0" y="156.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Armpits</text>
+<path d="M115.0 212.0L298.0 182.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="298.0" cy="182.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="105.0" y="218.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Groin</text>
+<svg x="490.0" y="90.0" width="110.0" height="82.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 96V104M60 104H100" stroke-width="6"/><circle cx="80" cy="58" r="36" fill="#ffffff"/><circle cx="80" cy="58" r="28" stroke-width="1.5"/><g transform="rotate(0 80 60)"><path d="M80 60C70 46 72 32 80 28C90 30 92 46 80 60Z" fill="#b3bec4"/></g><g transform="rotate(120 80 60)"><path d="M80 60C70 46 72 32 80 28C90 30 92 46 80 60Z" fill="#b3bec4"/></g><g transform="rotate(240 80 60)"><path d="M80 60C70 46 72 32 80 28C90 30 92 46 80 60Z" fill="#b3bec4"/></g><circle cx="80" cy="58" r="6" fill="#dfe4e6"/><path d="M124 40H146M128 56H150M124 72H146" stroke-width="2" stroke="#3f7fb0"/></g></svg>
+<path d="M505.0 150.0L442.0 150.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="430.0,150.0 442.0,142.0 442.0,158.0" fill="#2b2620"/>
+<text x="545.0" y="205.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Fan</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Large vessels lie close to the skin there.</text>
+</svg>

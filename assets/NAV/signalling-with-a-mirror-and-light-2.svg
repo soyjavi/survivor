@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="20.0" y="90.0" width="140.0" height="105.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M102 44L150 22V102L102 80Z" fill="#fbe6ae" stroke="none"/><path d="M106 46L148 30M106 78L148 94" stroke-width="2" stroke="#f6b84b"/><clipPath id="NAV-signalling-with-a-mirror-and-light-2-0-c46"><path d="M20 52H80V72H20Z"/></clipPath><path d="M20 52H80V72H20Z" fill="#b3bec4" stroke="none"/><rect x="70" y="0" width="90" height="120" fill="#8e9aa1" stroke="none" clip-path="url(#NAV-signalling-with-a-mirror-and-light-2-0-c46)"/><path d="M20 52H80V72H20Z"/><path d="M80 48L100 40V84L80 76Z" fill="#dfe4e6"/><path d="M100 40Q106 62 100 84" stroke-width="3"/><path d="M44 46H54V52H44Z" fill="#c4432f"/></g></svg>
+<circle cx="220.0" cy="155.0" r="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<circle cx="270.0" cy="155.0" r="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<circle cx="320.0" cy="155.0" r="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<circle cx="450.0" cy="155.0" r="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<circle cx="500.0" cy="155.0" r="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<circle cx="550.0" cy="155.0" r="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<path d="M345.0 155.0L425.0 155.0" fill="none" stroke="#3f7fb0" stroke-width="4" stroke-linecap="round" stroke-dasharray="3 8"/>
+<text x="270.0" y="205.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Three flashes</text>
+<text x="385.0" y="130.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Pause</text>
+<text x="500.0" y="205.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Three flashes</text>
+<text x="320.0" y="300.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Repeat the three, pause so the receiver can reply.</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="170.0" y="50.0" width="300.0" height="225.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M22 18H138V102H22Z" fill="#f6efe0" stroke="none"/><path d="M22 50V18H138V102H74M50 102H22V74" stroke-width="6"/><path d="M50 102A24 24 0 0 1 74 78" stroke-width="2" stroke-dasharray="4 4"/><path d="M74 102V78" stroke-width="2"/><path d="M64 18H100" stroke-width="6" stroke="#f6efe0"/><path d="M64 15H100M64 21H100" stroke-width="2"/><path d="M22 50V74" stroke-width="2" stroke="#3f7fb0" stroke-dasharray="3 3"/></g></svg>
+<path d="M280.0 215.0L280.0 288.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="280.0,300.0 272.0,288.0 288.0,288.0" fill="#2b2620"/>
+<text x="280.0" y="326.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Exit 1</text>
+<path d="M323.0 120.0L323.0 52.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="323.0,40.0 331.0,52.0 315.0,52.0" fill="#2b2620"/>
+<text x="345.0" y="54.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Exit 2</text>
+<svg x="385.0" y="100.0" width="56.0" height="42.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 14L148 104H12Z" fill="#f2c14e"/><path d="M80 44V74" stroke-width="8"/><circle cx="80" cy="89" r="5" fill="#2b2620" stroke="none"/></g></svg>
+<svg x="232.0" y="108.0" width="80.0" height="60.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><clipPath id="FIR-fire-safety-at-home-1-2-c67"><path d="M22 64H140V100H22Z"/></clipPath><path d="M22 64H140V100H22Z" fill="#e6907a" stroke="none"/><rect x="128" y="0" width="32" height="120" fill="#cf6f58" stroke="none" clip-path="url(#FIR-fire-safety-at-home-1-2-c67)"/><path d="M22 64H140V100H22Z"/><clipPath id="FIR-fire-safety-at-home-1-2-c68"><path d="M22 44H140V64H22Z"/></clipPath><path d="M22 44H140V64H22Z" fill="#e6907a" stroke="none"/><rect x="128" y="0" width="32" height="120" fill="#cf6f58" stroke="none" clip-path="url(#FIR-fire-safety-at-home-1-2-c68)"/><path d="M22 44H140V64H22Z"/><path d="M22 44Q10 54 22 64M22 64Q10 82 22 100" fill="#e6907a"/><path d="M50 44V100M98 44V100" stroke-width="4" stroke="#ffffff"/><path d="M22 54H140M22 82H140" stroke-width="3" stroke="#ffffff"/><path d="M22 44H140V100H22" stroke-width="3"/></g></svg>
+<path d="M540.0 120.0L440.0 130.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="440.0" cy="130.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="550.0" y="126.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Alarm</text>
+<path d="M110.0 150.0L248.0 143.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="248.0" cy="143.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="110.0" y="172.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Blanket</text>
+</svg>

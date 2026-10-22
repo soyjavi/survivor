@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="200.0" y="21.0" width="240.0" height="46.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="50.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Smell</text>
+<svg x="130.0" y="22.0" width="44.0" height="33.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="40" fill="#5f8436"/><path d="M60 62L75 77L102 46" stroke-width="9" stroke="#ffffff"/></g></svg>
+<svg x="466.0" y="22.0" width="44.0" height="33.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="40" fill="#c4432f"/><path d="M64 44L96 76M96 44L64 76" stroke-width="9" stroke="#ffffff"/></g></svg>
+<rect x="200.0" y="77.0" width="240.0" height="46.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="106.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Colour</text>
+<svg x="130.0" y="78.0" width="44.0" height="33.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="40" fill="#5f8436"/><path d="M60 62L75 77L102 46" stroke-width="9" stroke="#ffffff"/></g></svg>
+<svg x="466.0" y="78.0" width="44.0" height="33.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="40" fill="#c4432f"/><path d="M64 44L96 76M96 44L64 76" stroke-width="9" stroke="#ffffff"/></g></svg>
+<rect x="200.0" y="133.0" width="240.0" height="46.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="161.9" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Surface</text>
+<svg x="130.0" y="134.0" width="44.0" height="33.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="40" fill="#5f8436"/><path d="M60 62L75 77L102 46" stroke-width="9" stroke="#ffffff"/></g></svg>
+<svg x="466.0" y="134.0" width="44.0" height="33.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="40" fill="#c4432f"/><path d="M64 44L96 76M96 44L64 76" stroke-width="9" stroke="#ffffff"/></g></svg>
+<rect x="200.0" y="189.0" width="240.0" height="46.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="217.9" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Life</text>
+<svg x="130.0" y="190.0" width="44.0" height="33.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="40" fill="#5f8436"/><path d="M60 62L75 77L102 46" stroke-width="9" stroke="#ffffff"/></g></svg>
+<svg x="466.0" y="190.0" width="44.0" height="33.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="40" fill="#c4432f"/><path d="M64 44L96 76M96 44L64 76" stroke-width="9" stroke="#ffffff"/></g></svg>
+<rect x="200.0" y="245.0" width="240.0" height="46.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="273.9" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Location</text>
+<svg x="130.0" y="246.0" width="44.0" height="33.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="40" fill="#5f8436"/><path d="M60 62L75 77L102 46" stroke-width="9" stroke="#ffffff"/></g></svg>
+<svg x="466.0" y="246.0" width="44.0" height="33.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="40" fill="#c4432f"/><path d="M64 44L96 76M96 44L64 76" stroke-width="9" stroke="#ffffff"/></g></svg>
+<text x="320.0" y="346.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">One failed sign rules the source out, even when the water looks clear.</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360">
+<rect x="0" y="0" width="640" height="360" fill="#ffffff" stroke="none"/>
+<g fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<polyline points="60.0,300.0 63.9,258.3 75.7,217.9 94.8,180.0 120.8,145.7 152.9,116.1 190.0,92.2 231.1,74.5 274.9,63.6 320.0,60.0 365.1,63.6 408.9,74.5 450.0,92.2 487.1,116.1 519.2,145.7 545.2,180.0 564.3,217.9 576.1,258.3 580.0,300.0"/>
+<line x1="564.3200814043362" y1="217.91516560183948" x2="580.0" y2="299.99999999999994"/>
+<polyline points="572.8,290.4 580.0,300.0 583.1,288.4"/>
+<circle cx="320" cy="60" r="14"/>
+<line x1="60" y1="300" x2="580" y2="300"/>
+<rect x="200" y="260" width="240" height="40" rx="0"/>
+<rect x="228" y="210" width="24" height="50" rx="5"/>
+<rect x="308" y="210" width="24" height="50" rx="5"/>
+<rect x="388" y="210" width="24" height="50" rx="5"/>
+<text x="320" y="340" font-size="15" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Dark surface, bottles in full sun</text>
+<text x="60" y="110" font-size="16" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="start">Sun path</text>
+</g>
+</svg>

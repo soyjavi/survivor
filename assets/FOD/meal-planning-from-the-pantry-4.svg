@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="75.0" y="40.0" width="490.0" height="146.0" rx="8" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<path d="M145.0 40.0L145.0 186.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M215.0 40.0L215.0 186.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M285.0 40.0L285.0 186.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M355.0 40.0L355.0 186.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M425.0 40.0L425.0 186.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M495.0 40.0L495.0 186.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M75.0 76.0L565.0 76.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<text x="110.0" y="64.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Mon</text>
+<text x="180.0" y="64.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Tue</text>
+<text x="250.0" y="64.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Wed</text>
+<text x="320.0" y="64.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Thu</text>
+<text x="390.0" y="64.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Fri</text>
+<text x="460.0" y="64.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Sat</text>
+<text x="530.0" y="64.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Sun</text>
+<svg x="83.0" y="98.0" width="54.0" height="65.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M34 12H108L126 30V108H34Z" fill="#ffffff"/><path d="M108 12V30H126" fill="#e6d9bd"/><path d="M48 32H96" stroke-width="6" stroke="#b9ab8f"/><path d="M48 52H112" stroke-width="4" stroke="#b9ab8f"/><path d="M48 66H112" stroke-width="4" stroke="#b9ab8f"/><path d="M48 80H90" stroke-width="4" stroke="#b9ab8f"/></g></svg>
+<svg x="153.0" y="98.0" width="54.0" height="65.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 12C56 12 44 30 44 48C44 62 52 70 58 80V88H102V80C108 70 116 62 116 48C116 30 104 12 80 12Z" fill="#f6b84b"/><path d="M70 54L80 66L90 54M80 66V88" stroke-width="2"/><path d="M60 88H100V96Q100 100 96 100H64Q60 100 60 96Z" fill="#b3bec4"/><path d="M68 106H92"/><path d="M98 24Q106 30 106 42" stroke-width="3" stroke="#ffffff"/></g></svg>
+<path d="M81 270L81 282L145.0 282L145.0 294M145.0 282L209 282L209 270" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="145.0" y="312.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Perishable first</text>
+<path d="M221 270L221 282L390.0 282L390.0 294M390.0 282L559 282L559 270" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="390.0" y="312.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Dry stock later</text>
+</svg>

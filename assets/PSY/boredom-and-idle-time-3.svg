@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="10.0" y="120.0" width="200.0" height="150.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M14 74H146" stroke="#c4432f" stroke-dasharray="12 8"/><path d="M16 40H72L82 50L72 60H16Z" fill="#c4432f" stroke="#c4432f"/><path d="M24 50H62" stroke-width="5" stroke="#ffffff"/><path d="M110 50V64" stroke-width="2"/><path d="M110.0 70.0 L105.0 60.0 L115.0 60.0Z" fill="#2b2620" stroke="#2b2620"/></g></svg>
+<text x="110.0" y="296.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Doorway</text>
+<path d="M220.0 215.0L520.0 215.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round" stroke-dasharray="10 8"/>
+<path d="M500.0 215.0L598.0 215.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="610.0,215.0 598.0,223.0 598.0,207.0" fill="#2b2620"/>
+<text x="400.0" y="244.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Foot traffic</text>
+<svg x="230.0" y="20.0" width="140.0" height="105.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="80" cy="102" rx="20" ry="5" fill="#e6d9bd" stroke-width="2"/><path d="M80 100C80 100 50 66 50 44A30 30 0 0 1 110 44C110 66 80 100 80 100Z" fill="#c4432f"/><circle cx="80" cy="44" r="11" fill="#ffffff"/></g></svg>
+<text x="300.0" y="150.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Quiet corner</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">The corner sits off the route.</text>
+</svg>

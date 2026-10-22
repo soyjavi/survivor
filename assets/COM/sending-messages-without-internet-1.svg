@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="16.0" y="50.0" width="240.0" height="180.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M56.8 28H103.2M55.0 48H105.0M53.2 68H106.8M51.4 88H108.6" stroke-width="10"/><path d="M56.8 28H103.2M55.0 48H105.0M53.2 68H106.8M51.4 88H108.6" stroke-width="4" stroke="#e6c99b"/><path d="M50 106L58 12" stroke-width="12"/><path d="M110 106L102 12" stroke-width="12"/><path d="M50 106L58 12" stroke-width="6" stroke="#c08f5a"/><path d="M110 106L102 12" stroke-width="6" stroke="#c08f5a"/></g></svg>
+<rect x="310.0" y="31.0" width="220.0" height="42.0" rx="12" fill="#f6b84b" stroke="#2b2620" stroke-width="3"/>
+<text x="420.0" y="57.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Written notes</text>
+<circle cx="290.0" cy="52.0" r="15" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="290.0" y="57.4" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16.5" font-weight="800" fill="#ffffff">5</text>
+<rect x="310.0" y="85.0" width="220.0" height="42.0" rx="12" fill="#f6b84b" stroke="#2b2620" stroke-width="3"/>
+<text x="420.0" y="111.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Runners</text>
+<circle cx="290.0" cy="106.0" r="15" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="290.0" y="111.4" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16.5" font-weight="800" fill="#ffffff">4</text>
+<rect x="310.0" y="139.0" width="220.0" height="42.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="420.0" y="165.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Amateur radio</text>
+<circle cx="290.0" cy="160.0" r="15" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="290.0" y="165.4" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16.5" font-weight="800" fill="#ffffff">3</text>
+<rect x="310.0" y="193.0" width="220.0" height="42.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="420.0" y="219.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Short-range radio</text>
+<circle cx="290.0" cy="214.0" r="15" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="290.0" y="219.4" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16.5" font-weight="800" fill="#ffffff">2</text>
+<rect x="310.0" y="247.0" width="220.0" height="42.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="420.0" y="273.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Mobile text</text>
+<circle cx="290.0" cy="268.0" r="15" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="290.0" y="273.4" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16.5" font-weight="800" fill="#ffffff">1</text>
+<path d="M556.0 30.0L556.0 104.0" fill="none" stroke="#5f8436" stroke-width="4" stroke-linecap="round"/>
+<text x="566.0" y="72.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#5f8436">Backup</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Top two need no power or network.</text>
+</svg>

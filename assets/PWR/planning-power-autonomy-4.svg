@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<path d="M30.0 190.0L598.0 190.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="610.0,190.0 598.0,198.0 598.0,182.0" fill="#2b2620"/>
+<circle cx="55.0" cy="190.0" r="6" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="55.0" y="222.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">J</text>
+<circle cx="101.0" cy="190.0" r="6" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="101.0" y="222.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">F</text>
+<circle cx="147.0" cy="190.0" r="11" fill="#f6b84b" stroke="#2b2620" stroke-width="3"/>
+<text x="147.0" y="150.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Spring</text>
+<text x="147.0" y="222.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">M</text>
+<circle cx="193.0" cy="190.0" r="6" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="193.0" y="222.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">A</text>
+<circle cx="239.0" cy="190.0" r="6" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="239.0" y="222.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">M</text>
+<circle cx="285.0" cy="190.0" r="11" fill="#f6b84b" stroke="#2b2620" stroke-width="3"/>
+<text x="285.0" y="150.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Summer</text>
+<text x="285.0" y="222.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">J</text>
+<circle cx="331.0" cy="190.0" r="6" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="331.0" y="222.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">J</text>
+<circle cx="377.0" cy="190.0" r="6" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="377.0" y="222.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">A</text>
+<circle cx="423.0" cy="190.0" r="11" fill="#f6b84b" stroke="#2b2620" stroke-width="3"/>
+<text x="423.0" y="150.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Autumn</text>
+<text x="423.0" y="222.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">S</text>
+<circle cx="469.0" cy="190.0" r="6" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="469.0" y="222.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">O</text>
+<circle cx="515.0" cy="190.0" r="6" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="515.0" y="222.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">N</text>
+<circle cx="561.0" cy="190.0" r="11" fill="#f6b84b" stroke="#2b2620" stroke-width="3"/>
+<text x="561.0" y="150.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Winter</text>
+<text x="561.0" y="222.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">D</text>
+<circle cx="55.0" cy="190.0" r="11" fill="#c4432f" stroke="#2b2620" stroke-width="3"/>
+<rect x="55.0" y="270.0" width="150.0" height="40.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="130.0" y="295.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Annual full test</text>
+<path d="M95.0 270.0L55.0 202.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="55.0" cy="202.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="420.0" y="295.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Checks cluster at season changes</text>
+</svg>

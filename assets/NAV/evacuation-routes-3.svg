@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="220.0" y="50.0" width="200.0" height="150.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 104V22" stroke-width="13"/><path d="M80 104V22" stroke-width="7" stroke="#c08f5a"/><path d="M44 30H112L126 42L112 54H44Z" fill="#f6b84b"/><path d="M54 42H104" stroke-width="4" stroke="#2b2620"/><path d="M40 104H120"/></g></svg>
+<path d="M420.0 100.0L488.0 100.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="500.0,100.0 488.0,108.0 488.0,92.0" fill="#2b2620"/>
+<rect x="505.0" y="80.0" width="110.0" height="40.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="560.0" y="105.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Primary</text>
+<svg x="436.0" y="78.0" width="44.0" height="33.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="40" fill="#c4432f"/><path d="M64 44L96 76M96 44L64 76" stroke-width="9" stroke="#ffffff"/></g></svg>
+<text x="458.0" y="68.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Closed</text>
+<path d="M290.0 200.0L180.7 256.5" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="170.0,262.0 177.0,249.4 184.3,263.6" fill="#2b2620"/>
+<rect x="50.0" y="260.0" width="120.0" height="40.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="110.0" y="285.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Secondary</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">The fallback leaves from a different junction.</text>
+</svg>

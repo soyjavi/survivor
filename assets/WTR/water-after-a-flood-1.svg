@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="270.0" y="0.0" width="100.0" height="75.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 12L148 60L80 108L12 60Z" fill="#ffffff"/><path d="M80 18L140 60" stroke-width="2" stroke="#e6d9bd"/><path d="M56 60H104" stroke-width="6" stroke="#b9ab8f"/></g></svg>
+<text x="320.0" y="108.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Water source?</text>
+<path d="M320.0 120.0L90.0 150.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<rect x="25.0" y="153.0" width="130.0" height="44.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="90.0" y="180.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Floodwater</text>
+<path d="M90.0 199.0L90.0 226.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="90.0,238.0 82.0,226.0 98.0,226.0" fill="#2b2620"/>
+<rect x="30.0" y="240.0" width="120.0" height="44.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="90.0" y="267.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Discard</text>
+<svg x="70.0" y="286.0" width="40.0" height="30.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="40" fill="#c4432f"/><path d="M64 44L96 76M96 44L64 76" stroke-width="9" stroke="#ffffff"/></g></svg>
+<path d="M320.0 120.0L230.0 150.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<rect x="165.0" y="153.0" width="130.0" height="44.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="230.0" y="180.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Tap</text>
+<path d="M230.0 199.0L230.0 226.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="230.0,238.0 222.0,226.0 238.0,226.0" fill="#2b2620"/>
+<rect x="170.0" y="240.0" width="120.0" height="44.0" rx="12" fill="#b9ab8f" stroke="#2b2620" stroke-width="3"/>
+<text x="230.0" y="267.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Boil</text>
+<path d="M320.0 120.0L370.0 150.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<rect x="305.0" y="153.0" width="130.0" height="44.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="370.0" y="180.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Well</text>
+<path d="M370.0 199.0L370.0 226.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="370.0,238.0 362.0,226.0 378.0,226.0" fill="#2b2620"/>
+<rect x="310.0" y="240.0" width="120.0" height="44.0" rx="12" fill="#b9ab8f" stroke="#2b2620" stroke-width="3"/>
+<text x="370.0" y="267.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Disinfect</text>
+<path d="M320.0 120.0L530.0 150.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<rect x="465.0" y="153.0" width="130.0" height="44.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="530.0" y="180.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Sealed bottles</text>
+<path d="M530.0 199.0L530.0 226.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="530.0,238.0 522.0,226.0 538.0,226.0" fill="#2b2620"/>
+<rect x="470.0" y="240.0" width="120.0" height="44.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="530.0" y="267.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Drink</text>
+<svg x="510.0" y="286.0" width="40.0" height="30.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="40" fill="#5f8436"/><path d="M60 62L75 77L102 46" stroke-width="9" stroke="#ffffff"/></g></svg>
+</svg>

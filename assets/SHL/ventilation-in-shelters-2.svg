@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="150.0" y="50.0" width="340.0" height="255.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M22 18H138V102H22Z" fill="#f6efe0" stroke="none"/><path d="M22 50V18H138V102H74M50 102H22V74" stroke-width="6"/><path d="M50 102A24 24 0 0 1 74 78" stroke-width="2" stroke-dasharray="4 4"/><path d="M74 102V78" stroke-width="2"/><path d="M64 18H100" stroke-width="6" stroke="#f6efe0"/><path d="M64 15H100M64 21H100" stroke-width="2"/><path d="M22 50V74" stroke-width="2" stroke="#3f7fb0" stroke-dasharray="3 3"/></g></svg>
+<path d="M 285 255 C 285 190, 320 170, 320 112" fill="none" stroke="#3f7fb0" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="320.0,112.0 328.0,124.0 312.0,124.0" fill="#3f7fb0"/>
+<text x="470.0" y="40.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Upper opening</text>
+<path d="M400.0 46.0L335.0 78.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="335.0" cy="78.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="170.0" y="335.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Lower opening</text>
+<path d="M240.0 322.0L285.0 282.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="285.0" cy="282.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+</svg>

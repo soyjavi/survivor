@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<circle cx="122.5" cy="50.0" r="20" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="122.5" y="57.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="22.0" font-weight="800" fill="#ffffff">1</text>
+<svg x="52.5" y="87.8" width="140.0" height="105.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M16 64L120 38L146 50L42 78Z" fill="#e6c99b"/><path d="M16 64L42 78V90L16 76Z" fill="#c08f5a"/><path d="M42 78L146 50V62L42 90Z" fill="#c08f5a"/><path d="M40 66Q70 56 104 50M56 70Q90 60 124 52" stroke-width="2"/></g></svg>
+<text x="122.5" y="220.5" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="122.5" dy="0.0">Upper half</tspan><tspan x="122.5" dy="19.2">removed</tspan></text>
+<path d="M201.5 140.2L229.0 140.2" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="241.0,140.2 229.0,148.2 229.0,132.2" fill="#2b2620"/>
+<circle cx="320.0" cy="50.0" r="20" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="57.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="22.0" font-weight="800" fill="#ffffff">2</text>
+<svg x="250.0" y="87.8" width="140.0" height="105.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M16 64L120 38L146 50L42 78Z" fill="#e6c99b"/><path d="M16 64L42 78V90L16 76Z" fill="#c08f5a"/><path d="M42 78L146 50V62L42 90Z" fill="#c08f5a"/><path d="M40 66Q70 56 104 50M56 70Q90 60 124 52" stroke-width="2"/></g></svg>
+<text x="320.0" y="220.5" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="320.0" dy="0.0">Lower half</tspan><tspan x="320.0" dy="19.2">removed</tspan></text>
+<path d="M399.0 140.2L426.5 140.2" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="438.5,140.2 426.5,148.2 426.5,132.2" fill="#2b2620"/>
+<circle cx="517.5" cy="50.0" r="20" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="517.5" y="57.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="22.0" font-weight="800" fill="#ffffff">3</text>
+<svg x="447.5" y="95.8" width="140.0" height="105.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M16 64L120 38L146 50L42 78Z" fill="#e6c99b"/><path d="M16 64L42 78V90L16 76Z" fill="#c08f5a"/><path d="M42 78L146 50V62L42 90Z" fill="#c08f5a"/><path d="M40 66Q70 56 104 50M56 70Q90 60 124 52" stroke-width="2"/></g></svg>
+<svg x="447.5" y="79.8" width="140.0" height="105.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M16 64L120 38L146 50L42 78Z" fill="#e6c99b"/><path d="M16 64L42 78V90L16 76Z" fill="#c08f5a"/><path d="M42 78L146 50V62L42 90Z" fill="#c08f5a"/><path d="M40 66Q70 56 104 50M56 70Q90 60 124 52" stroke-width="2"/></g></svg>
+<text x="517.5" y="220.5" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Overlap flush</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">The two cuts must match.</text>
+</svg>

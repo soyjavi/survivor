@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="40.0" y="40.0" width="130.0" height="40.0" rx="0" fill="#f5f1e8" stroke="#2b2620" stroke-width="3"/>
+<rect x="170.0" y="40.0" width="110.0" height="40.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="225.0" y="66.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Round 1</text>
+<rect x="280.0" y="40.0" width="110.0" height="40.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="335.0" y="66.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Round 2</text>
+<rect x="390.0" y="40.0" width="110.0" height="40.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="445.0" y="66.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Round 3</text>
+<rect x="500.0" y="40.0" width="110.0" height="40.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="555.0" y="66.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Round 4</text>
+<rect x="40.0" y="80.0" width="130.0" height="60.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="105.0" y="116.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Bucket fill</text>
+<rect x="170.0" y="80.0" width="110.0" height="60.0" rx="0" fill="#f5f1e8" stroke="#2b2620" stroke-width="3"/>
+<text x="225.0" y="118.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#2b2620">A</text>
+<rect x="280.0" y="80.0" width="110.0" height="60.0" rx="0" fill="#f5f1e8" stroke="#2b2620" stroke-width="3"/>
+<text x="335.0" y="118.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#2b2620">B</text>
+<rect x="390.0" y="80.0" width="110.0" height="60.0" rx="0" fill="#f5f1e8" stroke="#2b2620" stroke-width="3"/>
+<text x="445.0" y="118.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#2b2620">C</text>
+<rect x="500.0" y="80.0" width="110.0" height="60.0" rx="0" fill="#f5f1e8" stroke="#2b2620" stroke-width="3"/>
+<text x="555.0" y="118.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#2b2620">D</text>
+<rect x="40.0" y="140.0" width="130.0" height="60.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="105.0" y="176.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Rubbish</text>
+<rect x="170.0" y="140.0" width="110.0" height="60.0" rx="0" fill="#f5f1e8" stroke="#2b2620" stroke-width="3"/>
+<text x="225.0" y="178.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#2b2620">B</text>
+<rect x="280.0" y="140.0" width="110.0" height="60.0" rx="0" fill="#f5f1e8" stroke="#2b2620" stroke-width="3"/>
+<text x="335.0" y="178.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#2b2620">C</text>
+<rect x="390.0" y="140.0" width="110.0" height="60.0" rx="0" fill="#f5f1e8" stroke="#2b2620" stroke-width="3"/>
+<text x="445.0" y="178.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#2b2620">D</text>
+<rect x="500.0" y="140.0" width="110.0" height="60.0" rx="0" fill="#f5f1e8" stroke="#2b2620" stroke-width="3"/>
+<text x="555.0" y="178.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#2b2620">A</text>
+<rect x="40.0" y="200.0" width="130.0" height="60.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="105.0" y="236.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Latrine lid</text>
+<rect x="170.0" y="200.0" width="110.0" height="60.0" rx="0" fill="#f5f1e8" stroke="#2b2620" stroke-width="3"/>
+<text x="225.0" y="238.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#2b2620">C</text>
+<rect x="280.0" y="200.0" width="110.0" height="60.0" rx="0" fill="#f5f1e8" stroke="#2b2620" stroke-width="3"/>
+<text x="335.0" y="238.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#2b2620">D</text>
+<rect x="390.0" y="200.0" width="110.0" height="60.0" rx="0" fill="#f5f1e8" stroke="#2b2620" stroke-width="3"/>
+<text x="445.0" y="238.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#2b2620">A</text>
+<rect x="500.0" y="200.0" width="110.0" height="60.0" rx="0" fill="#f5f1e8" stroke="#2b2620" stroke-width="3"/>
+<text x="555.0" y="238.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#2b2620">B</text>
+<text x="320.0" y="290.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Each round the jobs move one person along.</text>
+<text x="320.0" y="316.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Nobody keeps the worst job.</text>
+</svg>

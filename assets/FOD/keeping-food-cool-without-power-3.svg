@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="150.0" y="30.0" width="260.0" height="290.0" rx="14" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<svg x="220.0" y="44.0" width="120.0" height="90.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 22L120 42L80 62L40 42Z" fill="#eef6fb"/><path d="M40 42L80 62V104L40 84Z" fill="#bfdaec"/><path d="M80 62L120 42V84L80 104Z" fill="#8fbcdb"/><path d="M48 56V72" stroke-width="3" stroke="#ffffff"/><path d="M64 36L84 30" stroke-width="3" stroke="#ffffff"/></g></svg>
+<text x="450.0" y="100.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Ice</text>
+<path d="M444.0 94.0L330.0 100.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="330.0" cy="100.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<path d="M280.0 150.0L280.0 228.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="280.0,240.0 272.0,228.0 288.0,228.0" fill="#2b2620"/>
+<text x="300.0" y="200.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Cold air sinks</text>
+<rect x="180.0" y="253.0" width="200.0" height="44.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="280.0" y="280.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Food</text>
+<text x="320.0" y="346.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Ice sits above the food.</text>
+</svg>

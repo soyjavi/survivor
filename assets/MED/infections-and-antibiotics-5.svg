@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<path d="M40.0 130.0L598.0 130.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="610.0,130.0 598.0,138.0 598.0,122.0" fill="#2b2620"/>
+<circle cx="90.0" cy="130.0" r="9" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<circle cx="205.0" cy="130.0" r="9" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<circle cx="320.0" cy="130.0" r="9" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<circle cx="435.0" cy="130.0" r="9" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<circle cx="550.0" cy="130.0" r="9" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="90.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Dose times</text>
+<rect x="60.0" y="180.0" width="520.0" height="52.0" rx="8" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<circle cx="90.0" cy="206.0" r="16" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M82.8 206.0L88.4 211.6L98.0 199.6" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="205.0" cy="206.0" r="16" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M197.8 206.0L203.4 211.6L213.0 199.6" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="320.0" cy="206.0" r="16" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M312.8 206.0L318.4 211.6L328.0 199.6" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="435.0" cy="206.0" r="16" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M427.8 206.0L433.4 211.6L443.0 199.6" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="550.0" cy="206.0" r="16" fill="#c4432f" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M543.6 199.6L556.4 212.4M556.4 199.6L543.6 212.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="320.0" y="275.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Tick per dose</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">A gap shows a missed dose.</text>
+</svg>

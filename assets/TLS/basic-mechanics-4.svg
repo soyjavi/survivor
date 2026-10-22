@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="40.0" y="24.0" width="560.0" height="44.0" rx="8" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="60.0" y="53.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff">Date</text>
+<text x="190.0" y="53.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff">Hours</text>
+<text x="320.0" y="53.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff">Task</text>
+<text x="470.0" y="53.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff">Notes</text>
+<rect x="40.0" y="68.0" width="560.0" height="56.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="2"/>
+<path d="M60.0 102.0L150.0 102.0" fill="none" stroke="#b9ab8f" stroke-width="4" stroke-linecap="round"/>
+<path d="M190.0 102.0L280.0 102.0" fill="none" stroke="#b9ab8f" stroke-width="4" stroke-linecap="round"/>
+<path d="M320.0 102.0L410.0 102.0" fill="none" stroke="#b9ab8f" stroke-width="4" stroke-linecap="round"/>
+<path d="M470.0 102.0L560.0 102.0" fill="none" stroke="#b9ab8f" stroke-width="4" stroke-linecap="round"/>
+<rect x="40.0" y="124.0" width="560.0" height="56.0" rx="0" fill="#f5f1e8" stroke="#2b2620" stroke-width="2"/>
+<path d="M60.0 158.0L150.0 158.0" fill="none" stroke="#b9ab8f" stroke-width="4" stroke-linecap="round"/>
+<path d="M190.0 158.0L280.0 158.0" fill="none" stroke="#b9ab8f" stroke-width="4" stroke-linecap="round"/>
+<path d="M320.0 158.0L410.0 158.0" fill="none" stroke="#b9ab8f" stroke-width="4" stroke-linecap="round"/>
+<path d="M470.0 158.0L560.0 158.0" fill="none" stroke="#b9ab8f" stroke-width="4" stroke-linecap="round"/>
+<path d="M60.0 214.0L568.0 214.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="580.0,214.0 568.0,222.0 568.0,206.0" fill="#2b2620"/>
+<text x="320.0" y="250.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Read across a row to spot wear patterns</text>
+<text x="320.0" y="330.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Hours and task sit side by side.</text>
+</svg>

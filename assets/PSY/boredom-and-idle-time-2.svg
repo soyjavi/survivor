@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="160.0" y="50.0" width="448.0" height="190.0" rx="6" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<rect x="160.0" y="50.0" width="448.0" height="34.0" rx="6" fill="#b9ab8f" stroke="#2b2620" stroke-width="3"/>
+<path d="M224.0 50.0L224.0 240.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M288.0 50.0L288.0 240.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M352.0 50.0L352.0 240.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M416.0 50.0L416.0 240.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M480.0 50.0L480.0 240.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M544.0 50.0L544.0 240.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M160.0 84.0L608.0 84.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M160.0 136.0L608.0 136.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M160.0 188.0L608.0 188.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<text x="192.0" y="73.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Mon</text>
+<text x="256.0" y="73.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Tue</text>
+<text x="320.0" y="73.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Wed</text>
+<text x="384.0" y="73.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Thu</text>
+<text x="448.0" y="73.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Fri</text>
+<text x="512.0" y="73.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Sat</text>
+<text x="576.0" y="73.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Sun</text>
+<rect x="160.0" y="84.0" width="448.0" height="52.0" rx="6" fill="#f6b84b" stroke="#2b2620" stroke-width="3"/>
+<circle cx="192.0" cy="110.0" r="12" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M186.6 110.0L190.8 114.2L198.0 105.2" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="256.0" cy="110.0" r="12" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M250.6 110.0L254.8 114.2L262.0 105.2" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="320.0" cy="110.0" r="12" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M314.6 110.0L318.8 114.2L326.0 105.2" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="384.0" cy="110.0" r="12" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M378.6 110.0L382.8 114.2L390.0 105.2" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="448.0" cy="110.0" r="12" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M442.6 110.0L446.8 114.2L454.0 105.2" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="512.0" cy="110.0" r="12" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M506.6 110.0L510.8 114.2L518.0 105.2" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="576.0" cy="110.0" r="12" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M570.6 110.0L574.8 114.2L582.0 105.2" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="192.0" y="168.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">A</text>
+<text x="256.0" y="168.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">B</text>
+<text x="320.0" y="168.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">C</text>
+<text x="384.0" y="168.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">D</text>
+<text x="448.0" y="168.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">E</text>
+<text x="512.0" y="168.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">F</text>
+<text x="576.0" y="168.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">G</text>
+<text x="192.0" y="220.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">C</text>
+<text x="256.0" y="220.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">D</text>
+<text x="320.0" y="220.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">E</text>
+<text x="384.0" y="220.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">F</text>
+<text x="448.0" y="220.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">G</text>
+<text x="512.0" y="220.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">A</text>
+<text x="576.0" y="220.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">B</text>
+<text x="146.0" y="106.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="146.0" dy="0.0">Shared</tspan><tspan x="146.0" dy="19.2">activity</tspan></text>
+<path d="M 152 140 L 142 140 L 142 236 L 152 236" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="132.0" y="184.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="132.0" dy="0.0">Rotating</tspan><tspan x="132.0" dy="19.2">rows</tspan></text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">The same group activity repeats daily while other rows change.</text>
+</svg>

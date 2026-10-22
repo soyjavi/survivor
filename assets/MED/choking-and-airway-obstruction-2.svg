@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="20.0" y="100.0" width="200.0" height="150.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 12L148 60L80 108L12 60Z" fill="#ffffff"/><path d="M80 18L140 60" stroke-width="2" stroke="#e6d9bd"/><path d="M56 60H104" stroke-width="6" stroke="#b9ab8f"/></g></svg>
+<path d="M210.0 170.0L320.0 96.7" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="330.0,90.0 324.5,103.3 315.6,90.0" fill="#2b2620"/>
+<path d="M210.0 200.0L319.6 264.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="330.0,270.0 315.6,270.9 323.7,257.0" fill="#2b2620"/>
+<text x="270.0" y="70.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620"><tspan x="270.0" dy="0.0">coughing and</tspan><tspan x="270.0" dy="18.0">speaking</tspan></text>
+<text x="270.0" y="285.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620"><tspan x="270.0" dy="0.0">silent, unable</tspan><tspan x="270.0" dy="18.0">to breathe</tspan></text>
+<svg x="340.0" y="30.0" width="80.0" height="60.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="40" fill="#5f8436"/><path d="M60 62L75 77L102 46" stroke-width="9" stroke="#ffffff"/></g></svg>
+<rect x="435.0" y="62.0" width="170.0" height="56.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="520.0" y="95.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">encourage cough</text>
+<svg x="340.0" y="215.0" width="80.0" height="60.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 14L148 104H12Z" fill="#f2c14e"/><path d="M80 44V74" stroke-width="8"/><circle cx="80" cy="89" r="5" fill="#2b2620" stroke="none"/></g></svg>
+<rect x="435.0" y="242.0" width="170.0" height="56.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="520.0" y="275.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">act now</text>
+<text x="320.0" y="346.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">A strong cough is always the first option.</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="230.0" y="49.0" width="180.0" height="62.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="76.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="320.0" dy="0.0">Sweat and oil in</tspan><tspan x="320.0" dy="19.2">soiled fabric</tspan></text>
+<rect x="403.2" y="191.5" width="180.0" height="62.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="493.2" y="228.1" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Bacteria</text>
+<rect x="56.8" y="191.5" width="180.0" height="62.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="146.8" y="228.1" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Skin irritation</text>
+<path d="M365.0 117.0L439.0 177.9" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="448.2,185.5 433.9,184.1 444.0,171.7" fill="#2b2620"/>
+<path d="M397.2 222.5L254.8 222.5" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="242.8,222.5 254.8,214.5 254.8,230.5" fill="#2b2620"/>
+<path d="M191.8 185.5L265.8 124.6" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="275.0,117.0 270.8,130.8 260.7,118.4" fill="#2b2620"/>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">The loop runs until the fabric is washed.</text>
+</svg>

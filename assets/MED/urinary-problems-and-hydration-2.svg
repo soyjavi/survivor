@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="20.0" y="110.0" width="160.0" height="120.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 12L148 60L80 108L12 60Z" fill="#ffffff"/><path d="M80 18L140 60" stroke-width="2" stroke="#e6d9bd"/><path d="M56 60H104" stroke-width="6" stroke="#b9ab8f"/></g></svg>
+<text x="100.0" y="250.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#2b2620">Which symptoms?</text>
+<path d="M180.0 160.0L319.1 95.1" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="330.0,90.0 322.5,102.3 315.7,87.8" fill="#2b2620"/>
+<path d="M180.0 175.0L319.6 254.1" fill="none" stroke="#c4432f" stroke-width="4" stroke-linecap="round"/>
+<polygon points="330.0,260.0 315.6,261.0 323.5,247.1" fill="#c4432f"/>
+<svg x="340.0" y="40.0" width="100.0" height="75.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="40" fill="#5f8436"/><path d="M60 62L75 77L102 46" stroke-width="9" stroke="#ffffff"/></g></svg>
+<text x="460.0" y="70.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="460.0" dy="0.0">Burning urination,</tspan><tspan x="460.0" dy="19.2">fluids tolerated:</tspan><tspan x="460.0" dy="19.2">home care</tspan></text>
+<svg x="340.0" y="210.0" width="100.0" height="75.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 14L148 104H12Z" fill="#f2c14e"/><path d="M80 44V74" stroke-width="8"/><circle cx="80" cy="89" r="5" fill="#2b2620" stroke="none"/></g></svg>
+<text x="460.0" y="250.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="460.0" dy="0.0">Fever, back pain,</tspan><tspan x="460.0" dy="19.2">vomiting: urgent care</tspan></text>
+</svg>

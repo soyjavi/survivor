@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="16.0" y="110.0" width="84.0" height="80.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="58.0" y="155.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Sit</text>
+<rect x="124.0" y="110.0" width="106.0" height="80.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="177.0" y="146.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620"><tspan x="177.0" dy="0.0">In through</tspan><tspan x="177.0" dy="18.0">nose</tspan></text>
+<rect x="254.0" y="110.0" width="76.0" height="80.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="292.0" y="155.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Hold</text>
+<rect x="354.0" y="110.0" width="150.0" height="80.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="429.0" y="146.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620"><tspan x="429.0" dy="0.0">Out through</tspan><tspan x="429.0" dy="18.0">mouth</tspan></text>
+<rect x="528.0" y="110.0" width="96.0" height="80.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="576.0" y="155.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Repeat</text>
+<path d="M103.0 150.0L109.0 150.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="121.0,150.0 109.0,158.0 109.0,142.0" fill="#2b2620"/>
+<path d="M233.0 150.0L239.0 150.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="251.0,150.0 239.0,158.0 239.0,142.0" fill="#2b2620"/>
+<path d="M333.0 150.0L339.0 150.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="351.0,150.0 339.0,158.0 339.0,142.0" fill="#2b2620"/>
+<path d="M507.0 150.0L513.0 150.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="525.0,150.0 513.0,158.0 513.0,142.0" fill="#2b2620"/>
+<path d="M334.0 215.0L486.0 215.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="498.0,215.0 486.0,223.0 486.0,207.0" fill="#2b2620"/>
+<text x="416.0" y="246.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Longest phase</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">The long out-breath slows the heart.</text>
+</svg>

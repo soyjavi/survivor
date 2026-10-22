@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="60.0" y="68.0" width="160.0" height="64.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="140.0" y="96.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620"><tspan x="140.0" dy="0.0">One untreated</tspan><tspan x="140.0" dy="18.0">case</tspan></text>
+<rect x="420.0" y="68.0" width="160.0" height="64.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="500.0" y="96.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620"><tspan x="500.0" dy="0.0">New cases</tspan><tspan x="500.0" dy="18.0">in a week</tspan></text>
+<rect x="420.0" y="218.0" width="160.0" height="64.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="500.0" y="246.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620"><tspan x="500.0" dy="0.0">More</tspan><tspan x="500.0" dy="18.0">contamination</tspan></text>
+<rect x="60.0" y="218.0" width="160.0" height="64.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="140.0" y="255.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">More cases</text>
+<path d="M230.0 100.0L398.0 100.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="410.0,100.0 398.0,108.0 398.0,92.0" fill="#2b2620"/>
+<path d="M500.0 160.0L500.0 178.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="500.0,190.0 492.0,178.0 508.0,178.0" fill="#2b2620"/>
+<path d="M410.0 250.0L242.0 250.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="230.0,250.0 242.0,242.0 242.0,258.0" fill="#2b2620"/>
+<path d="M140.0 190.0L140.0 172.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="140.0,160.0 148.0,172.0 132.0,172.0" fill="#2b2620"/>
+<svg x="20.0" y="20.0" width="50.0" height="37.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="40" fill="#5f8436"/><path d="M60 62L75 77L102 46" stroke-width="9" stroke="#ffffff"/></g></svg>
+<text x="85.0" y="50.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Isolate early</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Isolation stops the loop at the first case.</text>
+</svg>

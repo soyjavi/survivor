@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="40.0" y="60.0" width="186.0" height="150.0" rx="4" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<rect x="226.0" y="60.0" width="186.0" height="150.0" rx="4" fill="#fbe3b8" stroke="#2b2620" stroke-width="3"/>
+<rect x="412.0" y="60.0" width="186.0" height="150.0" rx="4" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<svg x="274.0" y="90.0" width="90.0" height="67.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80.0 16.0 C92.0 36.0 112.0 48.0 112.0 74.0 C112.0 94.0 98.0 106.0 80.0 106.0 C62.0 106.0 48.0 94.0 48.0 74.0 C48.0 58.0 58.0 48.0 62.0 38.0 C66.0 50.0 70.0 54.0 74.0 56.0 C74.0 42.0 76.0 28.0 80.0 16.0Z" fill="#e0702f"/><path d="M80.0 56.0 C88.0 66.0 96.0 74.0 96.0 86.0 C96.0 97.0 89.0 103.0 80.0 103.0 C71.0 103.0 64.0 97.0 64.0 86.0 C64.0 77.0 71.0 71.0 74.0 64.0 C77.0 69.0 78.0 62.0 80.0 56.0Z" fill="#f6b84b" stroke-width="2"/></g></svg>
+<svg x="100.0" y="100.0" width="65.0" height="48.8" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 12L128 60L80 108L32 60Z" fill="#f2c14e"/><path d="M80 26L114 60L80 94L46 60Z" stroke-width="2"/><path d="M80 42V64" stroke-width="7"/><circle cx="80" cy="77" r="4.5" fill="#2b2620" stroke="none"/></g></svg>
+<svg x="472.0" y="100.0" width="65.0" height="48.8" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 12L128 60L80 108L32 60Z" fill="#f2c14e"/><path d="M80 26L114 60L80 94L46 60Z" stroke-width="2"/><path d="M80 42V64" stroke-width="7"/><circle cx="80" cy="77" r="4.5" fill="#2b2620" stroke="none"/></g></svg>
+<text x="133.0" y="238.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Cold room</text>
+<text x="319.0" y="238.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Warm room</text>
+<text x="505.0" y="238.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Cold room</text>
+<path d="M226.0 90.0L226.0 180.0" fill="none" stroke="#3f7fb0" stroke-width="8" stroke-linecap="round"/>
+<path d="M412.0 90.0L412.0 180.0" fill="none" stroke="#3f7fb0" stroke-width="8" stroke-linecap="round"/>
+<path d="M300.0 300.0L226.0 170.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="226.0" cy="170.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="310.0" y="320.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Draught stopper</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="230.0" y="100.0" width="180.0" height="135.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><g transform="rotate(-32 60 58)"><path d="M32 46H60V70H32A12 12 0 0 1 32 46Z" fill="#c4432f"/><path d="M60 46H88A12 12 0 0 1 88 70H60Z" fill="#ffffff"/></g><clipPath id="WTR-chemical-water-purification-3-0-c40"><path d="M116 58A18 18 0 1 1 116 94A18 18 0 1 1 116 58Z"/></clipPath><path d="M116 58A18 18 0 1 1 116 94A18 18 0 1 1 116 58Z" fill="#ffffff" stroke="none"/><rect x="124" y="0" width="36" height="120" fill="#e6d9bd" stroke="none" clip-path="url(#WTR-chemical-water-purification-3-0-c40)"/><path d="M116 58A18 18 0 1 1 116 94A18 18 0 1 1 116 58Z"/><path d="M104 76H128" stroke-width="2"/></g></svg>
+<path d="M190.0 70.0L290.0 150.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="290.0" cy="150.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="180.0" y="62.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Dose per litre</text>
+<path d="M450.0 70.0L350.0 150.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="350.0" cy="150.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="460.0" y="62.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Cold-water dose</text>
+<path d="M190.0 260.0L290.0 205.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="290.0" cy="205.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="180.0" y="270.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Contact time</text>
+<path d="M450.0 260.0L350.0 205.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="350.0" cy="205.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="460.0" y="270.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Expiry date</text>
+<svg x="566.0" y="240.0" width="50.0" height="37.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="40" fill="#c4432f"/><path d="M64 44L96 76M96 44L64 76" stroke-width="9" stroke="#ffffff"/></g></svg>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">An expired packet no longer counts.</text>
+</svg>

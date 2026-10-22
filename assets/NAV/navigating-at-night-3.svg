@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="20.0" y="70.0" width="180.0" height="135.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M26 22H134Q140 22 140 28V92Q140 98 134 98H26Q20 98 20 92V28Q20 22 26 22Z" fill="#ffffff"/><path d="M20 47H140M20 72H140M60 22V98M100 22V98" stroke-width="2"/><path d="M26 22H134Q140 22 140 28V92Q140 98 134 98H26Q20 98 20 92V28Q20 22 26 22Z"/></g></svg>
+<text x="110.0" y="250.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Tally: one mark per 50 m</text>
+<path d="M260.0 200.0L600.0 200.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<path d="M260.0 188.0L260.0 212.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<path d="M380.0 188.0L380.0 212.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<path d="M490.0 188.0L490.0 212.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<path d="M600.0 188.0L600.0 212.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<text x="320.0" y="235.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">50 m</text>
+<text x="435.0" y="235.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">50 m</text>
+<text x="545.0" y="235.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">50 m</text>
+<svg x="440.0" y="150.0" width="70.0" height="52.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="80" cy="102" rx="20" ry="5" fill="#e6d9bd" stroke-width="2"/><path d="M80 100C80 100 50 66 50 44A30 30 0 0 1 110 44C110 66 80 100 80 100Z" fill="#c4432f"/><circle cx="80" cy="44" r="11" fill="#ffffff"/></g></svg>
+<text x="475.0" y="140.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Reset</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">A landmark resets the count.</text>
+</svg>

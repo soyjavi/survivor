@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="60.0" y="50.0" width="200.0" height="150.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M64 86L94 76L112 98" stroke-width="13"/><path d="M62 54L84 70L96 74" stroke-width="13"/><path d="M60 50L62 84" stroke-width="22"/><circle cx="58" cy="30" r="11" fill="#ffffff"/><path d="M64 86L94 76L112 98" stroke-width="7" stroke="#ffffff"/><path d="M62 54L84 70L96 74" stroke-width="7" stroke="#ffffff"/><path d="M60 50L62 84" stroke-width="16" stroke="#ffffff"/><path d="M28 104H132"/></g></svg>
+<path d="M150.0 112.0L428.0 112.0" fill="none" stroke="#c4432f" stroke-width="5" stroke-linecap="round"/>
+<polygon points="440.0,112.0 428.0,120.0 428.0,104.0" fill="#c4432f"/>
+<path d="M80.0 76.0L128.0 99.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="128.0" cy="99.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="62.0" y="72.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Jaw</text>
+<text x="300.0" y="150.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Spread to neck</text>
+<svg x="500.0" y="190.0" width="90.0" height="67.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 14L148 104H12Z" fill="#f2c14e"/><path d="M80 44V74" stroke-width="8"/><circle cx="80" cy="89" r="5" fill="#2b2620" stroke="none"/></g></svg>
+<text x="400.0" y="255.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="400.0" dy="0.0">Spread beyond</tspan><tspan x="400.0" dy="19.2">the tooth: urgent care</tspan></text>
+</svg>

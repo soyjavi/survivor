@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360">
+<rect x="0" y="0" width="640" height="360" fill="#ffffff" stroke="none"/>
+<g fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<rect x="100" y="80" width="200" height="200" rx="6"/>
+<rect x="300" y="250" width="40" height="20" rx="0"/>
+<line x1="340" y1="260" x2="360" y2="260"/>
+<polygon points="330,280 340,330 400,330 410,280"/>
+<text x="200" y="180" font-size="18" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Tank</text>
+<text x="330" y="350" font-size="15" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Bucket</text>
+<text x="330" y="240" font-size="15" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Drain tap</text>
+</g>
+</svg>

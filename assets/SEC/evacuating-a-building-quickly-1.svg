@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="65.0" y="108.8" width="190.0" height="142.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M22 18H138V102H22Z" fill="#f6efe0" stroke="none"/><path d="M22 50V18H138V102H74M50 102H22V74" stroke-width="6"/><path d="M50 102A24 24 0 0 1 74 78" stroke-width="2" stroke-dasharray="4 4"/><path d="M74 102V78" stroke-width="2"/><path d="M64 18H100" stroke-width="6" stroke="#f6efe0"/><path d="M64 15H100M64 21H100" stroke-width="2"/><path d="M22 50V74" stroke-width="2" stroke="#3f7fb0" stroke-dasharray="3 3"/></g></svg>
+<svg x="445.0" y="56.2" width="90.0" height="67.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M38 34H122A26 26 0 0 1 122 86H38A26 26 0 0 1 38 34Z" fill="#ffffff"/><circle cx="40" cy="60" r="8" fill="#2b2620"/><path d="M58 60H118" stroke-width="6" stroke="#b9ab8f"/></g></svg>
+<svg x="445.0" y="216.2" width="90.0" height="67.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M38 34H122A26 26 0 0 1 122 86H38A26 26 0 0 1 38 34Z" fill="#ffffff"/><circle cx="40" cy="60" r="8" fill="#2b2620"/><path d="M58 60H118" stroke-width="6" stroke="#b9ab8f"/></g></svg>
+<path d="M260.0 150.0L428.5 98.5" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="440.0,95.0 430.9,106.2 426.2,90.9" fill="#2b2620"/>
+<path d="M260.0 210.0L428.3 247.4" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round" stroke-dasharray="10 8"/>
+<polygon points="440.0,250.0 426.6,255.2 430.0,239.6" fill="#2b2620"/>
+<text x="580.0" y="95.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Exit 1</text>
+<text x="580.0" y="255.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Exit 2</text>
+<text x="330.0" y="105.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Primary</text>
+<text x="330.0" y="280.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Second</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Every room has two ways out.</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<circle cx="122.5" cy="50.0" r="20" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="122.5" y="57.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="22.0" font-weight="800" fill="#ffffff">1</text>
+<svg x="57.5" y="91.5" width="130.0" height="97.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M48 20H112V32H48ZM48 88H112V100H48Z" fill="#e6c99b"/><clipPath id="TLS-sewing-and-mending-2-0-c144"><path d="M56 32H104V88H56Z"/></clipPath><path d="M56 32H104V88H56Z" fill="#c4432f" stroke="none"/><rect x="96" y="0" width="64" height="120" fill="#9e3424" stroke="none" clip-path="url(#TLS-sewing-and-mending-2-0-c144)"/><path d="M56 32H104V88H56Z"/><path d="M56 40L104 46M56 52L104 58M56 64L104 70M56 76L104 82" stroke-width="1.5" stroke="#7f2a1d"/><path d="M104 60Q130 66 126 90Q122 106 140 108" stroke-width="2.5" stroke="#c4432f"/></g></svg>
+<text x="122.5" y="220.5" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Cut the thread</text>
+<path d="M201.5 140.2L229.0 140.2" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="241.0,140.2 229.0,148.2 229.0,132.2" fill="#2b2620"/>
+<circle cx="320.0" cy="50.0" r="20" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="57.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="22.0" font-weight="800" fill="#ffffff">2</text>
+<svg x="255.0" y="91.5" width="130.0" height="97.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M14 86C50 86 70 82 84 58C96 36 70 22 60 40" stroke-width="12"/><path d="M14 86C50 86 70 82 84 58C96 36 70 22 60 40" stroke-width="6" stroke="#d9b77a"/><path d="M60 40C52 56 80 74 96 78C112 82 128 78 146 70" stroke-width="12"/><path d="M60 40C52 56 80 74 96 78C112 82 128 78 146 70" stroke-width="6" stroke="#d9b77a"/></g></svg>
+<text x="320.0" y="220.5" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Knot the end</text>
+<path d="M399.0 140.2L426.5 140.2" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="438.5,140.2 426.5,148.2 426.5,132.2" fill="#2b2620"/>
+<circle cx="517.5" cy="50.0" r="20" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="517.5" y="57.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="22.0" font-weight="800" fill="#ffffff">3</text>
+<svg x="452.5" y="91.5" width="130.0" height="97.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><g transform="rotate(-30 80 60)"><path d="M20 60L120 56Q134 56 138 60Q134 64 120 64Z" fill="#dfe4e6"/><ellipse cx="124" cy="60" rx="6" ry="1.5" fill="#ffffff" stroke-width="1.5"/></g><path d="M108 36Q130 20 140 40Q148 60 120 76Q96 92 82 108" stroke-width="2.5" stroke="#c4432f"/></g></svg>
+<text x="517.5" y="220.5" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Eye and tail</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">The knot sits at the thread end.</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="10.0" y="100.0" width="130.0" height="97.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M124 50H134V74H124Z" fill="#b3bec4"/><path d="M34 36H118Q124 36 124 42V82Q124 88 118 88H34Q28 88 28 82V42Q28 36 34 36Z" fill="#ffffff"/><path d="M38 46H58V78H38ZM62 46H82V78H62ZM86 46H106V78H86Z" fill="#9dbb6a" stroke-width="2"/><path d="M34 36H118Q124 36 124 42V82Q124 88 118 88H34Q28 88 28 82V42Q28 36 34 36Z"/><path d="M70 100H82M76 94V106M40 100H52" stroke-width="3"/></g></svg>
+<path d="M140.0 150.0L168.0 150.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="180.0,150.0 168.0,158.0 168.0,142.0" fill="#2b2620"/>
+<rect x="190.0" y="110.0" width="120.0" height="80.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="250.0" y="158.4" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#2b2620">5 days</text>
+<text x="250.0" y="222.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">theoretical</text>
+<path d="M314.0 150.0L324.0 150.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="336.0,150.0 324.0,158.0 324.0,142.0" fill="#2b2620"/>
+<rect x="340.0" y="110.0" width="120.0" height="80.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="400.0" y="158.4" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#2b2620">4 days</text>
+<text x="400.0" y="222.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">after losses</text>
+<path d="M464.0 150.0L474.0 150.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="486.0,150.0 474.0,158.0 474.0,142.0" fill="#2b2620"/>
+<rect x="490.0" y="110.0" width="120.0" height="80.0" rx="12" fill="#f6b84b" stroke="#2b2620" stroke-width="3"/>
+<text x="550.0" y="158.4" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#2b2620">3.3 days</text>
+<text x="550.0" y="222.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="550.0" dy="0.0">with margin</tspan><tspan x="550.0" dy="19.2">on the need</tspan></text>
+<text x="320.0" y="330.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">A margin on the need cuts the result further.</text>
+</svg>

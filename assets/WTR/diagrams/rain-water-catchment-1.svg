@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360">
+<rect x="0" y="0" width="640" height="360" fill="#ffffff" stroke="none"/>
+<g fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<polyline points="40,150 200,80 340,150"/>
+<rect x="40" y="150" width="300" height="8" rx="0"/>
+<line x1="300" y1="158" x2="300" y2="230"/>
+<rect x="280" y="230" width="40" height="40" rx="0"/>
+<text x="300" y="290" font-size="14" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">First-flush diverter</text>
+<rect x="380" y="190" width="180" height="130" rx="0"/>
+<ellipse cx="470" cy="190" rx="90" ry="14"/>
+<line x1="320" y1="250" x2="378" y2="250"/>
+<polyline points="367.2,255.2 378,250 367.2,244.8"/>
+<line x1="540" y1="320" x2="560" y2="335"/>
+<text x="470" y="350" font-size="15" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Covered tank</text>
+<text x="120" y="130" font-size="15" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Gutter</text>
+</g>
+</svg>

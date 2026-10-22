@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<path d="M320.0 40.0L320.0 300.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-dasharray="6 8"/>
+<svg x="30.0" y="60.0" width="270.0" height="202.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M22 18H138V102H22Z" fill="#f6efe0" stroke="none"/><path d="M22 50V18H138V102H74M50 102H22V74" stroke-width="6"/><path d="M50 102A24 24 0 0 1 74 78" stroke-width="2" stroke-dasharray="4 4"/><path d="M74 102V78" stroke-width="2"/><path d="M64 18H100" stroke-width="6" stroke="#f6efe0"/><path d="M64 15H100M64 21H100" stroke-width="2"/><path d="M22 50V74" stroke-width="2" stroke="#3f7fb0" stroke-dasharray="3 3"/></g></svg>
+<path d="M100.0 170.0L100.0 122.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="100.0,110.0 108.0,122.0 92.0,122.0" fill="#2b2620"/>
+<path d="M160.0 170.0L160.0 122.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="160.0,110.0 168.0,122.0 152.0,122.0" fill="#2b2620"/>
+<svg x="210.0" y="120.0" width="48.0" height="36.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 14L148 104H12Z" fill="#f2c14e"/><path d="M80 44V74" stroke-width="8"/><circle cx="80" cy="89" r="5" fill="#2b2620" stroke="none"/></g></svg>
+<text x="165.0" y="290.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Sealed room</text>
+<text x="165.0" y="52.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Gas at ceiling</text>
+<svg x="360.0" y="70.0" width="190.0" height="142.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M46 104V12H114V104" stroke-width="6"/><clipPath id="FIR-carbon-monoxide-never-burn-indoors-2-2-c52"><path d="M52 18H108V104H52Z"/></clipPath><path d="M52 18H108V104H52Z" fill="#e6c99b" stroke="none"/><rect x="96" y="0" width="64" height="120" fill="#c08f5a" stroke="none" clip-path="url(#FIR-carbon-monoxide-never-burn-indoors-2-2-c52)"/><path d="M52 18H108V104H52Z"/><path d="M60 26H100V56H60ZM60 64H100V96H60Z" stroke-width="2"/><circle cx="98" cy="62" r="4" fill="#b3bec4" stroke-width="2"/><path d="M24 104H136"/></g></svg>
+<path d="M510 200C535 120 585 120 610 175" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="610.0,175.0 596.8,169.2 610.2,160.6" fill="#2b2620"/>
+<text x="465.0" y="290.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Open door</text>
+<text x="320.0" y="336.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">An ajar window does not make a sealed room safe.</text>
+</svg>

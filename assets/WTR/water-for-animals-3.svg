@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="60.0" y="62.0" width="200.0" height="56.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="160.0" y="96.3" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#2b2620">Dry hay</text>
+<rect x="380.0" y="62.0" width="200.0" height="56.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="480.0" y="96.3" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#2b2620">Fresh grass</text>
+<svg x="70.0" y="160.0" width="64.0" height="48.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 12C80 12 114 52 114 74A34 34 0 0 1 46 74C46 52 80 12 80 12Z" fill="#3f7fb0"/><path d="M62 72Q62 88 76 94" stroke-width="5" stroke="#ffffff"/></g></svg>
+<svg x="136.0" y="160.0" width="64.0" height="48.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 12C80 12 114 52 114 74A34 34 0 0 1 46 74C46 52 80 12 80 12Z" fill="#3f7fb0"/><path d="M62 72Q62 88 76 94" stroke-width="5" stroke="#ffffff"/></g></svg>
+<svg x="202.0" y="160.0" width="64.0" height="48.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 12C80 12 114 52 114 74A34 34 0 0 1 46 74C46 52 80 12 80 12Z" fill="#3f7fb0"/><path d="M62 72Q62 88 76 94" stroke-width="5" stroke="#ffffff"/></g></svg>
+<svg x="450.0" y="160.0" width="64.0" height="48.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 12C80 12 114 52 114 74A34 34 0 0 1 46 74C46 52 80 12 80 12Z" fill="#3f7fb0"/><path d="M62 72Q62 88 76 94" stroke-width="5" stroke="#ffffff"/></g></svg>
+<text x="320.0" y="300.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Water needed</text>
+<text x="320.0" y="334.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Dry feed raises the water need.</text>
+</svg>

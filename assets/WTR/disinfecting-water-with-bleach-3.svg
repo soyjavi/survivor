@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="20.0" y="100.0" width="170.0" height="127.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M62 32V22H98V32" stroke-width="12"/><path d="M62 32V22H98V32" stroke-width="6" stroke="#ffffff"/><path d="M108 30L112 16H124L126 30Z" fill="#c4432f"/><clipPath id="WTR-disinfecting-water-with-bleach-3-0-c6"><path d="M48 30H116Q124 30 124 38V96Q124 104 116 104H48Q40 104 40 96V38Q40 30 48 30Z"/></clipPath><path d="M48 30H116Q124 30 124 38V96Q124 104 116 104H48Q40 104 40 96V38Q40 30 48 30Z" fill="#e6907a" stroke="none"/><rect x="106" y="0" width="54" height="120" fill="#cf6f58" stroke="none" clip-path="url(#WTR-disinfecting-water-with-bleach-3-0-c6)"/><path d="M48 30H116Q124 30 124 38V96Q124 104 116 104H48Q40 104 40 96V38Q40 30 48 30Z"/><path d="M52 42H112V92H52Z" stroke-width="2"/><path d="M56 46L108 88M108 46L56 88" stroke-width="2"/></g></svg>
+<rect x="235.0" y="44.0" width="190.0" height="52.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="330.0" y="75.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">None</text>
+<rect x="235.0" y="124.0" width="190.0" height="52.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="330.0" y="155.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Faint chlorine</text>
+<rect x="235.0" y="204.0" width="190.0" height="52.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="330.0" y="235.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Strong chlorine</text>
+<path d="M200.0 165.0L210.0 165.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="222.0,165.0 210.0,173.0 210.0,157.0" fill="#2b2620"/>
+<circle cx="450.0" cy="150.0" r="18" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M441.9 150.0L448.2 156.3L459.0 142.8" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="480.0" y="156.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Target</text>
+<svg x="440.0" y="205.0" width="50.0" height="37.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 12L128 60L80 108L32 60Z" fill="#f2c14e"/><path d="M80 26L114 60L80 94L46 60Z" stroke-width="2"/><path d="M80 42V64" stroke-width="7"/><circle cx="80" cy="77" r="4.5" fill="#2b2620" stroke="none"/></g></svg>
+<path d="M500.0 230.0L508.0 230.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="520.0,230.0 508.0,238.0 508.0,222.0" fill="#2b2620"/>
+<rect x="520.0" y="208.0" width="100.0" height="44.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="570.0" y="226.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620"><tspan x="570.0" dy="0.0">Let it</tspan><tspan x="570.0" dy="18.0">stand</tspan></text>
+<text x="320.0" y="334.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Faint is the target; strong means stand uncovered.</text>
+</svg>

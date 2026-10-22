@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="140.0" y="40.0" width="360.0" height="270.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M92 90L114 74L126 96" stroke-width="13"/><path d="M94 94L136 98" stroke-width="13"/><path d="M56 86L48 66L38 72" stroke-width="13"/><path d="M48 92H90" stroke-width="22"/><circle cx="28" cy="88" r="11" fill="#ffffff"/><path d="M92 90L114 74L126 96" stroke-width="7" stroke="#ffffff"/><path d="M94 94L136 98" stroke-width="7" stroke="#ffffff"/><path d="M56 86L48 66L38 72" stroke-width="7" stroke="#ffffff"/><path d="M48 92H90" stroke-width="16" stroke="#ffffff"/><path d="M12 104H148"/></g></svg>
+<path d="M320.0 120.0L300.0 232.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="300.0" cy="232.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="320.0" y="108.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">On side</text>
+<path d="M130.0 240.0L190.0 242.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="190.0" cy="242.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="126.0" y="246.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Head tilted back</text>
+<path d="M470.0 150.0L405.0 205.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="405.0" cy="205.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="475.0" y="150.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Top leg bent</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Keeps the airway clear.</text>
+</svg>

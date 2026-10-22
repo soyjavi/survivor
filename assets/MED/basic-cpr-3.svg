@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="110.0" y="20.0" width="420.0" height="315.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M90 90L136 94" stroke-width="13"/><path d="M90 88L134 84" stroke-width="13"/><path d="M52 86L80 96" stroke-width="13"/><path d="M46 90H88" stroke-width="22"/><circle cx="28" cy="88" r="11" fill="#ffffff"/><path d="M90 90L136 94" stroke-width="7" stroke="#ffffff"/><path d="M90 88L134 84" stroke-width="7" stroke="#ffffff"/><path d="M52 86L80 96" stroke-width="7" stroke="#ffffff"/><path d="M46 90H88" stroke-width="16" stroke="#ffffff"/><path d="M12 104H148"/></g></svg>
+<rect x="105.0" y="83.0" width="190.0" height="34.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="200.0" y="105.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">below right collarbone</text>
+<path d="M200.0 117.0L250.0 248.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="250.0" cy="248.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<rect x="375.0" y="83.0" width="170.0" height="34.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="460.0" y="105.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">left below armpit</text>
+<path d="M460.0 117.0L330.0 252.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="330.0" cy="252.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Pads go on bare skin.</text>
+</svg>

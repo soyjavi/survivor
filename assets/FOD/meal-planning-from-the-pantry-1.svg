@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="126.0" y="30.0" width="490.0" height="246.0" rx="8" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<path d="M196.0 30.0L196.0 276.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M266.0 30.0L266.0 276.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M336.0 30.0L336.0 276.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M406.0 30.0L406.0 276.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M476.0 30.0L476.0 276.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M546.0 30.0L546.0 276.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M126.0 66.0L616.0 66.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<text x="161.0" y="54.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Mon</text>
+<text x="231.0" y="54.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Tue</text>
+<text x="301.0" y="54.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Wed</text>
+<text x="371.0" y="54.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Thu</text>
+<text x="441.0" y="54.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Fri</text>
+<text x="511.0" y="54.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Sat</text>
+<text x="581.0" y="54.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Sun</text>
+<path d="M126.0 136.0L616.0 136.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M126.0 206.0L616.0 206.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<text x="114.0" y="107.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Staples</text>
+<text x="114.0" y="177.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Proteins</text>
+<text x="114.0" y="247.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Vegetables</text>
+<circle cx="161.0" cy="101.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M154.7 101.0L159.6 105.9L168.0 95.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="231.0" cy="101.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M224.7 101.0L229.6 105.9L238.0 95.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="301.0" cy="101.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M294.7 101.0L299.6 105.9L308.0 95.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="371.0" cy="101.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M364.7 101.0L369.6 105.9L378.0 95.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="441.0" cy="101.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M434.7 101.0L439.6 105.9L448.0 95.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="511.0" cy="101.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M504.7 101.0L509.6 105.9L518.0 95.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="581.0" cy="101.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M574.7 101.0L579.6 105.9L588.0 95.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="161.0" cy="171.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M154.7 171.0L159.6 175.9L168.0 165.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="231.0" cy="171.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M224.7 171.0L229.6 175.9L238.0 165.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="301.0" cy="171.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M294.7 171.0L299.6 175.9L308.0 165.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="371.0" cy="171.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M364.7 171.0L369.6 175.9L378.0 165.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<svg x="419.0" y="149.0" width="44.0" height="44.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 12L128 60L80 108L32 60Z" fill="#f2c14e"/><path d="M80 26L114 60L80 94L46 60Z" stroke-width="2"/><path d="M80 42V64" stroke-width="7"/><circle cx="80" cy="77" r="4.5" fill="#2b2620" stroke="none"/></g></svg>
+<circle cx="511.0" cy="171.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M504.7 171.0L509.6 175.9L518.0 165.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="581.0" cy="171.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M574.7 171.0L579.6 175.9L588.0 165.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="161.0" cy="241.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M154.7 241.0L159.6 245.9L168.0 235.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="231.0" cy="241.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M224.7 241.0L229.6 245.9L238.0 235.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="301.0" cy="241.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M294.7 241.0L299.6 245.9L308.0 235.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="371.0" cy="241.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M364.7 241.0L369.6 245.9L378.0 235.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="441.0" cy="241.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M434.7 241.0L439.6 245.9L448.0 235.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="511.0" cy="241.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M504.7 241.0L509.6 245.9L518.0 235.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="581.0" cy="241.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M574.7 241.0L579.6 245.9L588.0 235.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="320.0" y="330.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Every day fills all three slots, so gaps show.</text>
+</svg>

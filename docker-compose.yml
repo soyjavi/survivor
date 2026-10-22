@@ -1,0 +1,15 @@
+name: survivor
+
+services:
+  web:
+    build:
+      context: .
+      args:
+        SURVIVOR_COMMIT: "${SURVIVOR_COMMIT:-}"
+    image: survivor:latest
+    container_name: survivor
+    restart: unless-stopped
+    ports:
+      - "${SURVIVOR_BIND:-0.0.0.0}:8092:80"
+    security_opt:
+      - no-new-privileges:true

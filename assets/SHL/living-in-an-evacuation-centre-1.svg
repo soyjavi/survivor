@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="30.0" y="110.0" width="130.0" height="64.0" rx="6" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<rect x="480.0" y="110.0" width="130.0" height="64.0" rx="6" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<rect x="30.0" y="182.0" width="130.0" height="64.0" rx="6" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<rect x="480.0" y="182.0" width="130.0" height="64.0" rx="6" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<rect x="30.0" y="254.0" width="130.0" height="64.0" rx="6" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<rect x="480.0" y="254.0" width="130.0" height="64.0" rx="6" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<rect x="190.0" y="28.0" width="120.0" height="44.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="250.0" y="55.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Toilets</text>
+<rect x="320.0" y="28.0" width="140.0" height="44.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="390.0" y="55.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Wash stations</text>
+<path d="M320.0 310.0L320.0 132.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="320.0,120.0 328.0,132.0 312.0,132.0" fill="#2b2620"/>
+<text x="340.0" y="220.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Corridor</text>
+<text x="95.0" y="98.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Family bays</text>
+<text x="545.0" y="98.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Family bays</text>
+</svg>

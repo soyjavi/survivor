@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="16.0" y="40.0" width="110.0" height="82.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M75 68L72 98" stroke-width="13"/><path d="M85 68L88 98" stroke-width="13"/><path d="M70 42L64 70" stroke-width="13"/><path d="M90 42L96 70" stroke-width="13"/><path d="M80 42V66" stroke-width="22"/><circle cx="80" cy="20" r="11" fill="#ffffff"/><path d="M75 68L72 98" stroke-width="7" stroke="#ffffff"/><path d="M85 68L88 98" stroke-width="7" stroke="#ffffff"/><path d="M70 42L64 70" stroke-width="7" stroke="#ffffff"/><path d="M90 42L96 70" stroke-width="7" stroke="#ffffff"/><path d="M80 42V66" stroke-width="16" stroke="#ffffff"/><path d="M40 104H120"/></g></svg>
+<text x="71.0" y="150.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Witness</text>
+<rect x="185.0" y="75.0" width="90.0" height="50.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="230.0" y="105.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Link</text>
+<path d="M130.0 100.0L171.0 100.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="183.0,100.0 171.0,108.0 171.0,92.0" fill="#2b2620"/>
+<rect x="335.0" y="75.0" width="90.0" height="50.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="380.0" y="105.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Link</text>
+<path d="M277.0 100.0L321.0 100.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="333.0,100.0 321.0,108.0 321.0,92.0" fill="#2b2620"/>
+<rect x="485.0" y="75.0" width="90.0" height="50.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="530.0" y="105.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Link</text>
+<path d="M427.0 100.0L471.0 100.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="483.0,100.0 471.0,108.0 471.0,92.0" fill="#2b2620"/>
+<svg x="355.0" y="30.0" width="50.0" height="37.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="40" fill="#c4432f"/><path d="M64 44L96 76M96 44L64 76" stroke-width="9" stroke="#ffffff"/></g></svg>
+<svg x="245.0" y="190.0" width="150.0" height="112.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M30 80V106" stroke-width="11"/><path d="M130 80V106" stroke-width="11"/><path d="M30 80V106" stroke-width="5" stroke="#c08f5a"/><path d="M130 80V106" stroke-width="5" stroke="#c08f5a"/><path d="M20 14H140V82H20Z" fill="#e6c99b"/><path d="M20 14H140V82H20Z" stroke-width="6" stroke="#c08f5a"/><path d="M17 11H143V85H17Z" stroke-width="0"/><path d="M30 22H66V54H30Z" fill="#ffffff" stroke-width="2"/><path d="M74 26H106V72H74Z" fill="#ffffff" stroke-width="2"/><path d="M114 20H132V46H114Z" fill="#f6b84b" stroke-width="2"/><path d="M32 60H64V76H32Z" fill="#bfdaec" stroke-width="2"/><circle cx="48" cy="24" r="3" fill="#c4432f" stroke-width="1.5"/><circle cx="90" cy="28" r="3" fill="#c4432f" stroke-width="1.5"/><circle cx="123" cy="22" r="3" fill="#5f8436" stroke-width="1.5"/><circle cx="48" cy="62" r="3" fill="#c4432f" stroke-width="1.5"/><path d="M36 36H60" stroke-width="3" stroke="#b9ab8f"/><path d="M36 44H54" stroke-width="3" stroke="#b9ab8f"/><path d="M80 40H100" stroke-width="3" stroke="#b9ab8f"/><path d="M80 50H96" stroke-width="3" stroke="#b9ab8f"/><path d="M80 60H100" stroke-width="3" stroke="#b9ab8f"/></g></svg>
+<text x="410.0" y="290.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Bulletin</text>
+<path d="M320.0 198.0L230.0 128.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="230.0" cy="128.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<path d="M320.0 198.0L380.0 128.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="380.0" cy="128.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<path d="M320.0 198.0L530.0 128.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="530.0" cy="128.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">One broken link leaves the report unconfirmed.</text>
+</svg>

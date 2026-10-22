@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360">
+<rect x="0" y="0" width="640" height="360" fill="#ffffff" stroke="none"/>
+<g fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<rect x="200" y="60" width="240" height="260" rx="0"/>
+<line x1="200" y1="100" x2="440" y2="100"/>
+<line x1="200" y1="140" x2="440" y2="140"/>
+<line x1="200" y1="200" x2="440" y2="200"/>
+<line x1="200" y1="250" x2="440" y2="250"/>
+<text x="460" y="86" font-size="16" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="start">Cloth</text>
+<text x="460" y="126" font-size="16" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="start">Fine sand</text>
+<text x="460" y="176" font-size="16" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="start">Coarse sand</text>
+<text x="460" y="231" font-size="16" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="start">Gravel</text>
+<text x="320" y="300" font-size="15" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Top to bottom</text>
+</g>
+</svg>

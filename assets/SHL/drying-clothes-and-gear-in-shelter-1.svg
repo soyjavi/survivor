@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="20.0" y="80.0" width="230.0" height="172.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M44 82L16 104M116 82L144 104" stroke-width="2"/><clipPath id="SHL-drying-clothes-and-gear-in-shelter-1-0-c13"><path d="M28 104L80 22L132 104Z"/></clipPath><path d="M28 104L80 22L132 104Z" fill="#f6b84b" stroke="none"/><rect x="80" y="0" width="80" height="120" fill="#e99a36" stroke="none" clip-path="url(#SHL-drying-clothes-and-gear-in-shelter-1-0-c13)"/><path d="M28 104L80 22L132 104Z"/><path d="M64 104L80 56L96 104Z" fill="#4a4036"/><path d="M80 22V12" stroke-width="3"/><path d="M12 104H148"/></g></svg>
+<path d="M300.0 100.0L300.0 250.0" fill="none" stroke="#2b2620" stroke-width="5" stroke-linecap="round"/>
+<text x="300.0" y="80.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Clothing line</text>
+<rect x="440.0" y="120.0" width="170.0" height="150.0" rx="14" fill="none" stroke="#c4432f" stroke-width="3"/>
+<svg x="480.0" y="150.0" width="90.0" height="67.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80.0 16.0 C92.0 36.0 112.0 48.0 112.0 74.0 C112.0 94.0 98.0 106.0 80.0 106.0 C62.0 106.0 48.0 94.0 48.0 74.0 C48.0 58.0 58.0 48.0 62.0 38.0 C66.0 50.0 70.0 54.0 74.0 56.0 C74.0 42.0 76.0 28.0 80.0 16.0Z" fill="#e0702f"/><path d="M80.0 56.0 C88.0 66.0 96.0 74.0 96.0 86.0 C96.0 97.0 89.0 103.0 80.0 103.0 C71.0 103.0 64.0 97.0 64.0 86.0 C64.0 77.0 71.0 71.0 74.0 64.0 C77.0 69.0 78.0 62.0 80.0 56.0Z" fill="#f6b84b" stroke-width="2"/></g></svg>
+<text x="525.0" y="108.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Heat zone</text>
+<path d="M235.0 175.0L408.0 175.0" fill="none" stroke="#3f7fb0" stroke-width="4" stroke-linecap="round"/>
+<polygon points="420.0,175.0 408.0,183.0 408.0,167.0" fill="#3f7fb0"/>
+<text x="360.0" y="160.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Airflow</text>
+<path d="M300.0 295.0L428.0 295.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="440.0,295.0 428.0,303.0 428.0,287.0" fill="#2b2620"/>
+<path d="M440.0 295.0L312.0 295.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="300.0,295.0 312.0,287.0 312.0,303.0" fill="#2b2620"/>
+<text x="370.0" y="322.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Gap</text>
+</svg>

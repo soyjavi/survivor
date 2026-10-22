@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="16.0" y="24.0" width="608.0" height="50.0" rx="8" fill="#b9ab8f" stroke="#2b2620" stroke-width="3"/>
+<rect x="16.0" y="74.0" width="608.0" height="200.0" rx="8" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="120.0" y="57.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Wood</text>
+<text x="265.0" y="57.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Oil</text>
+<text x="410.0" y="57.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Electrical</text>
+<text x="555.0" y="57.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Petrol</text>
+<svg x="75.0" y="105.0" width="90.0" height="67.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 12C80 12 114 52 114 74A34 34 0 0 1 46 74C46 52 80 12 80 12Z" fill="#3f7fb0"/><path d="M62 72Q62 88 76 94" stroke-width="5" stroke="#ffffff"/></g></svg>
+<text x="120.0" y="250.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Water</text>
+<svg x="220.0" y="105.0" width="90.0" height="67.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 12C80 12 114 52 114 74A34 34 0 0 1 46 74C46 52 80 12 80 12Z" fill="#3f7fb0"/><path d="M62 72Q62 88 76 94" stroke-width="5" stroke="#ffffff"/></g></svg>
+<text x="265.0" y="250.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Water</text>
+<svg x="365.0" y="105.0" width="90.0" height="67.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 12C80 12 114 52 114 74A34 34 0 0 1 46 74C46 52 80 12 80 12Z" fill="#3f7fb0"/><path d="M62 72Q62 88 76 94" stroke-width="5" stroke="#ffffff"/></g></svg>
+<text x="410.0" y="250.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Water</text>
+<svg x="485.0" y="105.0" width="100.0" height="75.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><clipPath id="FIR-putting-out-fires-2-3-c10"><path d="M54 40Q36 70 44 98Q46 104 54 104H106Q114 104 116 98Q124 70 106 40Z"/></clipPath><path d="M54 40Q36 70 44 98Q46 104 54 104H106Q114 104 116 98Q124 70 106 40Z" fill="#b9c99a" stroke="none"/><rect x="98" y="0" width="62" height="120" fill="#9dbb6a" stroke="none" clip-path="url(#FIR-putting-out-fires-2-3-c10)"/><path d="M54 40Q36 70 44 98Q46 104 54 104H106Q114 104 116 98Q124 70 106 40Z"/><path d="M60 32L64 16L72 26L80 14L88 26L96 16L100 32Z" fill="#b9c99a"/><path d="M58 38H102" stroke-width="5"/><path d="M80 38Q74 50 66 54M80 38Q88 48 96 50" stroke-width="2"/><path d="M62 64Q60 80 64 96M98 66Q100 80 96 96" stroke-width="2"/></g></svg>
+<text x="555.0" y="250.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Sand</text>
+<circle cx="150.0" cy="120.0" r="16" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M142.8 120.0L148.4 125.6L158.0 113.6" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="295.0" cy="120.0" r="16" fill="#c4432f" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M288.6 113.6L301.4 126.4M301.4 113.6L288.6 126.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="440.0" cy="120.0" r="16" fill="#c4432f" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M433.6 113.6L446.4 126.4M446.4 113.6L433.6 126.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="585.0" cy="120.0" r="16" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M577.8 120.0L583.4 125.6L593.0 113.6" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="320.0" y="316.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Some fires must never be doused with water.</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="30.0" y="16.0" width="580.0" height="316.0" rx="10" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="44.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Distance</text>
+<rect x="90.0" y="58.0" width="460.0" height="252.0" rx="10" fill="#f5f1e8" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="86.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Routine</text>
+<rect x="150.0" y="100.0" width="340.0" height="190.0" rx="10" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="128.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Awareness</text>
+<svg x="245.0" y="143.8" width="150.0" height="112.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="46" fill="#ffffff"/><circle cx="80" cy="60" r="39" stroke-width="2"/><path d="M80 26L88 52L114 60L88 68L80 94L72 68L46 60L72 52Z" fill="#f6b84b"/><path d="M80 26L88 52L80 60ZM114 60L88 68L80 60ZM80 94L72 68L80 60ZM46 60L72 52L80 60Z" fill="#e0702f" stroke-width="0" stroke="none"/><path d="M80 26L88 52L114 60L88 68L80 94L72 68L46 60L72 52Z"/><circle cx="80" cy="60" r="4" fill="#2b2620" stroke="none"/></g></svg>
+</svg>

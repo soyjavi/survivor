@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="14.0" y="122.0" width="120.0" height="56.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="74.0" y="155.9" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Kidneys</text>
+<path d="M137.0 150.0L163.0 150.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="175.0,150.0 163.0,158.0 163.0,142.0" fill="#2b2620"/>
+<rect x="178.0" y="122.0" width="120.0" height="56.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="238.0" y="155.9" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Ureters</text>
+<path d="M301.0 150.0L327.0 150.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="339.0,150.0 327.0,158.0 327.0,142.0" fill="#2b2620"/>
+<rect x="342.0" y="122.0" width="120.0" height="56.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="402.0" y="155.9" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Bladder</text>
+<path d="M465.0 150.0L491.0 150.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="503.0,150.0 491.0,158.0 491.0,142.0" fill="#2b2620"/>
+<rect x="506.0" y="122.0" width="120.0" height="56.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="566.0" y="155.9" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Urethra</text>
+<text x="320.0" y="250.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#2b2620">The path urine takes</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Kidneys are the starting point.</text>
+</svg>

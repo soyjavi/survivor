@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<path d="M70.0 300.0L598.0 300.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="610.0,300.0 598.0,308.0 598.0,292.0" fill="#2b2620"/>
+<path d="M70.0 300.0L70.0 52.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="70.0,40.0 78.0,52.0 62.0,52.0" fill="#2b2620"/>
+<text x="610.0" y="325.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">days</text>
+<text x="82.0" y="50.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">height</text>
+<path d="M70 295L230 245L330 245L560 155" fill="none" stroke="#5f8436" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M70 295L560 70" fill="none" stroke="#c4432f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 8"/>
+<path d="M280.0 250.0L280.0 300.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-dasharray="5 6"/>
+<rect x="230.0" y="308.0" width="100.0" height="28.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="280.0" y="327.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">rest day</text>
+<text x="600.0" y="212.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#5f8436">safe acclimatisation</text>
+<text x="200.0" y="130.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#c4432f">risky ascent</text>
+</svg>

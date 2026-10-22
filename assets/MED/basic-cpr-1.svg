@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="110.0" y="20.0" width="420.0" height="315.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M90 90L136 94" stroke-width="13"/><path d="M90 88L134 84" stroke-width="13"/><path d="M52 86L80 96" stroke-width="13"/><path d="M46 90H88" stroke-width="22"/><circle cx="28" cy="88" r="11" fill="#ffffff"/><path d="M90 90L136 94" stroke-width="7" stroke="#ffffff"/><path d="M90 88L134 84" stroke-width="7" stroke="#ffffff"/><path d="M52 86L80 96" stroke-width="7" stroke="#ffffff"/><path d="M46 90H88" stroke-width="16" stroke="#ffffff"/><path d="M12 104H148"/></g></svg>
+<rect x="215.0" y="93.0" width="150.0" height="34.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="290.0" y="115.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">hand position</text>
+<path d="M290.0 127.0L290.0 252.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="290.0" cy="252.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<path d="M560.0 218.0L560.0 256.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="560.0,268.0 552.0,256.0 568.0,256.0" fill="#2b2620"/>
+<path d="M560.0 268.0L560.0 230.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="560.0,218.0 568.0,230.0 552.0,230.0" fill="#2b2620"/>
+<text x="560.0" y="205.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">about 5 cm</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Let the chest rise fully.</text>
+</svg>

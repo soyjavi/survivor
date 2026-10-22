@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="160.0" y="60.0" width="450.0" height="220.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<path d="M160.0 170.0L610.0 170.0" fill="none" stroke="#b9ab8f" stroke-width="2" stroke-linecap="round"/>
+<rect x="167.0" y="20.0" width="96.0" height="32.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="215.0" y="41.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Identity</text>
+<path d="M215.0 60.0L215.0 280.0" fill="none" stroke="#b9ab8f" stroke-width="2" stroke-linecap="round"/>
+<path d="M185.0 115.0L245.0 115.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<path d="M185.0 225.0L245.0 225.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round" stroke-dasharray="8 6"/>
+<rect x="272.0" y="20.0" width="96.0" height="32.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="41.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Property</text>
+<path d="M320.0 60.0L320.0 280.0" fill="none" stroke="#b9ab8f" stroke-width="2" stroke-linecap="round"/>
+<path d="M290.0 115.0L350.0 115.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<path d="M290.0 225.0L350.0 225.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round" stroke-dasharray="8 6"/>
+<rect x="377.0" y="20.0" width="96.0" height="32.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="425.0" y="41.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Medical</text>
+<path d="M425.0 60.0L425.0 280.0" fill="none" stroke="#b9ab8f" stroke-width="2" stroke-linecap="round"/>
+<path d="M395.0 115.0L455.0 115.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<path d="M395.0 225.0L455.0 225.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round" stroke-dasharray="8 6"/>
+<rect x="482.0" y="20.0" width="96.0" height="32.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="530.0" y="41.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Finance</text>
+<path d="M530.0 60.0L530.0 280.0" fill="none" stroke="#b9ab8f" stroke-width="2" stroke-linecap="round"/>
+<path d="M500.0 115.0L560.0 115.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<path d="M500.0 225.0L560.0 225.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round" stroke-dasharray="8 6"/>
+<text x="150.0" y="121.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Original</text>
+<text x="150.0" y="231.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Photocopy</text>
+<text x="320.0" y="320.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Copies stay beside originals, so one folder is grabbed.</text>
+</svg>

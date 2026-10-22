@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="190.0" y="22.0" width="220.0" height="28.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="300.0" y="41.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">danger</text>
+<circle cx="150.0" cy="36.0" r="13" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="150.0" y="40.7" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="14.3" font-weight="800" fill="#ffffff">1</text>
+<path d="M300.0 51.0L300.0 55.0" fill="none" stroke="#2b2620" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="300.0,67.0 292.0,55.0 308.0,55.0" fill="#2b2620"/>
+<rect x="190.0" y="68.0" width="220.0" height="28.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="300.0" y="87.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">response</text>
+<circle cx="150.0" cy="82.0" r="13" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="150.0" y="86.7" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="14.3" font-weight="800" fill="#ffffff">2</text>
+<path d="M300.0 97.0L300.0 101.0" fill="none" stroke="#2b2620" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="300.0,113.0 292.0,101.0 308.0,101.0" fill="#2b2620"/>
+<rect x="190.0" y="114.0" width="220.0" height="28.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="300.0" y="133.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">airway</text>
+<circle cx="150.0" cy="128.0" r="13" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="150.0" y="132.7" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="14.3" font-weight="800" fill="#ffffff">3</text>
+<path d="M300.0 143.0L300.0 147.0" fill="none" stroke="#2b2620" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="300.0,159.0 292.0,147.0 308.0,147.0" fill="#2b2620"/>
+<rect x="190.0" y="160.0" width="220.0" height="28.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="300.0" y="179.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">breathing</text>
+<circle cx="150.0" cy="174.0" r="13" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="150.0" y="178.7" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="14.3" font-weight="800" fill="#ffffff">4</text>
+<path d="M300.0 189.0L300.0 193.0" fill="none" stroke="#2b2620" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="300.0,205.0 292.0,193.0 308.0,193.0" fill="#2b2620"/>
+<rect x="190.0" y="206.0" width="220.0" height="28.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="300.0" y="225.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">bleeding</text>
+<circle cx="150.0" cy="220.0" r="13" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="150.0" y="224.7" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="14.3" font-weight="800" fill="#ffffff">5</text>
+<path d="M300.0 235.0L300.0 239.0" fill="none" stroke="#2b2620" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="300.0,251.0 292.0,239.0 308.0,239.0" fill="#2b2620"/>
+<rect x="190.0" y="252.0" width="220.0" height="28.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="300.0" y="271.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">disability</text>
+<circle cx="150.0" cy="266.0" r="13" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="150.0" y="270.7" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="14.3" font-weight="800" fill="#ffffff">6</text>
+<path d="M300.0 281.0L300.0 285.0" fill="none" stroke="#2b2620" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="300.0,297.0 292.0,285.0 308.0,285.0" fill="#2b2620"/>
+<rect x="190.0" y="298.0" width="220.0" height="28.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="300.0" y="317.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">exposure</text>
+<circle cx="150.0" cy="312.0" r="13" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="150.0" y="316.7" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="14.3" font-weight="800" fill="#ffffff">7</text>
+<path d="M412 312H500V36H416" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="412.0,36.0 424.0,28.0 424.0,44.0" fill="#2b2620"/>
+<text x="560.0" y="160.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">re-check</text>
+</svg>

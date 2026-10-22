@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="16.0" y="40.0" width="146.0" height="250.0" rx="10" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<rect x="39.0" y="98.0" width="100.0" height="44.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="89.0" y="125.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Stick</text>
+<path d="M89.0 205.0L89.0 150.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="89.0" cy="150.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<rect x="39.0" y="225.0" width="100.0" height="40.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="89.0" y="250.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Dig</text>
+<rect x="170.0" y="40.0" width="146.0" height="250.0" rx="10" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<svg x="183.0" y="70.0" width="120.0" height="90.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><clipPath id="TLS-improvised-tools-1-0-c24"><path d="M28 104L34 74L56 48L90 40L116 54L132 80L134 104Z"/></clipPath><path d="M28 104L34 74L56 48L90 40L116 54L132 80L134 104Z" fill="#cfc7b9" stroke="none"/><rect x="100" y="0" width="60" height="120" fill="#ada291" stroke="none" clip-path="url(#TLS-improvised-tools-1-0-c24)"/><path d="M28 104L34 74L56 48L90 40L116 54L132 80L134 104Z"/><path d="M56 48L66 70L60 88M90 40L94 62L116 54M66 70L94 62" stroke-width="2"/><path d="M16 104H146"/></g></svg>
+<path d="M243.0 205.0L243.0 150.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="243.0" cy="150.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<rect x="193.0" y="225.0" width="100.0" height="40.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="243.0" y="250.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Cut</text>
+<rect x="324.0" y="40.0" width="146.0" height="250.0" rx="10" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<svg x="337.0" y="70.0" width="120.0" height="90.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M124 64Q140 80 128 98Q120 106 108 102" stroke-width="11"/><path d="M124 64Q140 80 128 98Q120 106 108 102" stroke-width="5" stroke="#d9b77a"/><path d="M36 64A44 30 0 1 0 124 64A44 30 0 1 0 36 64" stroke-width="11"/><path d="M46 64A34 22 0 1 0 114 64A34 22 0 1 0 46 64" stroke-width="11"/><path d="M56 64A24 14 0 1 0 104 64A24 14 0 1 0 56 64" stroke-width="11"/><path d="M36 64A44 30 0 1 0 124 64A44 30 0 1 0 36 64" stroke-width="5" stroke="#d9b77a"/><path d="M46 64A34 22 0 1 0 114 64A34 22 0 1 0 46 64" stroke-width="5" stroke="#d9b77a"/><path d="M56 64A24 14 0 1 0 104 64A24 14 0 1 0 56 64" stroke-width="5" stroke="#d9b77a"/></g></svg>
+<path d="M397.0 205.0L397.0 150.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="397.0" cy="150.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<rect x="347.0" y="225.0" width="100.0" height="40.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="397.0" y="250.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Bind</text>
+<rect x="478.0" y="40.0" width="146.0" height="250.0" rx="10" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<svg x="491.0" y="70.0" width="120.0" height="90.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><clipPath id="TLS-improvised-tools-1-2-c5"><path d="M68 20H92V28Q92 32 96 36Q106 44 106 56V98Q106 104 100 104H60Q54 104 54 98V56Q54 44 64 36Q68 32 68 28Z"/></clipPath><path d="M68 20H92V28Q92 32 96 36Q106 44 106 56V98Q106 104 100 104H60Q54 104 54 98V56Q54 44 64 36Q68 32 68 28Z" fill="#bfdaec" stroke="none"/><rect x="92" y="0" width="68" height="120" fill="#8fbcdb" stroke="none" clip-path="url(#TLS-improvised-tools-1-2-c5)"/><path d="M68 20H92V28Q92 32 96 36Q106 44 106 56V98Q106 104 100 104H60Q54 104 54 98V56Q54 44 64 36Q68 32 68 28Z"/><path d="M66 8H94Q96 8 96 10V20H64V10Q64 8 66 8Z" fill="#3f7fb0"/><path d="M54 62H106V86H54Z" fill="#ffffff"/><path d="M64 74H96" stroke-width="4" stroke="#b9ab8f"/><path d="M62 92V98" stroke-width="3" stroke="#ffffff"/></g></svg>
+<path d="M551.0 205.0L551.0 150.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="551.0" cy="150.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<rect x="501.0" y="225.0" width="100.0" height="40.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="551.0" y="250.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Scoop</text>
+<text x="320.0" y="326.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Each tool matches one task.</text>
+</svg>

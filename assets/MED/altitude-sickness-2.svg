@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="10.0" y="120.0" width="120.0" height="90.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M38 34H122A26 26 0 0 1 122 86H38A26 26 0 0 1 38 34Z" fill="#ffffff"/><circle cx="40" cy="60" r="8" fill="#2b2620"/><path d="M58 60H118" stroke-width="6" stroke="#b9ab8f"/></g></svg>
+<text x="70.0" y="240.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">symptoms</text>
+<svg x="150.0" y="100.0" width="160.0" height="120.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 12L148 60L80 108L12 60Z" fill="#ffffff"/><path d="M80 18L140 60" stroke-width="2" stroke="#e6d9bd"/><path d="M56 60H104" stroke-width="6" stroke="#b9ab8f"/></g></svg>
+<path d="M300.0 150.0L429.0 94.7" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="440.0,90.0 432.1,102.1 425.8,87.4" fill="#2b2620"/>
+<path d="M300.0 200.0L429.0 255.3" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="440.0,260.0 425.8,262.6 432.1,247.9" fill="#2b2620"/>
+<text x="360.0" y="108.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">mild</text>
+<text x="330.0" y="262.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="330.0" dy="0.0">worsening</tspan><tspan x="330.0" dy="19.2">or confusion</tspan></text>
+<svg x="450.0" y="40.0" width="80.0" height="60.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="40" fill="#5f8436"/><path d="M60 62L75 77L102 46" stroke-width="9" stroke="#ffffff"/></g></svg>
+<rect x="500.0" y="98.0" width="120.0" height="56.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="560.0" y="122.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620"><tspan x="560.0" dy="0.0">rest and</tspan><tspan x="560.0" dy="18.0">reassess</tspan></text>
+<svg x="450.0" y="220.0" width="80.0" height="60.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 14L148 104H12Z" fill="#f2c14e"/><path d="M80 44V74" stroke-width="8"/><circle cx="80" cy="89" r="5" fill="#2b2620" stroke="none"/></g></svg>
+<rect x="500.0" y="286.0" width="120.0" height="40.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="560.0" y="311.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">descend now</text>
+<text x="320.0" y="346.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Confusion alone means descend, no waiting.</text>
+</svg>

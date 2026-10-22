@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="40.0" y="60.0" width="560.0" height="52.0" rx="8" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="110.0" y="91.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#faf7f0">Time</text>
+<text x="250.0" y="91.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#faf7f0">Reading before</text>
+<text x="390.0" y="91.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#faf7f0">Treatment given</text>
+<text x="530.0" y="91.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#faf7f0">Reading after</text>
+<rect x="40.0" y="112.0" width="560.0" height="52.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<rect x="40.0" y="164.0" width="560.0" height="52.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<rect x="40.0" y="216.0" width="560.0" height="52.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<path d="M180.0 112.0L180.0 268.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M320.0 112.0L320.0 268.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M460.0 112.0L460.0 268.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Each dose is recorded for the next helper.</text>
+</svg>

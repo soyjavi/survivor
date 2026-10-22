@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="40.0" y="72.0" width="110.0" height="56.0" rx="28.0" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="95.0" y="106.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Listen</text>
+<path d="M270 52L340 100L270 148L200 100Z" fill="#faf7f0" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="270.0" y="106.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Gap found?</text>
+<rect x="380.0" y="72.0" width="110.0" height="56.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="435.0" y="106.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Transmit</text>
+<rect x="520.0" y="72.0" width="100.0" height="56.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="570.0" y="106.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Confirm</text>
+<path d="M150.0 100.0L186.0 100.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="198.0,100.0 186.0,108.0 186.0,92.0" fill="#2b2620"/>
+<path d="M342.0 100.0L366.0 100.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="378.0,100.0 366.0,108.0 366.0,92.0" fill="#2b2620"/>
+<text x="360.0" y="88.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#2b2620">Yes</text>
+<path d="M490.0 100.0L506.0 100.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="518.0,100.0 506.0,108.0 506.0,92.0" fill="#2b2620"/>
+<path d="M270 148V230H95" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M95.0 230.0L95.0 142.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="95.0,130.0 103.0,142.0 87.0,142.0" fill="#2b2620"/>
+<text x="180.0" y="252.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">No: keep listening</text>
+<path d="M570 128V300H30V100" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M30.0 100.0L26.0 100.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="38.0,100.0 26.0,108.0 26.0,92.0" fill="#2b2620"/>
+<text x="300.0" y="322.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Repeat for the next call</text>
+</svg>

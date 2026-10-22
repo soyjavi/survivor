@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360">
+<rect x="0" y="0" width="640" height="360" fill="#ffffff" stroke="none"/>
+<g fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<polyline points="160,300 160,330 480,330 480,300"/>
+<line x1="120" y1="150" x2="520" y2="150"/>
+<polygon points="200,250 210,290 400,290 410,250"/>
+<polyline points="180,300 200,285 220,300"/>
+<polyline points="200,240 200,150 420,150 420,228"/>
+<text x="200" y="135" font-size="15" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="start">Steam rises</text>
+<text x="430" y="180" font-size="15" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="start">Condenses</text>
+<text x="440" y="265" font-size="15" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="start">Drips to bowl</text>
+</g>
+</svg>

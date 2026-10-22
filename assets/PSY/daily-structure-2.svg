@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="220.0" y="28.0" width="160.0" height="44.0" rx="12" fill="#f6b84b" stroke="#2b2620" stroke-width="3"/>
+<text x="300.0" y="55.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Priority 1</text>
+<rect x="220.0" y="82.0" width="160.0" height="44.0" rx="12" fill="#f6b84b" stroke="#2b2620" stroke-width="3"/>
+<text x="300.0" y="109.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Priority 2</text>
+<rect x="220.0" y="136.0" width="160.0" height="44.0" rx="12" fill="#f6b84b" stroke="#2b2620" stroke-width="3"/>
+<text x="300.0" y="163.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Priority 3</text>
+<path d="M 400 30 L 416 30 L 416 176 L 400 176" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="428.0" y="108.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Finish first</text>
+<rect x="70.0" y="215.0" width="460.0" height="70.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="300.0" y="255.9" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Everything else</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">The base is optional when the day goes wrong.</text>
+</svg>

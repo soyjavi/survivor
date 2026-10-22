@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<path d="M30.0 150.0L598.0 150.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="610.0,150.0 598.0,158.0 598.0,142.0" fill="#2b2620"/>
+<svg x="65.0" y="80.0" width="90.0" height="67.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M50 40V106" stroke-width="2" stroke-dasharray="6 6"/><circle cx="50" cy="28" r="11" fill="#f6b84b"/><circle cx="50" cy="28" r="4" fill="#2b2620" stroke="none"/><path d="M72 22H132" stroke-width="6" stroke="#b9ab8f"/><path d="M72 38H116" stroke-width="4" stroke="#b9ab8f"/></g></svg>
+<svg x="125.0" y="80.0" width="90.0" height="67.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M50 40V106" stroke-width="2" stroke-dasharray="6 6"/><circle cx="50" cy="28" r="11" fill="#f6b84b"/><circle cx="50" cy="28" r="4" fill="#2b2620" stroke="none"/><path d="M72 22H132" stroke-width="6" stroke="#b9ab8f"/><path d="M72 38H116" stroke-width="4" stroke="#b9ab8f"/></g></svg>
+<svg x="185.0" y="80.0" width="90.0" height="67.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M50 40V106" stroke-width="2" stroke-dasharray="6 6"/><circle cx="50" cy="28" r="11" fill="#f6b84b"/><circle cx="50" cy="28" r="4" fill="#2b2620" stroke="none"/><path d="M72 22H132" stroke-width="6" stroke="#b9ab8f"/><path d="M72 38H116" stroke-width="4" stroke="#b9ab8f"/></g></svg>
+<text x="170.0" y="60.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Three blasts</text>
+<path d="M270.0 200.0L438.0 200.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="450.0,200.0 438.0,208.0 438.0,192.0" fill="#2b2620"/>
+<path d="M450.0 200.0L282.0 200.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="270.0,200.0 282.0,192.0 282.0,208.0" fill="#2b2620"/>
+<text x="360.0" y="230.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">One-minute gap: listen</text>
+<path d="M580 170C600 290 120 300 110 175" fill="none" stroke="#3f7fb0" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M110.0 190.0L110.0 184.0" fill="none" stroke="#3f7fb0" stroke-width="4" stroke-linecap="round"/>
+<polygon points="110.0,172.0 118.0,184.0 102.0,184.0" fill="#3f7fb0"/>
+<text x="360.0" y="300.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#3f7fb0">Repeat</text>
+</svg>

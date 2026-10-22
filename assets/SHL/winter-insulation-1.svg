@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="190.0" y="70.0" width="260.0" height="195.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M100 46V24H114V58" fill="#ffffff"/><clipPath id="SHL-winter-insulation-1-0-c54"><path d="M36 56H124V104H36Z"/></clipPath><path d="M36 56H124V104H36Z" fill="#ffffff" stroke="none"/><rect x="108" y="0" width="52" height="120" fill="#e6d9bd" stroke="none" clip-path="url(#SHL-winter-insulation-1-0-c54)"/><path d="M36 56H124V104H36Z"/><clipPath id="SHL-winter-insulation-1-0-c55"><path d="M22 62L80 18L138 62Z"/></clipPath><path d="M22 62L80 18L138 62Z" fill="#c4432f" stroke="none"/><rect x="100" y="0" width="60" height="120" fill="#9e3424" stroke="none" clip-path="url(#SHL-winter-insulation-1-0-c55)"/><path d="M22 62L80 18L138 62Z"/><path d="M70 104V76H90V104Z" fill="#c08f5a"/><circle cx="86" cy="90" r="2" fill="#2b2620" stroke="none"/><path d="M44 68H62V84H44ZM98 68H116V84H98Z" fill="#bfdaec"/><path d="M53 68V84M107 68V84" stroke-width="2"/><path d="M12 104H148"/></g></svg>
+<path d="M320.0 36.0L320.0 68.0" fill="none" stroke="#2b2620" stroke-width="6" stroke-linecap="round"/>
+<polygon points="320.0,80.0 312.0,68.0 328.0,68.0" fill="#2b2620"/>
+<text x="345.0" y="62.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Roof</text>
+<path d="M120.0 200.0L228.0 200.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="240.0,200.0 228.0,208.0 228.0,192.0" fill="#2b2620"/>
+<text x="110.0" y="206.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Walls</text>
+<path d="M520.0 224.0L408.0 224.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="396.0,224.0 408.0,216.0 408.0,232.0" fill="#2b2620"/>
+<text x="530.0" y="230.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Doors</text>
+<path d="M520.0 190.0L408.0 190.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="396.0,190.0 408.0,182.0 408.0,198.0" fill="#2b2620"/>
+<text x="530.0" y="196.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Windows</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Heat escapes fastest through the roof.</text>
+</svg>

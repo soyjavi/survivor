@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="20.0" y="50.0" width="340.0" height="255.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M12 40H148V108H12ZM48 40L56 102H104L112 40Z" fill="#e6d9bd" stroke="none" fill-rule="evenodd"/><clipPath id="HYG-rubbish-and-garbage-4-0-c81"><path d="M12 40H148V108H12ZM48 40L56 102H104L112 40Z" clip-rule="evenodd"/></clipPath><g clip-path="url(#HYG-rubbish-and-garbage-4-0-c81)"><path d="M26 56L18 68M44 56L36 68M62 56L54 68M80 56L72 68M98 56L90 68M116 56L108 68M134 56L126 68" stroke-width="2" stroke="#b9ab8f"/></g><path d="M48 40L56 102H104L112 40Z" fill="#cdbb98"/><path d="M12 40H48L56 102H104L112 40H148"/><path d="M128 47V95" stroke-width="2"/><path d="M128.0 42.0 L133.0 50.0 L123.0 50.0Z" fill="#2b2620" stroke="#2b2620"/><path d="M128.0 100.0 L123.0 92.0 L133.0 92.0Z" fill="#2b2620" stroke="#2b2620"/></g></svg>
+<text x="190.0" y="40.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Add soil as it fills</text>
+<rect x="435.0" y="119.0" width="170.0" height="34.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="520.0" y="141.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Soil cap</text>
+<path d="M430.0 136.0L378.0 136.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="366.0,136.0 378.0,128.0 378.0,144.0" fill="#2b2620"/>
+<rect x="435.0" y="159.0" width="170.0" height="34.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="520.0" y="181.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Soil layer</text>
+<path d="M430.0 176.0L378.0 176.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="366.0,176.0 378.0,168.0 378.0,184.0" fill="#2b2620"/>
+<rect x="435.0" y="199.0" width="170.0" height="34.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="520.0" y="221.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Rubbish layer</text>
+<path d="M430.0 216.0L378.0 216.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="366.0,216.0 378.0,208.0 378.0,224.0" fill="#2b2620"/>
+<rect x="435.0" y="239.0" width="170.0" height="34.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="520.0" y="261.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Soil layer</text>
+<path d="M430.0 256.0L378.0 256.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="366.0,256.0 378.0,248.0 378.0,264.0" fill="#2b2620"/>
+<rect x="435.0" y="279.0" width="170.0" height="34.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="520.0" y="301.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Rubbish layer</text>
+<path d="M430.0 296.0L378.0 296.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="366.0,296.0 378.0,288.0 378.0,304.0" fill="#2b2620"/>
+</svg>

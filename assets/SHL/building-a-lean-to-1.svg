@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="170.0" y="80.0" width="290.0" height="217.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M40 104V48" stroke-width="12"/><path d="M40 58L32 44" stroke-width="12"/><path d="M120 104V56" stroke-width="12"/><path d="M120 64L128 52" stroke-width="12"/><path d="M40 104V48" stroke-width="6" stroke="#c08f5a"/><path d="M40 58L32 44" stroke-width="6" stroke="#c08f5a"/><path d="M120 104V56" stroke-width="6" stroke="#c08f5a"/><path d="M120 64L128 52" stroke-width="6" stroke="#c08f5a"/><path d="M34 50H128" stroke-width="12"/><path d="M34 50H128" stroke-width="6" stroke="#c08f5a"/><clipPath id="SHL-building-a-lean-to-1-0-c15"><path d="M34 52L138 102H120L34 64Z"/></clipPath><path d="M34 52L138 102H120L34 64Z" fill="#e6c99b" stroke="none"/><rect x="140" y="0" width="20" height="120" fill="#e6d9bd" stroke="none" clip-path="url(#SHL-building-a-lean-to-1-0-c15)"/><path d="M34 52L138 102H120L34 64Z"/><path d="M40 52Q46 40 56 48Q62 38 72 52Q80 44 88 62Q98 56 104 72Q114 68 116 82Q126 80 128 92Q136 92 138 102L34 52Z" fill="#c3d79a"/><path d="M12 104H148"/></g></svg>
+<path d="M260.0 98.8L260.0 150.8" fill="none" stroke="#3f7fb0" stroke-width="3" stroke-linecap="round"/>
+<polygon points="260.0,162.8 252.0,150.8 268.0,150.8" fill="#3f7fb0"/>
+<path d="M300.0 119.2L300.0 171.2" fill="none" stroke="#3f7fb0" stroke-width="3" stroke-linecap="round"/>
+<polygon points="300.0,183.2 292.0,171.2 308.0,171.2" fill="#3f7fb0"/>
+<path d="M340.0 139.6L340.0 191.6" fill="none" stroke="#3f7fb0" stroke-width="3" stroke-linecap="round"/>
+<polygon points="340.0,203.6 332.0,191.6 348.0,191.6" fill="#3f7fb0"/>
+<path d="M380.0 160.0L380.0 212.0" fill="none" stroke="#3f7fb0" stroke-width="3" stroke-linecap="round"/>
+<polygon points="380.0,224.0 372.0,212.0 388.0,212.0" fill="#3f7fb0"/>
+<path d="M415.0 177.9L415.0 229.9" fill="none" stroke="#3f7fb0" stroke-width="3" stroke-linecap="round"/>
+<polygon points="415.0,241.9 407.0,229.9 423.0,229.9" fill="#3f7fb0"/>
+<text x="215.0" y="74.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#3f7fb0">Rain</text>
+<path d="M100.0 150.0L232.0 168.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="232.0" cy="168.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="90.0" y="150.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Ridge pole</text>
+<path d="M520.0 112.0L330.0 215.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="330.0" cy="215.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="530.0" y="112.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Roof layers</text>
+<svg x="480.0" y="190.0" width="90.0" height="67.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80.0 16.0 C92.0 36.0 112.0 48.0 112.0 74.0 C112.0 94.0 98.0 106.0 80.0 106.0 C62.0 106.0 48.0 94.0 48.0 74.0 C48.0 58.0 58.0 48.0 62.0 38.0 C66.0 50.0 70.0 54.0 74.0 56.0 C74.0 42.0 76.0 28.0 80.0 16.0Z" fill="#e0702f"/><path d="M80.0 56.0 C88.0 66.0 96.0 74.0 96.0 86.0 C96.0 97.0 89.0 103.0 80.0 103.0 C71.0 103.0 64.0 97.0 64.0 86.0 C64.0 77.0 71.0 71.0 74.0 64.0 C77.0 69.0 78.0 62.0 80.0 56.0Z" fill="#f6b84b" stroke-width="2"/></g></svg>
+<text x="525.0" y="290.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Open front</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Water sheds top to bottom and never pools on the cover.</text>
+</svg>

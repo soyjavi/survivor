@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="190.0" y="95.0" width="260.0" height="195.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M22 104V34" stroke-width="12"/><path d="M140 104V64" stroke-width="12"/><path d="M22 104V34" stroke-width="6" stroke="#c08f5a"/><path d="M140 104V64" stroke-width="6" stroke="#c08f5a"/><path d="M24 70H140V82H24Z" fill="#e6c99b"/><clipPath id="PSY-sleep-and-stress-2-0-c64"><path d="M24 54H140V70H24Z"/></clipPath><path d="M24 54H140V70H24Z" fill="#ffffff" stroke="none"/><rect x="136" y="0" width="24" height="120" fill="#e6d9bd" stroke="none" clip-path="url(#PSY-sleep-and-stress-2-0-c64)"/><path d="M24 54H140V70H24Z"/><clipPath id="PSY-sleep-and-stress-2-0-c65"><path d="M62 50H142V72H62Z"/></clipPath><path d="M62 50H142V72H62Z" fill="#8fbcdb" stroke="none"/><rect x="126" y="0" width="34" height="120" fill="#3f7fb0" stroke="none" clip-path="url(#PSY-sleep-and-stress-2-0-c65)"/><path d="M62 50H142V72H62Z"/><path d="M62 50Q58 62 62 72" stroke-width="2"/><ellipse cx="42" cy="48" rx="15" ry="7" fill="#ffffff"/><path d="M12 104H148"/></g></svg>
+<path d="M160.0 90.0L234.7 133.9" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="245.0,140.0 230.6,140.8 238.7,127.0" fill="#2b2620"/>
+<path d="M320.0 55.0L320.0 116.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="320.0,128.0 312.0,116.0 328.0,116.0" fill="#2b2620"/>
+<path d="M480.0 90.0L405.3 133.9" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="395.0,140.0 401.3,127.0 409.4,140.8" fill="#2b2620"/>
+<path d="M160.0 290.0L229.0 259.8" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="240.0,255.0 232.2,267.1 225.8,252.5" fill="#2b2620"/>
+<path d="M480.0 290.0L411.0 259.8" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="400.0,255.0 414.2,252.5 407.8,267.1" fill="#2b2620"/>
+<text x="120.0" y="70.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#2b2620">Noise</text>
+<text x="320.0" y="40.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#2b2620">Cold</text>
+<text x="520.0" y="70.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#2b2620">Light</text>
+<text x="120.0" y="315.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#2b2620">Hunger</text>
+<text x="520.0" y="315.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#2b2620">Worry</text>
+</svg>

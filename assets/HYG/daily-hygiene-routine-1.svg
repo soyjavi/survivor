@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<path d="M40.0 150.0L598.0 150.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="610.0,150.0 598.0,158.0 598.0,142.0" fill="#2b2620"/>
+<circle cx="153.3" cy="150.0" r="10" fill="#f6b84b" stroke="#2b2620" stroke-width="3"/>
+<text x="153.3" y="194.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Morning wash</text>
+<circle cx="320.0" cy="150.0" r="10" fill="#f6b84b" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="194.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Midday check</text>
+<circle cx="486.7" cy="150.0" r="10" fill="#f6b84b" stroke="#2b2620" stroke-width="3"/>
+<text x="486.7" y="194.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="486.7" dy="0.0">Evening: body</tspan><tspan x="486.7" dy="19.2">and feet</tspan></text>
+<rect x="170.0" y="245.0" width="300.0" height="50.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="275.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Weekly band at the end</text>
+<text x="320.0" y="336.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Each task is tied to a fixed moment.</text>
+</svg>

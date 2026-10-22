@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="60.0" y="5.0" width="380.0" height="380.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><clipPath id="FOD-fermenting-vegetables-1-0-c7"><path d="M54 34H106V40Q118 46 118 60V94Q118 104 108 104H52Q42 104 42 94V60Q42 46 54 40Z"/></clipPath><path d="M54 34H106V40Q118 46 118 60V94Q118 104 108 104H52Q42 104 42 94V60Q42 46 54 40Z" fill="#eaf3f8" stroke="none"/><rect x="100" y="0" width="60" height="120" fill="#bfdaec" stroke="none" clip-path="url(#FOD-fermenting-vegetables-1-0-c7)"/><path d="M54 34H106V40Q118 46 118 60V94Q118 104 108 104H52Q42 104 42 94V60Q42 46 54 40Z"/><path d="M52 20H108V36H52Z" fill="#dfe4e6"/><path d="M62 22V34M72 22V34M82 22V34M92 22V34M102 22V34" stroke-width="2"/><path d="M52 66V92" stroke-width="3" stroke="#ffffff"/></g></svg>
+<svg x="200.0" y="130.5" width="100.0" height="75.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M68 38A12 12 0 1 1 92 38" stroke-width="8"/><clipPath id="FOD-fermenting-vegetables-1-1-c79"><path d="M42 104L52 44H108L118 104Z"/></clipPath><path d="M42 104L52 44H108L118 104Z" fill="#4a4036" stroke="none"/><rect x="104" y="0" width="56" height="120" fill="#2b2620" stroke="none" clip-path="url(#FOD-fermenting-vegetables-1-1-c79)"/><path d="M42 104L52 44H108L118 104Z"/><text x="80" y="86" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="22" font-weight="800" text-anchor="middle" fill="#ffffff" stroke="none">kg</text></g></svg>
+<path d="M250.0 90.0L250.0 48.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="250.0,36.0 258.0,48.0 242.0,48.0" fill="#2b2620"/>
+<text x="270.0" y="60.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Gas out</text>
+<path d="M165.0 200.0L335.0 200.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round" stroke-dasharray="7 6"/>
+<text x="520.0" y="246.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Brine</text>
+<path d="M515.0 242.0L330.0 214.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="330.0" cy="214.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="520.0" y="176.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Weight</text>
+<path d="M515.0 172.0L292.0 168.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="292.0" cy="168.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="520.0" y="116.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Loose lid</text>
+<path d="M515.0 112.0L335.0 112.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="335.0" cy="112.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+</svg>

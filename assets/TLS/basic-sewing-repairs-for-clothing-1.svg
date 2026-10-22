@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="16.0" y="24.0" width="196.0" height="270.0" rx="10" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="114.0" y="58.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2b2620">Running</text>
+<svg x="34.0" y="90.0" width="160.0" height="120.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M12 28H148V62H12Z" fill="#8fbcdb"/><path d="M12 58H148V92H12Z" fill="#e6c99b"/><path d="M12 58H148" stroke-width="2"/><path d="M18 74H142" stroke-width="3" stroke-dasharray="10 8"/><path d="M12 28H148M12 92H148" stroke-width="2"/></g></svg>
+<rect x="222.0" y="24.0" width="196.0" height="270.0" rx="10" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="58.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2b2620">Backstitch</text>
+<svg x="240.0" y="90.0" width="160.0" height="120.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M12 28H148V62H12Z" fill="#8fbcdb"/><path d="M12 58H148V92H12Z" fill="#e6c99b"/><path d="M12 58H148" stroke-width="2"/><path d="M18 74H142" stroke-width="3" stroke-dasharray="10 8"/><path d="M12 28H148M12 92H148" stroke-width="2"/></g></svg>
+<rect x="428.0" y="24.0" width="196.0" height="270.0" rx="10" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="526.0" y="58.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#2b2620">Whipstitch</text>
+<svg x="446.0" y="90.0" width="160.0" height="120.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M12 28H148V62H12Z" fill="#8fbcdb"/><path d="M12 58H148V92H12Z" fill="#e6c99b"/><path d="M12 58H148" stroke-width="2"/><path d="M18 74H142" stroke-width="3" stroke-dasharray="10 8"/><path d="M12 28H148M12 92H148" stroke-width="2"/></g></svg>
+<path d="M56.0 240.0L160.0 240.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="172.0,240.0 160.0,248.0 160.0,232.0" fill="#2b2620"/>
+<path d="M270.0 230.0L358.0 230.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="370.0,230.0 358.0,238.0 358.0,222.0" fill="#2b2620"/>
+<path d="M340.0 262.0L302.0 262.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="290.0,262.0 302.0,254.0 302.0,270.0" fill="#2b2620"/>
+<path d="M470.0 240.0L568.0 240.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="580.0,240.0 568.0,248.0 568.0,232.0" fill="#2b2620"/>
+<text x="320.0" y="322.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Arrows show needle direction; backstitch doubles back.</text>
+</svg>

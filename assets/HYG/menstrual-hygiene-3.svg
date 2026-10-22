@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="30.0" y="85.0" width="160.0" height="70.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="110.0" y="116.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="110.0" dy="0.0">Lack of</tspan><tspan x="110.0" dy="19.2">supplies</tspan></text>
+<rect x="240.0" y="85.0" width="160.0" height="70.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="116.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="320.0" dy="0.0">Unchanged</tspan><tspan x="320.0" dy="19.2">pads</tspan></text>
+<rect x="450.0" y="85.0" width="160.0" height="70.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="530.0" y="125.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Infection</text>
+<rect x="135.0" y="220.0" width="160.0" height="70.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="215.0" y="251.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="215.0" dy="0.0">Missed school</tspan><tspan x="215.0" dy="19.2">or work</tspan></text>
+<rect x="345.0" y="220.0" width="160.0" height="70.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="425.0" y="251.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="425.0" dy="0.0">Loss of</tspan><tspan x="425.0" dy="19.2">income</tspan></text>
+<path d="M192.0 120.0L226.0 120.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="238.0,120.0 226.0,128.0 226.0,112.0" fill="#2b2620"/>
+<path d="M402.0 120.0L436.0 120.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="448.0,120.0 436.0,128.0 436.0,112.0" fill="#2b2620"/>
+<path d="M530.0 156.0L530.0 187.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<path d="M530.0 187.0L215.0 187.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<path d="M215.0 187.0L215.0 205.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="215.0,217.0 207.0,205.0 223.0,205.0" fill="#2b2620"/>
+<path d="M298.0 255.0L330.0 255.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="342.0,255.0 330.0,263.0 330.0,247.0" fill="#2b2620"/>
+<svg x="30.0" y="24.0" width="55.0" height="41.2" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 14L148 104H12Z" fill="#f2c14e"/><path d="M80 44V74" stroke-width="8"/><circle cx="80" cy="89" r="5" fill="#2b2620" stroke="none"/></g></svg>
+<text x="92.0" y="64.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">First link</text>
+<text x="320.0" y="338.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">One missing item can start the whole chain.</text>
+</svg>

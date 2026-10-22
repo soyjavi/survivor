@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="40.0" y="16.0" width="560.0" height="40.0" rx="8" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="60.0" y="42.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff">Device</text>
+<text x="220.0" y="42.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff">Watts</text>
+<text x="340.0" y="42.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff">Hours</text>
+<text x="470.0" y="42.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff">Watt-hours</text>
+<rect x="40.0" y="56.0" width="560.0" height="48.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="2"/>
+<text x="60.0" y="87.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#2b2620">Radio</text>
+<text x="220.0" y="87.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#2b2620">5 W</text>
+<text x="340.0" y="87.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#2b2620">4 h</text>
+<text x="470.0" y="87.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#2b2620">20 Wh</text>
+<rect x="40.0" y="104.0" width="560.0" height="48.0" rx="0" fill="#f5f1e8" stroke="#2b2620" stroke-width="2"/>
+<text x="60.0" y="135.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#2b2620">Light</text>
+<text x="220.0" y="135.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#2b2620">3 W</text>
+<text x="340.0" y="135.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#2b2620">5 h</text>
+<text x="470.0" y="135.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#2b2620">15 Wh</text>
+<rect x="40.0" y="152.0" width="560.0" height="48.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="2"/>
+<text x="60.0" y="183.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#2b2620">Charger</text>
+<text x="220.0" y="183.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#2b2620">10 W</text>
+<text x="340.0" y="183.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#2b2620">2 h</text>
+<text x="470.0" y="183.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#2b2620">20 Wh</text>
+<path d="M520.0 204.0L520.0 240.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="520.0,252.0 512.0,240.0 528.0,240.0" fill="#2b2620"/>
+<rect x="40.0" y="256.0" width="560.0" height="52.0" rx="10" fill="#f6b84b" stroke="#2b2620" stroke-width="3"/>
+<text x="60.0" y="289.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#2b2620">Daily total</text>
+<text x="470.0" y="289.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#2b2620">55 Wh</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Each row is one multiplication; the total is their sum.</text>
+</svg>

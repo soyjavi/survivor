@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<path d="M150.0 280.0L150.0 72.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="150.0,60.0 158.0,72.0 142.0,72.0" fill="#2b2620"/>
+<text x="150.0" y="42.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">North</text>
+<path d="M150.0 280.0L315.8 82.4" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="323.6,73.2 322.0,87.5 309.7,77.2" fill="#2b2620"/>
+<text x="333.2" y="61.7" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Route</text>
+<path d="M150 170A110 110 0 0 1 220.7 195.7" fill="none" stroke="#3f7fb0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="180.0" y="145.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#3f7fb0">Bearing</text>
+<svg x="420.0" y="140.0" width="200.0" height="150.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="46" fill="#b3bec4"/><circle cx="80" cy="60" r="40" fill="#ffffff"/><path d="M80.0 26.0L80.0 20.0M97.0 30.6L100.0 25.4M109.4 43.0L114.6 40.0M114.0 60.0L120.0 60.0M109.4 77.0L114.6 80.0M97.0 89.4L100.0 94.6M80.0 94.0L80.0 100.0M63.0 89.4L60.0 94.6M50.6 77.0L45.4 80.0M46.0 60.0L40.0 60.0M50.6 43.0L45.4 40.0M63.0 30.6L60.0 25.4" stroke-width="2"/><path d="M80 24L88 60H72Z" fill="#c4432f"/><path d="M80 96L88 60H72Z" fill="#ffffff"/><circle cx="80" cy="60" r="3.5" fill="#2b2620" stroke="none"/><text x="80" y="13" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="13" font-weight="800" text-anchor="middle" fill="#2b2620" stroke="none">N</text></g></svg>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">The bearing is measured from north.</text>
+</svg>

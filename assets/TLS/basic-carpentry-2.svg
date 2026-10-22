@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="150.0" y="90.0" width="340.0" height="255.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M16 64L120 38L146 50L42 78Z" fill="#e6c99b"/><path d="M16 64L42 78V90L16 76Z" fill="#c08f5a"/><path d="M42 78L146 50V62L42 90Z" fill="#c08f5a"/><path d="M40 66Q70 56 104 50M56 70Q90 60 124 52" stroke-width="2"/></g></svg>
+<path d="M340.0 120.0L340.0 290.0" fill="none" stroke="#c4432f" stroke-width="3" stroke-linecap="round" stroke-dasharray="9 7"/>
+<svg x="350.0" y="20.0" width="130.0" height="97.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M28 86Q28 26 84 26Q136 26 136 84" stroke-width="11"/><path d="M28 86Q28 26 84 26Q136 26 136 84" stroke-width="5" stroke="#c4432f"/><path d="M26 80H138V86H26Z" fill="#dfe4e6"/><path d="M28 86l3 6l3 -6l3 6l3 -6l3 6l3 -6l3 6l3 -6l3 6l3 -6l3 6l3 -6l3 6l3 -6l3 6l3 -6l3 6l3 -6l3 6l3 -6l3 6l3 -6l3 6l3 -6l3 6l3 -6l3 6l3 -6l3 6l3 -6l3 6l3 -6l3 6l3 -6l3 6l3 -6Z" fill="#dfe4e6" stroke-width="2"/><clipPath id="TLS-basic-carpentry-2-1-c36"><path d="M18 74H36V104Q36 106 34 106H20Q18 106 18 104Z"/></clipPath><path d="M18 74H36V104Q36 106 34 106H20Q18 106 18 104Z" fill="#c08f5a" stroke="none"/><rect x="30" y="0" width="130" height="120" fill="#9a6f42" stroke="none" clip-path="url(#TLS-basic-carpentry-2-1-c36)"/><path d="M18 74H36V104Q36 106 34 106H20Q18 106 18 104Z"/></g></svg>
+<path d="M440.0 106.0L440.0 148.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="440.0,160.0 432.0,148.0 448.0,148.0" fill="#2b2620"/>
+<text x="440.0" y="310.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Waste</text>
+<text x="330.0" y="116.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Cut line</text>
+<text x="240.0" y="310.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Keep</text>
+<path d="M190.0 160.0L330.0 184.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="330.0" cy="184.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="180.0" y="164.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Kerf</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Blade stays on the waste side.</text>
+</svg>

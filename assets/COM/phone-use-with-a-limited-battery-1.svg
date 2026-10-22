@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="150.0" y="41.0" width="300.0" height="58.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="300.0" y="76.3" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#2b2620">Airplane mode</text>
+<circle cx="500.0" cy="70.0" r="18" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M491.9 70.0L498.2 76.3L509.0 62.8" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="150.0" y="121.0" width="300.0" height="58.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="300.0" y="156.3" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#2b2620">Lowered brightness</text>
+<circle cx="500.0" cy="150.0" r="18" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M491.9 150.0L498.2 156.3L509.0 142.8" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="150.0" y="201.0" width="300.0" height="58.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="300.0" y="236.3" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#2b2620">Background data off</text>
+<circle cx="500.0" cy="230.0" r="18" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M491.9 230.0L498.2 236.3L509.0 222.8" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Three switches cut the largest drains; each takes seconds.</text>
+</svg>

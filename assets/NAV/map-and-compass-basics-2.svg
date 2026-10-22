@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="190.0" y="60.0" width="260.0" height="195.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="46" fill="#b3bec4"/><circle cx="80" cy="60" r="40" fill="#ffffff"/><path d="M80.0 26.0L80.0 20.0M97.0 30.6L100.0 25.4M109.4 43.0L114.6 40.0M114.0 60.0L120.0 60.0M109.4 77.0L114.6 80.0M97.0 89.4L100.0 94.6M80.0 94.0L80.0 100.0M63.0 89.4L60.0 94.6M50.6 77.0L45.4 80.0M46.0 60.0L40.0 60.0M50.6 43.0L45.4 40.0M63.0 30.6L60.0 25.4" stroke-width="2"/><path d="M80 24L88 60H72Z" fill="#c4432f"/><path d="M80 96L88 60H72Z" fill="#ffffff"/><circle cx="80" cy="60" r="3.5" fill="#2b2620" stroke="none"/><text x="80" y="13" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="13" font-weight="800" text-anchor="middle" fill="#2b2620" stroke="none">N</text></g></svg>
+<rect x="20.0" y="72.0" width="140.0" height="36.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="90.0" y="95.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Bezel</text>
+<path d="M160.0 96.0L250.0 140.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="250.0" cy="140.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<rect x="20.0" y="202.0" width="140.0" height="36.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="90.0" y="225.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Needle</text>
+<path d="M160.0 216.0L309.0 190.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="309.0" cy="190.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<rect x="475.0" y="62.0" width="150.0" height="36.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="550.0" y="85.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Graduated edge</text>
+<path d="M475.0 92.0L393.0 152.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="393.0" cy="152.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<svg x="450.0" y="140.0" width="80.0" height="60.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M22 48H92V28L138 60L92 92V72H22Z" fill="#e0702f"/><path d="M30 54H88" stroke-width="2" stroke="#f6b84b"/></g></svg>
+<text x="490.0" y="250.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620"><tspan x="490.0" dy="0.0">Travel</tspan><tspan x="490.0" dy="18.0">arrow</tspan></text>
+<svg x="540.0" y="140.0" width="80.0" height="60.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 32L80 88L56 100Z" fill="#2b2620"/><path d="M80 32L104 100L80 88Z" fill="#ffffff"/><path d="M80 32L104 100L80 88L56 100Z"/><text x="80" y="24" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="20" font-weight="800" text-anchor="middle" fill="#2b2620" stroke="none">N</text></g></svg>
+<text x="580.0" y="250.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620"><tspan x="580.0" dy="0.0">Orienting</tspan><tspan x="580.0" dy="18.0">arrow</tspan></text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Needle sits inside the orienting arrow.</text>
+</svg>

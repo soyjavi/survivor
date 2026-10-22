@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="170.0" y="60.0" width="300.0" height="225.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><clipPath id="WTR-rain-water-catchment-3-0-c9"><path d="M50 18Q40 61 50 104H110Q120 61 110 18Z"/></clipPath><path d="M50 18Q40 61 50 104H110Q120 61 110 18Z" fill="#e6c99b" stroke="none"/><rect x="94" y="0" width="66" height="120" fill="#c08f5a" stroke="none" clip-path="url(#WTR-rain-water-catchment-3-0-c9)"/><path d="M50 18Q40 61 50 104H110Q120 61 110 18Z"/><path d="M66 22V102M80 24V104M94 22V102" stroke-width="2"/><path d="M46 36Q80 42 114 36" stroke-width="5"/><path d="M46 86Q80 92 114 86" stroke-width="5"/><ellipse cx="80" cy="18" rx="30" ry="6" fill="#e6c99b"/></g></svg>
+<path d="M170.0 240.0L470.0 240.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<path d="M210.0 66.0L296.0 76.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="296.0" cy="76.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="200.0" y="62.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Lid</text>
+<path d="M440.0 100.0L378.0 112.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="378.0" cy="112.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="450.0" y="106.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Fill date</text>
+<path d="M210.0 166.0L262.0 170.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="262.0" cy="170.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="200.0" y="172.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Tap</text>
+<path d="M440.0 212.0L366.0 216.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="366.0" cy="216.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="450.0" y="218.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Sediment</text>
+<text x="320.0" y="330.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">The raised tap keeps sediment from being drawn off.</text>
+</svg>

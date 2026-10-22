@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="95.0" y="135.0" width="475.0" height="135.0" rx="10" fill="#f6b84b" stroke="#f6b84b" stroke-width="3"/>
+<path d="M60.0 200.0L598.0 200.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="610.0,200.0 598.0,208.0 598.0,192.0" fill="#2b2620"/>
+<circle cx="130.0" cy="200.0" r="9" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<circle cx="220.0" cy="200.0" r="9" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<svg x="155.0" y="20.0" width="130.0" height="97.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><clipPath id="MED-stroke-recognition-2-0-c50"><path d="M62 12H98Q106 12 106 20V100Q106 108 98 108H62Q54 108 54 100V20Q54 12 62 12Z"/></clipPath><path d="M62 12H98Q106 12 106 20V100Q106 108 98 108H62Q54 108 54 100V20Q54 12 62 12Z" fill="#4a4036" stroke="none"/><rect x="98" y="0" width="62" height="120" fill="#2b2620" stroke="none" clip-path="url(#MED-stroke-recognition-2-0-c50)"/><path d="M62 12H98Q106 12 106 20V100Q106 108 98 108H62Q54 108 54 100V20Q54 12 62 12Z"/><path d="M60 22H100V92H60Z" fill="#bfdaec" stroke-width="2"/><text x="80" y="66" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="800" text-anchor="middle" fill="#c4432f" stroke="none">SOS</text><path d="M68 40V36M74 40V32M80 40V28" stroke-width="3"/><circle cx="80" cy="100" r="3" fill="#ffffff" stroke="none"/></g></svg>
+<path d="M220.0 118.0L220.0 190.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<text x="130.0" y="245.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Onset</text>
+<text x="220.0" y="245.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Call for help</text>
+<text x="430.0" y="175.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Treatment window</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">The call must come early, inside the window.</text>
+</svg>

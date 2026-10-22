@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="16.0" y="20.0" width="100.0" height="75.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><clipPath id="HYG-dental-care-without-a-dentist-1-0-c74"><path d="M50 26Q64 18 80 26Q96 18 110 26Q124 40 114 62Q108 78 106 96Q104 106 96 100Q90 82 80 80Q70 82 64 100Q56 106 54 96Q52 78 46 62Q36 40 50 26Z"/></clipPath><path d="M50 26Q64 18 80 26Q96 18 110 26Q124 40 114 62Q108 78 106 96Q104 106 96 100Q90 82 80 80Q70 82 64 100Q56 106 54 96Q52 78 46 62Q36 40 50 26Z" fill="#ffffff" stroke="none"/><rect x="98" y="0" width="62" height="120" fill="#e6d9bd" stroke="none" clip-path="url(#HYG-dental-care-without-a-dentist-1-0-c74)"/><path d="M50 26Q64 18 80 26Q96 18 110 26Q124 40 114 62Q108 78 106 96Q104 106 96 100Q90 82 80 80Q70 82 64 100Q56 106 54 96Q52 78 46 62Q36 40 50 26Z"/><path d="M58 36Q62 30 70 32" stroke-width="3" stroke="#e6d9bd"/></g></svg>
+<rect x="90.0" y="100.0" width="200.0" height="64.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="190.0" y="128.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="190.0" dy="0.0">Angle at</tspan><tspan x="190.0" dy="19.2">gum line</tspan></text>
+<circle cx="96.0" cy="106.0" r="16" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="96.0" y="111.8" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17.6" font-weight="800" fill="#ffffff">1</text>
+<rect x="350.0" y="100.0" width="200.0" height="64.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="450.0" y="137.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Small circles</text>
+<circle cx="356.0" cy="106.0" r="16" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="356.0" y="111.8" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17.6" font-weight="800" fill="#ffffff">2</text>
+<rect x="90.0" y="204.0" width="200.0" height="64.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="190.0" y="232.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="190.0" dy="0.0">Chewing</tspan><tspan x="190.0" dy="19.2">surfaces</tspan></text>
+<circle cx="96.0" cy="210.0" r="16" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="96.0" y="215.8" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17.6" font-weight="800" fill="#ffffff">3</text>
+<rect x="350.0" y="204.0" width="200.0" height="64.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="450.0" y="232.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="450.0" dy="0.0">Inner</tspan><tspan x="450.0" dy="19.2">surfaces</tspan></text>
+<circle cx="356.0" cy="210.0" r="16" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="356.0" y="215.8" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17.6" font-weight="800" fill="#ffffff">4</text>
+<path d="M293.0 132.0L335.0 132.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="347.0,132.0 335.0,140.0 335.0,124.0" fill="#2b2620"/>
+<path d="M450.0 167.0L450.0 184.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<path d="M450.0 184.0L190.0 184.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<path d="M190.0 184.0L190.0 189.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="190.0,201.0 182.0,189.0 198.0,189.0" fill="#2b2620"/>
+<path d="M293.0 236.0L335.0 236.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="347.0,236.0 335.0,244.0 335.0,228.0" fill="#2b2620"/>
+<text x="330.0" y="52.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Inner surfaces are easily missed.</text>
+</svg>

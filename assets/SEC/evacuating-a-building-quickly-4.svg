@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="55.0" y="100.0" width="140.0" height="105.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M46 104V12H114V104" stroke-width="6"/><clipPath id="SEC-evacuating-a-building-quickly-4-0-c52"><path d="M52 18H108V104H52Z"/></clipPath><path d="M52 18H108V104H52Z" fill="#e6c99b" stroke="none"/><rect x="96" y="0" width="64" height="120" fill="#c08f5a" stroke="none" clip-path="url(#SEC-evacuating-a-building-quickly-4-0-c52)"/><path d="M52 18H108V104H52Z"/><path d="M60 26H100V56H60ZM60 64H100V96H60Z" stroke-width="2"/><circle cx="98" cy="62" r="4" fill="#b3bec4" stroke-width="2"/><path d="M24 104H136"/></g></svg>
+<text x="125.0" y="231.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Touch door</text>
+<path d="M199.0 152.5L234.0 152.5" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="246.0,152.5 234.0,160.5 234.0,144.5" fill="#2b2620"/>
+<svg x="250.0" y="100.0" width="140.0" height="105.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 14L148 104H12Z" fill="#f2c14e"/><path d="M80 44V74" stroke-width="8"/><circle cx="80" cy="89" r="5" fill="#2b2620" stroke="none"/></g></svg>
+<text x="320.0" y="231.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Hot door</text>
+<path d="M394.0 152.5L429.0 152.5" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="441.0,152.5 429.0,160.5 429.0,144.5" fill="#2b2620"/>
+<svg x="445.0" y="100.0" width="140.0" height="105.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M16 60H50C74 60 76 32 100 32H132"/><path d="M50 60C74 60 76 88 100 88H132"/><circle cx="50" cy="60" r="4.5" fill="#2b2620"/><path d="M144.0 32.0 L130.0 39.0 L130.0 25.0Z" fill="#2b2620" stroke="#2b2620"/><path d="M144.0 88.0 L130.0 95.0 L130.0 81.0Z" fill="#2b2620" stroke="#2b2620"/></g></svg>
+<text x="515.0" y="231.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Another exit</text>
+<circle cx="70.0" cy="85.0" r="20" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="70.0" y="92.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="22.0" font-weight="800" fill="#ffffff">1</text>
+<circle cx="275.0" cy="85.0" r="20" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="275.0" y="92.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="22.0" font-weight="800" fill="#ffffff">2</text>
+<circle cx="480.0" cy="85.0" r="20" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="480.0" y="92.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="22.0" font-weight="800" fill="#ffffff">3</text>
+<text x="320.0" y="300.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Check before opening.</text>
+</svg>

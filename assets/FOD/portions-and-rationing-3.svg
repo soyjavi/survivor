@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="25.0" y="135.0" width="120.0" height="70.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="85.0" y="175.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Total store</text>
+<circle cx="47.0" cy="118.0" r="15" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="47.0" y="123.4" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16.5" font-weight="800" fill="#ffffff">1</text>
+<path d="M147.0 170.0L165.0 170.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="177.0,170.0 165.0,178.0 165.0,162.0" fill="#2b2620"/>
+<rect x="182.0" y="135.0" width="120.0" height="70.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="242.0" y="166.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="242.0" dy="0.0">Divide by</tspan><tspan x="242.0" dy="19.2">people</tspan></text>
+<circle cx="204.0" cy="118.0" r="15" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="204.0" y="123.4" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16.5" font-weight="800" fill="#ffffff">2</text>
+<path d="M304.0 170.0L322.0 170.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="334.0,170.0 322.0,178.0 322.0,162.0" fill="#2b2620"/>
+<rect x="339.0" y="135.0" width="120.0" height="70.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="399.0" y="166.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="399.0" dy="0.0">Divide by</tspan><tspan x="399.0" dy="19.2">days</tspan></text>
+<circle cx="361.0" cy="118.0" r="15" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="361.0" y="123.4" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16.5" font-weight="800" fill="#ffffff">3</text>
+<path d="M461.0 170.0L479.0 170.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="491.0,170.0 479.0,178.0 479.0,162.0" fill="#2b2620"/>
+<rect x="496.0" y="135.0" width="120.0" height="70.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="556.0" y="175.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Daily ration</text>
+<text x="320.0" y="300.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Each step shows so the arithmetic can be checked.</text>
+</svg>

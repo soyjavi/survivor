@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360">
+<rect x="0" y="0" width="640" height="360" fill="#ffffff" stroke="none"/>
+<g fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<rect x="40" y="150" width="120" height="80" rx="8"/>
+<text x="100.0" y="196.0" font-size="16" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Dose</text>
+<line x1="163" y1="190.0" x2="197" y2="190.0"/>
+<polyline points="186.2,195.2 197,190.0 186.2,184.8"/>
+<rect x="200" y="150" width="120" height="80" rx="8"/>
+<text x="260.0" y="196.0" font-size="16" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Wait</text>
+<line x1="323" y1="190.0" x2="357" y2="190.0"/>
+<polyline points="346.2,195.2 357,190.0 346.2,184.8"/>
+<rect x="360" y="150" width="120" height="80" rx="8"/>
+<text x="420.0" y="196.0" font-size="16" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Pump</text>
+<line x1="483" y1="190.0" x2="517" y2="190.0"/>
+<polyline points="506.2,195.2 517,190.0 506.2,184.8"/>
+<rect x="520" y="150" width="120" height="80" rx="8"/>
+<text x="580.0" y="196.0" font-size="16" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Test</text>
+</g>
+</svg>

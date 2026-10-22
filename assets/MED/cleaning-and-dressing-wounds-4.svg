@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="190.0" y="27.0" width="220.0" height="46.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="300.0" y="55.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">tape</text>
+<rect x="190.0" y="87.0" width="220.0" height="46.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="300.0" y="115.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">rolled bandage</text>
+<rect x="190.0" y="147.0" width="220.0" height="46.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="300.0" y="175.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">gauze</text>
+<rect x="190.0" y="207.0" width="220.0" height="46.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="300.0" y="235.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">non-stick pad</text>
+<path d="M170 28Q150 28 150 48V220Q150 240 170 240" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="40.0" y="100.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620"><tspan x="40.0" dy="0.0">outer layers</tspan><tspan x="40.0" dy="18.0">only hold it</tspan></text>
+<text x="480.0" y="230.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620"><tspan x="480.0" dy="0.0">touches</tspan><tspan x="480.0" dy="18.0">the wound</tspan></text>
+<path d="M475.0 224.0L412.0 230.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="412.0" cy="230.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+</svg>

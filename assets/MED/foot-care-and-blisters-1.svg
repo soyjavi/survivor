@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="100.0" y="20.0" width="330.0" height="247.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><g transform="rotate(-14 56 76)"><path d="M47 58Q56 50 65 58Q67 76 62 80H50Q45 76 47 58Z" fill="#4a4036"/><path d="M49 86H63V96Q56 101 49 96Z" fill="#4a4036"/></g><g transform="rotate(-14 98 44)"><path d="M89 26Q98 18 107 26Q109 44 104 48H92Q87 44 89 26Z" fill="#4a4036"/><path d="M91 54H105V64Q98 69 91 64Z" fill="#4a4036"/></g><path d="M118 92H142" stroke-width="2"/><path d="M148.0 92.0 L139.0 97.0 L139.0 87.0Z" fill="#2b2620" stroke="#2b2620"/></g></svg>
+<path d="M470.0 60.0L298.0 67.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="298.0" cy="67.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="480.0" y="66.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Between toes</text>
+<path d="M470.0 140.0L324.0 112.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="324.0" cy="112.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="480.0" y="146.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Ball of foot</text>
+<path d="M128.0 210.0L206.0 208.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="206.0" cy="208.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="118.0" y="216.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Heel</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Where friction most often starts a blister.</text>
+</svg>

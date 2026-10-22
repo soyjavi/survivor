@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<path d="M60.0 270.0L600.0 270.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<path d="M320.0 262.0L320.0 82.0" fill="none" stroke="#2b2620" stroke-width="5" stroke-linecap="round"/>
+<polygon points="320.0,70.0 328.0,82.0 312.0,82.0" fill="#2b2620"/>
+<path d="M190.0 244.0L312.0 262.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="312.0" cy="262.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="184.0" y="244.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Close to skin</text>
+<text x="340.0" y="170.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Straight up</text>
+<text x="340.0" y="100.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Steady pressure</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Angle and steadiness matter more than force.</text>
+</svg>

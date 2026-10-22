@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="57.3" y="60.0" width="120.0" height="90.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="36" fill="#2b2620"/><text x="80" y="76" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="46" font-weight="800" text-anchor="middle" fill="#ffffff" stroke="none">1</text></g></svg>
+<rect x="38.0" y="160.0" width="158.7" height="84.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="117.3" y="198.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="117.3" dy="0.0">Lubricate</tspan><tspan x="117.3" dy="19.2">with soap</tspan></text>
+<path d="M200.7 202.0L224.7 202.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="236.7,202.0 224.7,210.0 224.7,194.0" fill="#2b2620"/>
+<svg x="260.0" y="60.0" width="120.0" height="90.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="36" fill="#2b2620"/><text x="80" y="76" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="46" font-weight="800" text-anchor="middle" fill="#ffffff" stroke="none">2</text></g></svg>
+<rect x="240.7" y="160.0" width="158.7" height="84.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="198.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="320.0" dy="0.0">Slide ring</tspan><tspan x="320.0" dy="19.2">off gently</tspan></text>
+<path d="M403.3 202.0L427.3 202.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="439.3,202.0 427.3,210.0 427.3,194.0" fill="#2b2620"/>
+<svg x="462.7" y="60.0" width="120.0" height="90.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="36" fill="#2b2620"/><text x="80" y="76" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="46" font-weight="800" text-anchor="middle" fill="#ffffff" stroke="none">3</text></g></svg>
+<rect x="443.3" y="160.0" width="158.7" height="84.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="522.7" y="188.4" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="522.7" dy="0.0">Act while</tspan><tspan x="522.7" dy="19.2">swelling</tspan><tspan x="522.7" dy="19.2">is small</tspan></text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Remove the ring before it tightens.</text>
+</svg>

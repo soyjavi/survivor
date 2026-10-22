@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="90.0" y="38.0" width="260.0" height="64.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="220.0" y="76.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Intact roof</text>
+<rect x="90.0" y="118.0" width="260.0" height="64.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="220.0" y="155.9" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Fluid pocket</text>
+<rect x="90.0" y="198.0" width="260.0" height="64.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="220.0" y="235.9" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Healing skin</text>
+<svg x="450.0" y="125.0" width="70.0" height="52.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 12C80 12 114 52 114 74A34 34 0 0 1 46 74C46 52 80 12 80 12Z" fill="#3f7fb0"/><path d="M62 72Q62 88 76 94" stroke-width="5" stroke="#ffffff"/></g></svg>
+<path d="M450.0 170.0L350.0 150.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="350.0" cy="150.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Keep the roof intact to protect the skin beneath.</text>
+</svg>

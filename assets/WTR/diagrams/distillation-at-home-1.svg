@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360">
+<rect x="0" y="0" width="640" height="360" fill="#ffffff" stroke="none"/>
+<g fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<polyline points="140,150 140,310 440,310 440,150"/>
+<polyline points="130,130 210,190 370,190 450,130"/>
+<polygon points="190,240 200,290 380,290 390,240"/>
+<text x="300" y="100" font-size="16" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Cold water on lid</text>
+<line x1="300" y1="110" x2="300" y2="128"/>
+<polyline points="294.8,117.2 300,128 305.2,117.2"/>
+<line x1="290" y1="200" x2="290" y2="236"/>
+<polyline points="284.8,225.2 290,236 295.2,225.2"/>
+<line x1="340" y1="200" x2="340" y2="236"/>
+<polyline points="334.8,225.2 340,236 345.2,225.2"/>
+<text x="540" y="225" font-size="16" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Drips</text>
+<text x="290" y="275" font-size="15" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Bowl</text>
+<text x="220" y="330" font-size="16" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Water in pot</text>
+</g>
+</svg>

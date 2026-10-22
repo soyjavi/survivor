@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="16.0" y="58.0" width="130.0" height="64.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="81.0" y="96.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Headache</text>
+<path d="M81.0 122.0L245.0 212.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<rect x="170.0" y="58.0" width="130.0" height="64.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="235.0" y="96.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Dizziness</text>
+<path d="M235.0 122.0L295.0 212.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<rect x="324.0" y="58.0" width="130.0" height="64.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="389.0" y="96.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Nausea</text>
+<path d="M389.0 122.0L345.0 212.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<rect x="478.0" y="58.0" width="130.0" height="64.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="543.0" y="96.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Drowsiness</text>
+<path d="M543.0 122.0L395.0 212.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<rect x="150.0" y="212.0" width="300.0" height="56.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="300.0" y="245.9" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Several people unwell together</text>
+<svg x="470.0" y="212.0" width="64.0" height="48.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 14L148 104H12Z" fill="#f2c14e"/><path d="M80 44V74" stroke-width="8"/><circle cx="80" cy="89" r="5" fill="#2b2620" stroke="none"/></g></svg>
+<text x="320.0" y="330.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Shared symptoms are the clue: get to fresh air.</text>
+</svg>

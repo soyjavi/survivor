@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360">
+<rect x="0" y="0" width="640" height="360" fill="#ffffff" stroke="none"/>
+<g fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<rect x="80" y="120" width="150" height="180" rx="10"/>
+<text x="155" y="220" font-size="16" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Sample</text>
+<rect x="340" y="150" width="60" height="130" rx="0"/>
+<rect x="350" y="160" width="40" height="26" rx="0"/>
+<rect x="350" y="200" width="40" height="26" rx="0"/>
+<rect x="350" y="240" width="40" height="26" rx="0"/>
+<line x1="410" y1="210" x2="470" y2="210"/>
+<polyline points="459.2,215.2 470,210 459.2,204.8"/>
+<text x="540" y="200" font-size="15" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Compare</text>
+<text x="540" y="225" font-size="15" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">to chart</text>
+<text x="320" y="330" font-size="15" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Test strip beside sample bottle</text>
+</g>
+</svg>

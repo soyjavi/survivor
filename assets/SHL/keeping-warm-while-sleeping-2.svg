@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="245.0" y="40.0" width="150.0" height="112.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M64 86L94 76L112 98" stroke-width="13"/><path d="M62 54L84 70L96 74" stroke-width="13"/><path d="M60 50L62 84" stroke-width="22"/><circle cx="58" cy="30" r="11" fill="#ffffff"/><path d="M64 86L94 76L112 98" stroke-width="7" stroke="#ffffff"/><path d="M62 54L84 70L96 74" stroke-width="7" stroke="#ffffff"/><path d="M60 50L62 84" stroke-width="16" stroke="#ffffff"/><path d="M28 104H132"/></g></svg>
+<svg x="190.0" y="190.0" width="260.0" height="50.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M12 64H148V84H12Z" fill="#e6d9bd" stroke="none"/><path d="M28 66L18 80M42 66L32 80M56 66L46 80M70 66L60 80M84 66L74 80M98 66L88 80M112 66L102 80M126 66L116 80M140 66L130 80" stroke-width="2" stroke="#b9ab8f"/><path d="M12 64H148"/></g></svg>
+<path d="M320.0 160.0L320.0 278.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="320.0,290.0 312.0,278.0 328.0,278.0" fill="#2b2620"/>
+<text x="345.0" y="300.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Ground</text>
+<path d="M300.0 60.0L300.0 32.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="300.0,20.0 308.0,32.0 292.0,32.0" fill="#2b2620"/>
+<text x="330.0" y="30.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Head</text>
+<path d="M250.0 120.0L132.0 120.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="120.0,120.0 132.0,112.0 132.0,128.0" fill="#2b2620"/>
+<path d="M390.0 120.0L508.0 120.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="520.0,120.0 508.0,128.0 508.0,112.0" fill="#2b2620"/>
+<text x="120.0" y="150.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Sides</text>
+<text x="520.0" y="150.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Sides</text>
+</svg>

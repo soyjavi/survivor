@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="60.0" y="60.0" width="200.0" height="150.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 104V22" stroke-width="13"/><path d="M80 104V22" stroke-width="7" stroke="#c08f5a"/><path d="M44 30H112L126 42L112 54H44Z" fill="#f6b84b"/><path d="M54 42H104" stroke-width="4" stroke="#2b2620"/><path d="M40 104H120"/></g></svg>
+<path d="M270.0 105.0L338.0 105.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="350.0,105.0 338.0,113.0 338.0,97.0" fill="#2b2620"/>
+<path d="M115.0 105.0L82.0 105.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="70.0,105.0 82.0,97.0 82.0,113.0" fill="#2b2620"/>
+<svg x="15.0" y="90.0" width="40.0" height="30.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="40" fill="#c4432f"/><path d="M64 44L96 76M96 44L64 76" stroke-width="9" stroke="#ffffff"/></g></svg>
+<rect x="400.0" y="70.0" width="220.0" height="150.0" rx="10" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="510.0" y="98.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Key</text>
+<svg x="415.0" y="105.0" width="70.0" height="52.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 60H60"/><path d="M76 60H140" stroke-width="6" stroke="#b9ab8f"/></g></svg>
+<text x="490.0" y="137.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Direction</text>
+<svg x="415.0" y="160.0" width="70.0" height="52.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="40" cy="60" r="9" fill="#e0702f"/><path d="M76 60H140" stroke-width="6" stroke="#b9ab8f"/></g></svg>
+<text x="490.0" y="192.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Dead end</text>
+<text x="320.0" y="300.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">The key decides how the route is read.</text>
+</svg>

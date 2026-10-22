@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360">
+<rect x="0" y="0" width="640" height="360" fill="#ffffff" stroke="none"/>
+<g fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<polyline points="180,110 180,300 460,300 460,110"/>
+<line x1="180" y1="150" x2="460" y2="150"/>
+<line x1="180" y1="190" x2="460" y2="190"/>
+<line x1="180" y1="230" x2="460" y2="230"/>
+<line x1="180" y1="270" x2="460" y2="270"/>
+<polyline points="180,285 200,280 220,285 240,280 260,285 280,280 460,285"/>
+<text x="320" y="340" font-size="16" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Water ring at the base</text>
+<text x="525" y="200" font-size="16" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="start">Snow</text>
+<line x1="520" y1="290" x2="465" y2="290"/>
+<polyline points="475.8,284.8 465,290 475.8,295.2"/>
+<text x="540" y="300" font-size="15" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="start">Water</text>
+</g>
+</svg>

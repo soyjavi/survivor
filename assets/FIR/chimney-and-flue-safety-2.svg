@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="210.0" y="120.0" width="220.0" height="165.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="98" cy="20" r="8" fill="#e3dfd8" stroke-width="2"/><circle cx="110" cy="12" r="6" fill="#e3dfd8" stroke-width="2"/><circle cx="88" cy="10" r="5" fill="#e3dfd8" stroke-width="2"/><path d="M12 104L148 50V104Z" fill="#c4432f"/><path d="M40 93L148 50" stroke-width="0"/><clipPath id="FIR-chimney-and-flue-safety-2-0-c118"><path d="M80 34H112V74L80 87Z"/></clipPath><path d="M80 34H112V74L80 87Z" fill="#d9906f" stroke="none"/><rect x="104" y="0" width="56" height="120" fill="#b96d4f" stroke="none" clip-path="url(#FIR-chimney-and-flue-safety-2-0-c118)"/><path d="M80 34H112V74L80 87Z"/><path d="M80 46H112M80 58H112M80 70H112M96 34V46M88 46V58M104 46V58M96 58V70" stroke-width="2"/><path d="M76 26H116V34H76Z" fill="#cfc7b9"/></g></svg>
+<rect x="293.0" y="145.0" width="90.0" height="30.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="338.0" y="165.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Cap</text>
+<circle cx="145.0" cy="88.0" r="12" fill="#c4432f" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M140.2 83.2L149.8 92.8M149.8 83.2L140.2 92.8" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="118.0" y="94.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Rain</text>
+<path d="M172.0 90.0L289.1 143.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="300.0,148.0 285.8,150.3 292.4,135.8" fill="#2b2620"/>
+<circle cx="525.0" cy="88.0" r="12" fill="#c4432f" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M520.2 83.2L529.8 92.8M529.8 83.2L520.2 92.8" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="545.0" y="94.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Birds</text>
+<path d="M500.0 90.0L384.9 143.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="374.0,148.0 381.6,135.7 388.2,150.2" fill="#2b2620"/>
+<path d="M337.0 140.0L337.0 84.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="337.0,72.0 345.0,84.0 329.0,84.0" fill="#2b2620"/>
+<circle cx="337.0" cy="50.0" r="12" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M331.6 50.0L335.8 54.2L343.0 45.2" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="358.0" y="56.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Smoke out</text>
+<text x="320.0" y="336.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Check the cap for blockage each season.</text>
+</svg>

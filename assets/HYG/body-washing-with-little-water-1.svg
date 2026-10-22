@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="30.0" y="30.0" width="190.0" height="142.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M75 68L72 98" stroke-width="13"/><path d="M85 68L88 98" stroke-width="13"/><path d="M70 42L64 70" stroke-width="13"/><path d="M90 42L96 70" stroke-width="13"/><path d="M80 42V66" stroke-width="22"/><circle cx="80" cy="20" r="11" fill="#ffffff"/><path d="M75 68L72 98" stroke-width="7" stroke="#ffffff"/><path d="M85 68L88 98" stroke-width="7" stroke="#ffffff"/><path d="M70 42L64 70" stroke-width="7" stroke="#ffffff"/><path d="M90 42L96 70" stroke-width="7" stroke="#ffffff"/><path d="M80 42V66" stroke-width="16" stroke="#ffffff"/><path d="M40 104H120"/></g></svg>
+<svg x="40.0" y="230.0" width="120.0" height="90.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><clipPath id="HYG-body-washing-with-little-water-1-1-c66"><path d="M28 30Q60 22 90 30T136 34L128 92Q96 100 66 94T26 96Z"/></clipPath><path d="M28 30Q60 22 90 30T136 34L128 92Q96 100 66 94T26 96Z" fill="#f1ead8" stroke="none"/><rect x="104" y="0" width="56" height="120" fill="#e6d9bd" stroke="none" clip-path="url(#HYG-body-washing-with-little-water-1-1-c66)"/><path d="M28 30Q60 22 90 30T136 34L128 92Q96 100 66 94T26 96Z"/><path d="M50 34Q56 64 48 94M88 32Q82 62 92 96M112 36Q118 60 108 94" stroke-width="2"/></g></svg>
+<text x="100.0" y="330.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Clean cloth</text>
+<circle cx="300.0" cy="70.0" r="20" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="300.0" y="77.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="22.0" font-weight="800" fill="#ffffff">1</text>
+<text x="336.0" y="76.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#2b2620">Face, neck and arms</text>
+<circle cx="300.0" cy="136.0" r="20" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="300.0" y="143.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="22.0" font-weight="800" fill="#ffffff">2</text>
+<text x="336.0" y="142.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#2b2620">Chest and back</text>
+<circle cx="300.0" cy="202.0" r="20" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="300.0" y="209.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="22.0" font-weight="800" fill="#ffffff">3</text>
+<text x="336.0" y="208.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#2b2620">Legs and feet</text>
+<circle cx="300.0" cy="268.0" r="20" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="300.0" y="275.2" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="22.0" font-weight="800" fill="#ffffff">4</text>
+<text x="336.0" y="274.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#2b2620">Genitals last</text>
+<path d="M590.0 60.0L590.0 278.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="590.0,290.0 582.0,278.0 598.0,278.0" fill="#2b2620"/>
+<text x="590.0" y="316.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#2b2620"><tspan x="590.0" dy="0.0">Clean to</tspan><tspan x="590.0" dy="16.8">dirty</tspan></text>
+</svg>

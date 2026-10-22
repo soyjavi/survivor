@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360">
+<rect x="0" y="0" width="640" height="360" fill="#ffffff" stroke="none"/>
+<g fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<line x1="90" y1="310" x2="580" y2="310"/>
+<line x1="90" y1="310" x2="90" y2="60"/>
+<polyline points="110,90 250,90 300,240 380,240 430,110 560,110"/>
+<text x="260" y="60" font-size="16" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Pumping</text>
+<text x="470" y="60" font-size="16" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Recovery</text>
+<text x="320" y="340" font-size="15" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Time</text>
+<text x="50" y="200" font-size="15" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Level</text>
+</g>
+</svg>

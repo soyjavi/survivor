@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="90.0" y="50.0" width="200.0" height="70.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="190.0" y="81.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="190.0" dy="0.0">Spores settle</tspan><tspan x="190.0" dy="19.2">on damp plaster</tspan></text>
+<circle cx="96.0" cy="56.0" r="16" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="96.0" y="61.8" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17.6" font-weight="800" fill="#ffffff">1</text>
+<rect x="350.0" y="50.0" width="200.0" height="70.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="450.0" y="90.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Patch grows</text>
+<circle cx="356.0" cy="56.0" r="16" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="356.0" y="61.8" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17.6" font-weight="800" fill="#ffffff">2</text>
+<rect x="90.0" y="170.0" width="200.0" height="70.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="190.0" y="201.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="190.0" dy="0.0">Visible</tspan><tspan x="190.0" dy="19.2">colonies</tspan></text>
+<circle cx="96.0" cy="176.0" r="16" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="96.0" y="181.8" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17.6" font-weight="800" fill="#ffffff">3</text>
+<rect x="350.0" y="170.0" width="200.0" height="70.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="450.0" y="210.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Spores spread</text>
+<circle cx="356.0" cy="176.0" r="16" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="356.0" y="181.8" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17.6" font-weight="800" fill="#ffffff">4</text>
+<path d="M293.0 85.0L335.0 85.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="347.0,85.0 335.0,93.0 335.0,77.0" fill="#2b2620"/>
+<path d="M450.0 123.0L450.0 145.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<path d="M450.0 145.0L190.0 145.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<path d="M190.0 145.0L190.0 155.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="190.0,167.0 182.0,155.0 198.0,155.0" fill="#2b2620"/>
+<path d="M293.0 205.0L335.0 205.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="347.0,205.0 335.0,213.0 335.0,197.0" fill="#2b2620"/>
+<svg x="150.0" y="270.0" width="50.0" height="37.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 12C56 12 44 30 44 48C44 62 52 70 58 80V88H102V80C108 70 116 62 116 48C116 30 104 12 80 12Z" fill="#f6b84b"/><path d="M70 54L80 66L90 54M80 66V88" stroke-width="2"/><path d="M60 88H100V96Q100 100 96 100H64Q60 100 60 96Z" fill="#b3bec4"/><path d="M68 106H92"/><path d="M98 24Q106 30 106 42" stroke-width="3" stroke="#ffffff"/></g></svg>
+<text x="210.0" y="304.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Remove it while the patch is small</text>
+</svg>

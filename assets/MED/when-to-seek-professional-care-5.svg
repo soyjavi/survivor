@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="20.0" y="50.0" width="600.0" height="230.0" rx="10" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<rect x="20.0" y="50.0" width="600.0" height="46.0" rx="10" fill="#b9ab8f" stroke="#2b2620" stroke-width="3"/>
+<text x="70.0" y="80.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#2b2620">Time</text>
+<text x="170.0" y="80.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#2b2620">Breathing</text>
+<path d="M120.0 50.0L120.0 280.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<text x="270.0" y="80.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#2b2620">Alertness</text>
+<path d="M220.0 50.0L220.0 280.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<text x="370.0" y="80.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#2b2620">Pulse</text>
+<path d="M320.0 50.0L320.0 280.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<text x="470.0" y="80.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#2b2620">Colour</text>
+<path d="M420.0 50.0L420.0 280.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<text x="570.0" y="80.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#2b2620">Treatment</text>
+<path d="M520.0 50.0L520.0 280.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M20.0 96.0L620.0 96.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M20.0 142.0L620.0 142.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M20.0 188.0L620.0 188.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M20.0 234.0L620.0 234.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Recorded so the next helper sees the trend.</text>
+</svg>

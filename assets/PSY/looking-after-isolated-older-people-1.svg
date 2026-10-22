@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="24.0" y="80.0" width="110.0" height="36.0" rx="0" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="79.0" y="103.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#faf7f0">Name</text>
+<rect x="24.0" y="116.0" width="110.0" height="36.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="2"/>
+<rect x="24.0" y="152.0" width="110.0" height="36.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="2"/>
+<rect x="24.0" y="188.0" width="110.0" height="36.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="2"/>
+<rect x="24.0" y="224.0" width="110.0" height="36.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="2"/>
+<rect x="134.0" y="80.0" width="130.0" height="36.0" rx="0" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="199.0" y="103.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#faf7f0">Address</text>
+<rect x="134.0" y="116.0" width="130.0" height="36.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="2"/>
+<rect x="134.0" y="152.0" width="130.0" height="36.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="2"/>
+<rect x="134.0" y="188.0" width="130.0" height="36.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="2"/>
+<rect x="134.0" y="224.0" width="130.0" height="36.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="2"/>
+<rect x="336.0" y="80.0" width="140.0" height="36.0" rx="0" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="406.0" y="103.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#faf7f0">Time seen</text>
+<rect x="336.0" y="116.0" width="140.0" height="36.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="2"/>
+<rect x="336.0" y="152.0" width="140.0" height="36.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="2"/>
+<rect x="336.0" y="188.0" width="140.0" height="36.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="2"/>
+<rect x="336.0" y="224.0" width="140.0" height="36.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="2"/>
+<rect x="476.0" y="80.0" width="150.0" height="36.0" rx="0" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="551.0" y="103.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#faf7f0">Water checked</text>
+<rect x="476.0" y="116.0" width="150.0" height="36.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="2"/>
+<rect x="476.0" y="152.0" width="150.0" height="36.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="2"/>
+<rect x="476.0" y="188.0" width="150.0" height="36.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="2"/>
+<rect x="476.0" y="224.0" width="150.0" height="36.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="2"/>
+<circle cx="406.0" cy="134.0" r="12" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M400.6 134.0L404.8 138.2L412.0 129.2" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="406.0" cy="170.0" r="12" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M400.6 170.0L404.8 174.2L412.0 165.2" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="551.0" cy="134.0" r="12" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M545.6 134.0L549.8 138.2L557.0 129.2" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="551.0" cy="170.0" r="12" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M545.6 170.0L549.8 174.2L557.0 165.2" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M274.0 170.0L318.0 170.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="330.0,170.0 318.0,178.0 318.0,162.0" fill="#2b2620"/>
+<text x="144.0" y="280.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Street list</text>
+<text x="481.0" y="280.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Visit sheet</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">The list is the source, the sheet records each visit.</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<path d="M190.0 90.0L360.0 180.0" fill="none" stroke="#2b2620" stroke-width="5" stroke-linecap="round"/>
+<path d="M190.0 270.0L360.0 180.0" fill="none" stroke="#2b2620" stroke-width="5" stroke-linecap="round"/>
+<svg x="40.0" y="135.0" width="110.0" height="82.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M54 16Q42 16 42 28V48Q42 60 30 60Q42 60 42 72V92Q42 104 54 104"/><path d="M70 36H136" stroke-width="6" stroke="#b9ab8f"/><path d="M70 60H120" stroke-width="6" stroke="#b9ab8f"/><path d="M70 84H130" stroke-width="6" stroke="#b9ab8f"/></g></svg>
+<text x="90.0" y="112.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Angle</text>
+<path d="M480.0 90.0L290.0 135.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="290.0" cy="135.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="490.0" y="96.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Bevel</text>
+<path d="M480.0 180.0L366.0 180.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="366.0" cy="180.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="490.0" y="186.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Edge</text>
+<svg x="150.0" y="262.0" width="90.0" height="67.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><g transform="rotate(-25 80 60)"><path d="M14 54H50V66H14Q8 66 8 60Q8 54 14 54Z" fill="#c08f5a"/><path d="M50 58H58V62H50Z" fill="#b3bec4"/><path d="M58 52H146L150 60L146 68H58Z" fill="#b3bec4"/><path d="M64 52L70 68M70 52L76 68M76 52L82 68M82 52L88 68M88 52L94 68M94 52L100 68M100 52L106 68M106 52L112 68M112 52L118 68M118 52L124 68M124 52L130 68M130 52L136 68M136 52L142 68M142 52L148 68" stroke-width="1.5" stroke="#4a4036"/></g></g></svg>
+<path d="M270.0 300.0L349.1 263.1" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="360.0,258.0 352.5,270.3 345.7,255.8" fill="#2b2620"/>
+<text x="480.0" y="296.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">File stroke</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Match the bevel to the angle.</text>
+</svg>

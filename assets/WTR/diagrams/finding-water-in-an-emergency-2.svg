@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360">
+<rect x="0" y="0" width="640" height="360" fill="#ffffff" stroke="none"/>
+<g fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<rect x="150" y="150" width="130" height="40" rx="0"/>
+<line x1="70" y1="170" x2="140" y2="170"/>
+<polyline points="129.2,175.2 140,170 129.2,164.8"/>
+<line x1="300" y1="170" x2="395" y2="225"/>
+<polyline points="383.0,224.1 395,225 388.3,215.1"/>
+<polygon points="400,240 410,300 480,300 490,240"/>
+<text x="445" y="320" font-size="16" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Cup</text>
+<polyline points="60,280 64,255 68,280"/>
+<polyline points="78,280 82,255 86,280"/>
+<polyline points="96,280 100,255 104,280"/>
+<polyline points="114,280 118,255 122,280"/>
+<polyline points="132,280 136,255 140,280"/>
+<polyline points="150,280 154,255 158,280"/>
+<polyline points="168,280 172,255 176,280"/>
+<polyline points="186,280 190,255 194,280"/>
+<polyline points="204,280 208,255 212,280"/>
+<polyline points="222,280 226,255 230,280"/>
+<polyline points="240,280 244,255 248,280"/>
+<polyline points="258,280 262,255 266,280"/>
+<polyline points="276,280 280,255 284,280"/>
+<polyline points="294,280 298,255 302,280"/>
+<text x="150" y="110" font-size="15" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="start">Drag cloth over grass</text>
+</g>
+</svg>

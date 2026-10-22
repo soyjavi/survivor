@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360">
+<rect x="0" y="0" width="640" height="360" fill="#ffffff" stroke="none"/>
+<g fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<rect x="60" y="140" width="520" height="80" rx="0"/>
+<line x1="363" y1="140" x2="363" y2="220"/>
+<line x1="493" y1="140" x2="493" y2="220"/>
+<text x="211" y="186" font-size="18" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Drinking</text>
+<text x="428" y="186" font-size="16" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Cooking</text>
+<text x="536" y="186" font-size="15" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Hygiene</text>
+<line x1="60" y1="220" x2="60" y2="232"/>
+<text x="60" y="252" font-size="16" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">0 L</text>
+<line x1="233" y1="220" x2="233" y2="232"/>
+<text x="233" y="252" font-size="16" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">1 L</text>
+<line x1="407" y1="220" x2="407" y2="232"/>
+<text x="407" y="252" font-size="16" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">2 L</text>
+<line x1="580" y1="220" x2="580" y2="232"/>
+<text x="580" y="252" font-size="16" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">3 L</text>
+<text x="320" y="300" font-size="17" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Target: 3 L per person per day</text>
+</g>
+</svg>

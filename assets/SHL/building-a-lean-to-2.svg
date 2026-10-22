@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<circle cx="100.0" cy="60.0" r="28" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="100.0" y="70.1" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="30.800000000000004" font-weight="800" fill="#ffffff">1</text>
+<text x="100.0" y="118.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="100.0" dy="0.0">Ridge pole</tspan><tspan x="100.0" dy="19.2">on supports</tspan></text>
+<path d="M136.0 60.0L199.0 60.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="211.0,60.0 199.0,68.0 199.0,52.0" fill="#2b2620"/>
+<circle cx="247.0" cy="60.0" r="28" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="247.0" y="70.1" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="30.800000000000004" font-weight="800" fill="#ffffff">2</text>
+<text x="247.0" y="118.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Uprights</text>
+<path d="M283.0 60.0L346.0 60.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="358.0,60.0 346.0,68.0 346.0,52.0" fill="#2b2620"/>
+<circle cx="394.0" cy="60.0" r="28" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="394.0" y="70.1" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="30.800000000000004" font-weight="800" fill="#ffffff">3</text>
+<text x="394.0" y="118.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="394.0" dy="0.0">Roof layers</tspan><tspan x="394.0" dy="19.2">bottom up</tspan></text>
+<path d="M430.0 60.0L493.0 60.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="505.0,60.0 493.0,68.0 493.0,52.0" fill="#2b2620"/>
+<circle cx="541.0" cy="60.0" r="28" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="541.0" y="70.1" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="30.800000000000004" font-weight="800" fill="#ffffff">4</text>
+<text x="541.0" y="118.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="541.0" dy="0.0">Waterproof</tspan><tspan x="541.0" dy="19.2">cover</tspan></text>
+<svg x="205.0" y="160.0" width="230.0" height="172.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M40 104V48" stroke-width="12"/><path d="M40 58L32 44" stroke-width="12"/><path d="M120 104V56" stroke-width="12"/><path d="M120 64L128 52" stroke-width="12"/><path d="M40 104V48" stroke-width="6" stroke="#c08f5a"/><path d="M40 58L32 44" stroke-width="6" stroke="#c08f5a"/><path d="M120 104V56" stroke-width="6" stroke="#c08f5a"/><path d="M120 64L128 52" stroke-width="6" stroke="#c08f5a"/><path d="M34 50H128" stroke-width="12"/><path d="M34 50H128" stroke-width="6" stroke="#c08f5a"/><clipPath id="SHL-building-a-lean-to-2-0-c15"><path d="M34 52L138 102H120L34 64Z"/></clipPath><path d="M34 52L138 102H120L34 64Z" fill="#e6c99b" stroke="none"/><rect x="140" y="0" width="20" height="120" fill="#e6d9bd" stroke="none" clip-path="url(#SHL-building-a-lean-to-2-0-c15)"/><path d="M34 52L138 102H120L34 64Z"/><path d="M40 52Q46 40 56 48Q62 38 72 52Q80 44 88 62Q98 56 104 72Q114 68 116 82Q126 80 128 92Q136 92 138 102L34 52Z" fill="#c3d79a"/><path d="M12 104H148"/></g></svg>
+<text x="320.0" y="344.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Each layer overlaps the one below.</text>
+</svg>

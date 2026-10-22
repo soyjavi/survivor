@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="16.0" y="30.0" width="600.0" height="56.0" rx="6" fill="#b9ab8f" stroke="#2b2620" stroke-width="3"/>
+<text x="91.0" y="64.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"></text>
+<text x="241.0" y="64.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Heat exhaustion</text>
+<text x="391.0" y="64.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Heatstroke</text>
+<text x="541.0" y="64.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Hypothermia</text>
+<rect x="16.0" y="86.0" width="600.0" height="56.0" rx="6" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="28.0" y="120.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Signs</text>
+<rect x="16.0" y="142.0" width="600.0" height="56.0" rx="6" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="28.0" y="176.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">First response</text>
+<rect x="16.0" y="198.0" width="600.0" height="56.0" rx="6" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="28.0" y="232.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Confusion</text>
+<path d="M166.0 30.0L166.0 254.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M316.0 30.0L316.0 254.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M466.0 30.0L466.0 254.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="241.0" cy="226.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M234.7 226.0L239.6 230.9L248.0 220.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="391.0" cy="226.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M384.7 226.0L389.6 230.9L398.0 220.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="541.0" cy="226.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M534.7 226.0L539.6 230.9L548.0 220.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="320.0" y="320.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Confusion is an early warning shared by all three.</text>
+</svg>

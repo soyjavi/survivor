@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="16.0" y="50.0" width="130.0" height="97.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M24 26H136Q146 26 146 36V84Q146 94 136 94H24Q14 94 14 84V36Q14 26 24 26Z" fill="#ffffff"/><circle cx="34" cy="46" r="9" fill="#2b2620" stroke="#2b2620"/><path d="M52 46H124" stroke-width="6" stroke="#b9ab8f"/><path d="M34 66H124" stroke-width="4" stroke="#b9ab8f"/><path d="M34 78H100" stroke-width="4" stroke="#b9ab8f"/></g></svg>
+<text x="81.0" y="180.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Who said it?</text>
+<circle cx="81.0" cy="225.0" r="16" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M73.8 225.0L79.4 230.6L89.0 218.6" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M148.0 98.0L161.0 98.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="173.0,98.0 161.0,106.0 161.0,90.0" fill="#2b2620"/>
+<svg x="175.0" y="50.0" width="130.0" height="97.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M24 26H136Q146 26 146 36V84Q146 94 136 94H24Q14 94 14 84V36Q14 26 24 26Z" fill="#ffffff"/><circle cx="34" cy="46" r="9" fill="#2b2620" stroke="#2b2620"/><path d="M52 46H124" stroke-width="6" stroke="#b9ab8f"/><path d="M34 66H124" stroke-width="4" stroke="#b9ab8f"/><path d="M34 78H100" stroke-width="4" stroke="#b9ab8f"/></g></svg>
+<text x="240.0" y="180.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">How do they know?</text>
+<circle cx="240.0" cy="225.0" r="16" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M232.8 225.0L238.4 230.6L248.0 218.6" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M307.0 98.0L320.0 98.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="332.0,98.0 320.0,106.0 320.0,90.0" fill="#2b2620"/>
+<svg x="334.0" y="50.0" width="130.0" height="97.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M24 26H136Q146 26 146 36V84Q146 94 136 94H24Q14 94 14 84V36Q14 26 24 26Z" fill="#ffffff"/><circle cx="34" cy="46" r="9" fill="#2b2620" stroke="#2b2620"/><path d="M52 46H124" stroke-width="6" stroke="#b9ab8f"/><path d="M34 66H124" stroke-width="4" stroke="#b9ab8f"/><path d="M34 78H100" stroke-width="4" stroke="#b9ab8f"/></g></svg>
+<text x="399.0" y="180.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Confirmed elsewhere?</text>
+<circle cx="399.0" cy="225.0" r="16" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M391.8 225.0L397.4 230.6L407.0 218.6" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M466.0 98.0L479.0 98.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="491.0,98.0 479.0,106.0 479.0,90.0" fill="#2b2620"/>
+<svg x="493.0" y="50.0" width="130.0" height="97.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M24 26H136Q146 26 146 36V84Q146 94 136 94H24Q14 94 14 84V36Q14 26 24 26Z" fill="#ffffff"/><circle cx="34" cy="46" r="9" fill="#2b2620" stroke="#2b2620"/><path d="M52 46H124" stroke-width="6" stroke="#b9ab8f"/><path d="M34 66H124" stroke-width="4" stroke="#b9ab8f"/><path d="M34 78H100" stroke-width="4" stroke="#b9ab8f"/></g></svg>
+<text x="558.0" y="180.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Useful?</text>
+<circle cx="558.0" cy="225.0" r="16" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M550.8 225.0L556.4 230.6L566.0 218.6" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="320.0" y="300.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">A report must pass every box before it is acted on or shared.</text>
+</svg>

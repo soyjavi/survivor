@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="25.0" y="50.0" width="170.0" height="72.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="110.0" y="82.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="110.0" dy="0.0">Move behind</tspan><tspan x="110.0" dy="19.2">the screen</tspan></text>
+<circle cx="31.0" cy="56.0" r="16" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="31.0" y="61.8" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17.6" font-weight="800" fill="#ffffff">1</text>
+<rect x="235.0" y="50.0" width="170.0" height="72.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="91.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Change</text>
+<circle cx="241.0" cy="56.0" r="16" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="241.0" y="61.8" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17.6" font-weight="800" fill="#ffffff">2</text>
+<rect x="445.0" y="50.0" width="170.0" height="72.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="530.0" y="91.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Wash hands</text>
+<circle cx="451.0" cy="56.0" r="16" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="451.0" y="61.8" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17.6" font-weight="800" fill="#ffffff">3</text>
+<rect x="25.0" y="182.0" width="170.0" height="72.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="110.0" y="214.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="110.0" dy="0.0">Rinse the</tspan><tspan x="110.0" dy="19.2">cloth</tspan></text>
+<circle cx="31.0" cy="188.0" r="16" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="31.0" y="193.8" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17.6" font-weight="800" fill="#ffffff">4</text>
+<rect x="235.0" y="182.0" width="170.0" height="72.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="214.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="320.0" dy="0.0">Dry out</tspan><tspan x="320.0" dy="19.2">of sight</tspan></text>
+<circle cx="241.0" cy="188.0" r="16" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="241.0" y="193.8" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17.6" font-weight="800" fill="#ffffff">5</text>
+<path d="M198.0 86.0L220.0 86.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="232.0,86.0 220.0,94.0 220.0,78.0" fill="#2b2620"/>
+<path d="M408.0 86.0L430.0 86.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="442.0,86.0 430.0,94.0 430.0,78.0" fill="#2b2620"/>
+<path d="M530.0 125.0L530.0 152.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<path d="M530.0 152.0L110.0 152.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<path d="M110.0 152.0L110.0 167.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="110.0,179.0 102.0,167.0 118.0,167.0" fill="#2b2620"/>
+<path d="M198.0 218.0L220.0 218.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="232.0,218.0 220.0,226.0 220.0,210.0" fill="#2b2620"/>
+<text x="320.0" y="330.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">The private screened area comes first.</text>
+</svg>

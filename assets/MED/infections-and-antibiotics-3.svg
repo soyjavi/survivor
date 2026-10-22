@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="20.0" y="70.0" width="150.0" height="112.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><g transform="rotate(-32 60 58)"><path d="M32 46H60V70H32A12 12 0 0 1 32 46Z" fill="#c4432f"/><path d="M60 46H88A12 12 0 0 1 88 70H60Z" fill="#ffffff"/></g><clipPath id="MED-infections-and-antibiotics-3-0-c40"><path d="M116 58A18 18 0 1 1 116 94A18 18 0 1 1 116 58Z"/></clipPath><path d="M116 58A18 18 0 1 1 116 94A18 18 0 1 1 116 58Z" fill="#ffffff" stroke="none"/><rect x="124" y="0" width="36" height="120" fill="#e6d9bd" stroke="none" clip-path="url(#MED-infections-and-antibiotics-3-0-c40)"/><path d="M116 58A18 18 0 1 1 116 94A18 18 0 1 1 116 58Z"/><path d="M104 76H128" stroke-width="2"/></g></svg>
+<text x="95.0" y="205.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Prescribed dose</text>
+<path d="M210.0 140.0L598.0 140.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="610.0,140.0 598.0,148.0 598.0,132.0" fill="#2b2620"/>
+<circle cx="260.0" cy="140.0" r="9" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<circle cx="350.0" cy="140.0" r="9" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<circle cx="440.0" cy="140.0" r="9" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<circle cx="530.0" cy="140.0" r="9" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="350.0" y="108.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Daily schedule</text>
+<path d="M530.0 150.0L530.0 190.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<rect x="455.0" y="189.0" width="150.0" height="52.0" rx="12" fill="#f6b84b" stroke="#2b2620" stroke-width="3"/>
+<text x="530.0" y="211.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="530.0" dy="0.0">Finish full</tspan><tspan x="530.0" dy="19.2">course</tspan></text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Complete the course even when symptoms ease.</text>
+</svg>

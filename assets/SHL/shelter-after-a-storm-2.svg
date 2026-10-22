@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="190.0" y="30.0" width="260.0" height="195.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M68 68L58 98" stroke-width="13"/><path d="M72 68L84 98" stroke-width="13"/><path d="M70 42L90 58" stroke-width="13"/><path d="M68 42V66" stroke-width="22"/><circle cx="66" cy="20" r="11" fill="#ffffff"/><path d="M68 68L58 98" stroke-width="7" stroke="#ffffff"/><path d="M72 68L84 98" stroke-width="7" stroke="#ffffff"/><path d="M70 42L90 58" stroke-width="7" stroke="#ffffff"/><path d="M68 42V66" stroke-width="16" stroke="#ffffff"/><clipPath id="SHL-shelter-after-a-storm-2-0-c37"><path d="M80 36H116V72H80Z"/></clipPath><path d="M80 36H116V72H80Z" fill="#e6c99b" stroke="none"/><rect x="104" y="0" width="56" height="120" fill="#c08f5a" stroke="none" clip-path="url(#SHL-shelter-after-a-storm-2-0-c37)"/><path d="M80 36H116V72H80Z"/><path d="M80 48H116" stroke-width="2"/><path d="M32 104H128"/></g></svg>
+<text x="90.0" y="270.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Bent knees</text>
+<path d="M90.0 256.0L300.0 205.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="300.0" cy="205.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="100.0" y="120.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Straight back</text>
+<path d="M150.0 114.0L284.0 135.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="284.0" cy="135.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="540.0" y="120.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Load close</text>
+<path d="M500.0 114.0L385.0 120.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="385.0" cy="120.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<path d="M320.0 245.0L320.0 288.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="320.0,300.0 312.0,288.0 328.0,288.0" fill="#2b2620"/>
+</svg>

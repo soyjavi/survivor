@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="210.0" y="27.0" width="220.0" height="46.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="56.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Cooked food</text>
+<circle cx="180.0" cy="50.0" r="17" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="180.0" y="56.1" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="18.700000000000003" font-weight="800" fill="#ffffff">1</text>
+<path d="M320.0 75.0L320.0 92.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="320.0,104.0 312.0,92.0 328.0,92.0" fill="#2b2620"/>
+<rect x="210.0" y="107.0" width="220.0" height="46.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="135.9" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Fridge items</text>
+<circle cx="180.0" cy="130.0" r="17" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="180.0" y="136.1" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="18.700000000000003" font-weight="800" fill="#ffffff">2</text>
+<path d="M320.0 155.0L320.0 172.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="320.0,184.0 312.0,172.0 328.0,172.0" fill="#2b2620"/>
+<rect x="210.0" y="187.0" width="220.0" height="46.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="215.9" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Frozen items</text>
+<circle cx="180.0" cy="210.0" r="17" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="180.0" y="216.1" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="18.700000000000003" font-weight="800" fill="#ffffff">3</text>
+<path d="M320.0 235.0L320.0 252.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="320.0,264.0 312.0,252.0 328.0,252.0" fill="#2b2620"/>
+<rect x="210.0" y="267.0" width="220.0" height="46.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="295.9" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Dry goods</text>
+<circle cx="180.0" cy="290.0" r="17" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<text x="180.0" y="296.1" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="18.700000000000003" font-weight="800" fill="#ffffff">4</text>
+<text x="470.0" y="56.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Eat first</text>
+<text x="470.0" y="296.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Eat last</text>
+<text x="320.0" y="346.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Use these foods first when power fails.</text>
+</svg>

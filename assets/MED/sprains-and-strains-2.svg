@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="20.0" y="110.0" width="130.0" height="97.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M98 82L146 92V104L98 96Z" fill="#ffffff"/><path d="M110 84V98M124 87V100" stroke-width="2" stroke="#e6d9bd"/><clipPath id="MED-sprains-and-strains-2-0-c39"><path d="M56 34H104A14 28 0 0 1 104 90H56Z"/></clipPath><path d="M56 34H104A14 28 0 0 1 104 90H56Z" fill="#ffffff" stroke="none"/><rect x="100" y="0" width="60" height="120" fill="#e6d9bd" stroke="none" clip-path="url(#MED-sprains-and-strains-2-0-c39)"/><path d="M56 34H104A14 28 0 0 1 104 90H56Z"/><ellipse cx="56" cy="62" rx="14" ry="28" fill="#ffffff"/><ellipse cx="56" cy="62" rx="6" ry="12" fill="#e6d9bd"/><path d="M72 34V90M88 34V90" stroke-width="2" stroke="#e6d9bd"/></g></svg>
+<path d="M160.0 160.0L228.0 160.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="240.0,160.0 228.0,168.0 228.0,152.0" fill="#2b2620"/>
+<svg x="290.0" y="50.0" width="300.0" height="225.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M14 46H92Q104 46 112 42L136 30Q144 28 146 34Q148 40 140 44L126 52Q140 52 146 58Q148 66 140 66H126Q118 76 106 78H14" fill="#ffffff"/><path d="M14 46V78" stroke-width="2" stroke-dasharray="4 4"/><path d="M58 50Q62 62 58 74" stroke-width="2"/></g></svg>
+<path d="M350.0 138.0L364.0 192.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<path d="M364.0 138.0L378.0 192.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<path d="M378.0 138.0L392.0 192.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<path d="M365.0 250.0L365.0 190.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="365.0" cy="190.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="365.0" y="275.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Overlap</text>
+<path d="M500.0 250.0L464.0 190.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="464.0" cy="190.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="500.0" y="275.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Ankle</text>
+<svg x="330.0" y="30.0" width="120.0" height="90.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M24 96C24 26 128 22 128 84"/><path d="M128.0 98.0 L121.0 84.0 L135.0 84.0Z" fill="#2b2620" stroke="#2b2620"/></g></svg>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Each turn overlaps the one before.</text>
+</svg>

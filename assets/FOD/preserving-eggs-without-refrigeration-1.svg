@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="60.0" y="60.0" width="240.0" height="180.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><clipPath id="FOD-preserving-eggs-without-refrigeration-1-0-c95"><path d="M80 16C102 16 116 50 116 72C116 94 100 106 80 106C60 106 44 94 44 72C44 50 58 16 80 16Z"/></clipPath><path d="M80 16C102 16 116 50 116 72C116 94 100 106 80 106C60 106 44 94 44 72C44 50 58 16 80 16Z" fill="#ffffff" stroke="none"/><rect x="94" y="0" width="66" height="120" fill="#e6c99b" stroke="none" clip-path="url(#FOD-preserving-eggs-without-refrigeration-1-0-c95)"/><path d="M80 16C102 16 116 50 116 72C116 94 100 106 80 106C60 106 44 94 44 72C44 50 58 16 80 16Z"/><path d="M60 50Q62 36 72 30" stroke-width="4" stroke="#ffffff"/></g></svg>
+<path d="M90.0 160.0L153.0 160.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="165.0,160.0 153.0,168.0 153.0,152.0" fill="#2b2620"/>
+<path d="M165.0 160.0L102.0 160.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="90.0,160.0 102.0,152.0 102.0,168.0" fill="#2b2620"/>
+<text x="100.0" y="130.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Exchange</text>
+<path d="M440.0 84.0L215.0 100.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="215.0" cy="100.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="450.0" y="90.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Pores</text>
+<path d="M440.0 144.0L215.0 124.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="215.0" cy="124.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="450.0" y="150.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Air cell</text>
+<path d="M440.0 204.0L215.0 148.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="215.0" cy="148.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="450.0" y="210.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Membranes</text>
+<path d="M440.0 264.0L215.0 172.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="215.0" cy="172.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="450.0" y="270.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Coating</text>
+<text x="320.0" y="336.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">The coating slows moisture and air exchange.</text>
+</svg>

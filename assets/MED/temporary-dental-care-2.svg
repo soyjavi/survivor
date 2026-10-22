@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="30.0" y="120.0" width="150.0" height="112.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 12L148 60L80 108L12 60Z" fill="#ffffff"/><path d="M80 18L140 60" stroke-width="2" stroke="#e6d9bd"/><path d="M56 60H104" stroke-width="6" stroke="#b9ab8f"/></g></svg>
+<text x="105.0" y="262.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Toothache</text>
+<path d="M185.0 165.0L450.4 97.9" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="462.0,95.0 452.3,105.7 448.4,90.2" fill="#2b2620"/>
+<text x="318.0" y="110.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">No swelling</text>
+<path d="M185.0 200.0L450.3 259.4" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="462.0,262.0 448.5,267.2 452.0,251.6" fill="#2b2620"/>
+<text x="330.0" y="292.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="330.0" dy="0.0">Swelling</tspan><tspan x="330.0" dy="19.2">or fever</tspan></text>
+<svg x="470.0" y="40.0" width="110.0" height="82.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="40" fill="#5f8436"/><path d="M60 62L75 77L102 46" stroke-width="9" stroke="#ffffff"/></g></svg>
+<text x="525.0" y="150.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="525.0" dy="0.0">Pain relief</tspan><tspan x="525.0" dy="19.2">and cover</tspan></text>
+<svg x="470.0" y="215.0" width="110.0" height="82.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 14L148 104H12Z" fill="#f2c14e"/><path d="M80 44V74" stroke-width="8"/><circle cx="80" cy="89" r="5" fill="#2b2620" stroke="none"/></g></svg>
+<text x="525.0" y="322.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Urgent care</text>
+</svg>

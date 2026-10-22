@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<path d="M40.0 280.0L588.0 280.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="600.0,280.0 588.0,288.0 588.0,272.0" fill="#2b2620"/>
+<circle cx="100.0" cy="280.0" r="9" fill="#2b2620" stroke="#2b2620" stroke-width="3"/>
+<path d="M100.0 270.0L100.0 190.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round" stroke-dasharray="5 5"/>
+<rect x="25.0" y="124.0" width="150.0" height="52.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="100.0" y="155.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Cooking ends</text>
+<path d="M190.0 150.0L273.0 150.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="285.0,150.0 273.0,158.0 273.0,142.0" fill="#2b2620"/>
+<svg x="290.0" y="127.5" width="60.0" height="45.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 12L128 60L80 108L32 60Z" fill="#f2c14e"/><path d="M80 26L114 60L80 94L46 60Z" stroke-width="2"/><path d="M80 42V64" stroke-width="7"/><circle cx="80" cy="77" r="4.5" fill="#2b2620" stroke="none"/></g></svg>
+<path d="M355.0 150.0L438.0 150.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="450.0,150.0 438.0,158.0 438.0,142.0" fill="#2b2620"/>
+<rect x="470.0" y="124.0" width="140.0" height="52.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="540.0" y="155.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Cold place</text>
+<text x="320.0" y="215.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Late move</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">The clock starts when cooking ends.</text>
+</svg>

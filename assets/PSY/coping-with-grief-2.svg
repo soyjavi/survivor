@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="245.0" y="105.0" width="150.0" height="112.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M38 34H122A26 26 0 0 1 122 86H38A26 26 0 0 1 38 34Z" fill="#ffffff"/><circle cx="40" cy="60" r="8" fill="#2b2620"/><path d="M58 60H118" stroke-width="6" stroke="#b9ab8f"/></g></svg>
+<rect x="15.0" y="33.0" width="190.0" height="54.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="110.0" y="65.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Numbness</text>
+<rect x="435.0" y="33.0" width="190.0" height="54.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="530.0" y="65.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Sadness and guilt</text>
+<rect x="15.0" y="263.0" width="190.0" height="54.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="110.0" y="286.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="110.0" dy="0.0">Poor sleep</tspan><tspan x="110.0" dy="19.2">or appetite</tspan></text>
+<rect x="435.0" y="263.0" width="190.0" height="54.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="530.0" y="295.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Waves of memory</text>
+<path d="M215.0 90.0L262.0 160.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<path d="M425.0 90.0L378.0 160.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<path d="M215.0 262.0L270.0 200.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<path d="M425.0 262.0L370.0 200.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<text x="320.0" y="346.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">All four are expected, not failures.</text>
+</svg>

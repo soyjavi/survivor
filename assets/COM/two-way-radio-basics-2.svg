@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="190.0" y="50.0" width="260.0" height="195.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M92 36V10" stroke-width="5"/><clipPath id="COM-two-way-radio-basics-2-0-c47"><path d="M64 34H100Q106 34 106 40V98Q106 104 100 104H64Q58 104 58 98V40Q58 34 64 34Z"/></clipPath><path d="M64 34H100Q106 34 106 40V98Q106 104 100 104H64Q58 104 58 98V40Q58 34 64 34Z" fill="#b3bec4" stroke="none"/><rect x="96" y="0" width="64" height="120" fill="#8e9aa1" stroke="none" clip-path="url(#COM-two-way-radio-basics-2-0-c47)"/><path d="M64 34H100Q106 34 106 40V98Q106 104 100 104H64Q58 104 58 98V40Q58 34 64 34Z"/><path d="M66 42H98V60H66Z" fill="#bfdaec"/><path d="M68 72H96M68 80H96M68 88H96" stroke-width="2"/><path d="M112 18Q120 24 120 34M120 10Q132 20 132 38" stroke-width="2"/></g></svg>
+<path d="M100.0 62.0L318.0 66.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="318.0" cy="66.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="90.0" y="68.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Antenna</text>
+<path d="M540.0 100.0L378.0 88.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="378.0" cy="88.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="550.0" y="106.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Signal</text>
+<path d="M100.0 200.0L300.0 200.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="300.0" cy="200.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="90.0" y="206.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Grip point</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Hold below the antenna, clear of the face.</text>
+</svg>

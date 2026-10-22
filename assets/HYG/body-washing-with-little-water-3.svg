@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="35.0" y="25.0" width="230.0" height="70.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="150.0" y="66.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Sweat and dirt stay</text>
+<rect x="375.0" y="25.0" width="230.0" height="70.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="490.0" y="66.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Folds stay damp</text>
+<rect x="375.0" y="195.0" width="230.0" height="70.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="490.0" y="235.9" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Rash forms</text>
+<rect x="35.0" y="195.0" width="230.0" height="70.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="150.0" y="225.8" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620"><tspan x="150.0" dy="0.0">Scratching opens skin</tspan><tspan x="150.0" dy="20.4">to bacteria</tspan></text>
+<path d="M270.0 60.0L354.0 60.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="366.0,60.0 354.0,68.0 354.0,52.0" fill="#2b2620"/>
+<path d="M490.0 98.0L490.0 180.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="490.0,192.0 482.0,180.0 498.0,180.0" fill="#2b2620"/>
+<path d="M366.0 230.0L282.0 230.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="270.0,230.0 282.0,222.0 282.0,238.0" fill="#2b2620"/>
+<path d="M150.0 192.0L150.0 110.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="150.0,98.0 158.0,110.0 142.0,110.0" fill="#2b2620"/>
+<svg x="300.0" y="6.0" width="40.0" height="30.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="40" fill="#5f8436"/><path d="M60 62L75 77L102 46" stroke-width="9" stroke="#ffffff"/></g></svg>
+<text x="320.0" y="128.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#5f8436">Dry the folds: breaks the loop</text>
+<text x="320.0" y="330.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Drying is the cheapest point to break the loop.</text>
+</svg>

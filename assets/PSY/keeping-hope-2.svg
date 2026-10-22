@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="10.0" y="60.0" width="240.0" height="180.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M56.8 28H103.2M55.0 48H105.0M53.2 68H106.8M51.4 88H108.6" stroke-width="10"/><path d="M56.8 28H103.2M55.0 48H105.0M53.2 68H106.8M51.4 88H108.6" stroke-width="4" stroke="#e6c99b"/><path d="M50 106L58 12" stroke-width="12"/><path d="M110 106L102 12" stroke-width="12"/><path d="M50 106L58 12" stroke-width="6" stroke="#c08f5a"/><path d="M110 106L102 12" stroke-width="6" stroke="#c08f5a"/></g></svg>
+<rect x="340.0" y="28.0" width="240.0" height="56.0" rx="12" fill="#f5f1e8" stroke="#2b2620" stroke-width="3" stroke-dasharray="8 6"/>
+<text x="460.0" y="62.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">End of crisis</text>
+<rect x="340.0" y="104.0" width="240.0" height="56.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="460.0" y="137.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Done</text>
+<circle cx="366.0" cy="132.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M359.7 132.0L364.6 136.9L373.0 126.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="340.0" y="180.0" width="240.0" height="56.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="460.0" y="213.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Done</text>
+<circle cx="366.0" cy="208.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M359.7 208.0L364.6 212.9L373.0 202.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="340.0" y="256.0" width="240.0" height="56.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="460.0" y="289.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Done</text>
+<circle cx="366.0" cy="284.0" r="14" fill="#5f8436" stroke="#2b2620" stroke-width="2.5"/>
+<path d="M359.7 284.0L364.6 288.9L373.0 278.4" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="320.0" y="346.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Hope climbs by finished rungs, not by the top one.</text>
+</svg>

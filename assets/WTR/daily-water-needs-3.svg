@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="20.0" y="30.0" width="580.0" height="32.0" rx="6" fill="#b9ab8f" stroke="#2b2620" stroke-width="3"/>
+<text x="70.0" y="51.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#2b2620">Date</text>
+<text x="180.0" y="51.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#2b2620">Litres used</text>
+<text x="300.0" y="51.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#2b2620">Litres left</text>
+<text x="425.0" y="51.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#2b2620">Running total</text>
+<text x="545.0" y="51.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#2b2620">Days left</text>
+<rect x="20.0" y="62.0" width="580.0" height="224.0" rx="6" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<path d="M20.0 94.0L600.0 94.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M20.0 126.0L600.0 126.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M20.0 158.0L600.0 158.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M20.0 190.0L600.0 190.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M20.0 222.0L600.0 222.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M20.0 254.0L600.0 254.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M120.0 30.0L120.0 286.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M240.0 30.0L240.0 286.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M360.0 30.0L360.0 286.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<path d="M490.0 30.0L490.0 286.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<rect x="490.0" y="254.0" width="110.0" height="32.0" rx="6" fill="#f6b84b" stroke="#2b2620" stroke-width="3"/>
+<svg x="540.0" y="262.0" width="44.0" height="33.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="80" cy="60" r="40" fill="#3f7fb0"/><circle cx="80" cy="38" r="5.5" fill="#ffffff" stroke="none"/><path d="M80 54V84" stroke-width="9" stroke="#ffffff"/></g></svg>
+<text x="545.0" y="308.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">left / daily</text>
+<text x="320.0" y="346.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Litres left divided by the daily total gives days of supply.</text>
+</svg>

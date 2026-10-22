@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="100.0" y="36.0" width="170.0" height="66.0" rx="0" fill="#b9ab8f" stroke="#2b2620" stroke-width="3"/>
+<text x="185.0" y="75.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Contact list</text>
+<rect x="270.0" y="36.0" width="270.0" height="66.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<path d="M284.0 75.0L526.0 75.0" fill="none" stroke="#b9ab8f" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="100.0" y="102.0" width="170.0" height="66.0" rx="0" fill="#b9ab8f" stroke="#2b2620" stroke-width="3"/>
+<text x="185.0" y="130.8" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620"><tspan x="185.0" dy="0.0">Out-of-area</tspan><tspan x="185.0" dy="20.4">contact</tspan></text>
+<rect x="270.0" y="102.0" width="270.0" height="66.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<path d="M284.0 141.0L526.0 141.0" fill="none" stroke="#b9ab8f" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="100.0" y="168.0" width="170.0" height="66.0" rx="0" fill="#b9ab8f" stroke="#2b2620" stroke-width="3"/>
+<text x="185.0" y="196.8" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620"><tspan x="185.0" dy="0.0">Three meeting</tspan><tspan x="185.0" dy="20.4">points</tspan></text>
+<rect x="270.0" y="168.0" width="270.0" height="66.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<path d="M284.0 207.0L526.0 207.0" fill="none" stroke="#b9ab8f" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="100.0" y="234.0" width="170.0" height="66.0" rx="0" fill="#b9ab8f" stroke="#2b2620" stroke-width="3"/>
+<text x="185.0" y="272.9" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#2b2620">Medical notes</text>
+<rect x="270.0" y="234.0" width="270.0" height="66.0" rx="0" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<path d="M284.0 273.0L526.0 273.0" fill="none" stroke="#b9ab8f" stroke-width="1.5" stroke-linecap="round"/>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Everything needed to reconnect fits on one page.</text>
+</svg>

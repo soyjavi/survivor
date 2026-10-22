@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<path d="M110 200Q320 -40 530 200" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="530.0,200.0 516.1,196.3 528.1,185.7" fill="#2b2620"/>
+<text x="90.0" y="225.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">East</text>
+<text x="550.0" y="225.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">West</text>
+<text x="320.0" y="55.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Sun path</text>
+<svg x="250.0" y="170.0" width="140.0" height="105.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="80" cy="94" rx="66" ry="16" fill="#e6d9bd"/><circle cx="28" cy="24" r="10" fill="#f6b84b"/><path d="M28 8V4M42 24H46M12 24H8M38 14L41 11M18 14L15 11" stroke-width="2"/><path d="M64 94L118 88" stroke-width="5" stroke="#4a4036"/><path d="M64 94L130 102" stroke-width="5" stroke="#7a6d5f"/><circle cx="118" cy="88" r="4" fill="#ffffff" stroke-width="2"/><circle cx="130" cy="102" r="4" fill="#ffffff" stroke-width="2"/><path d="M120 86L134 104" stroke-width="2" stroke-dasharray="4 4"/><path d="M64 94V34" stroke-width="11"/><path d="M64 94V34" stroke-width="5" stroke="#c08f5a"/></g></svg>
+<path d="M110.0 320.0L518.0 320.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="530.0,320.0 518.0,328.0 518.0,312.0" fill="#2b2620"/>
+<path d="M530.0 320.0L122.0 320.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="110.0,320.0 122.0,312.0 122.0,328.0" fill="#2b2620"/>
+<text x="320.0" y="345.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#2b2620">Shadow line</text>
+</svg>

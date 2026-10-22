@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="24.0" y="120.0" width="100.0" height="75.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="80" cy="102" rx="20" ry="5" fill="#e6d9bd" stroke-width="2"/><path d="M80 100C80 100 50 66 50 44A30 30 0 0 1 110 44C110 66 80 100 80 100Z" fill="#c4432f"/><circle cx="80" cy="44" r="11" fill="#ffffff"/></g></svg>
+<text x="74.0" y="236.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Home</text>
+<path d="M128.0 190.0L188.0 190.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="200.0,190.0 188.0,198.0 188.0,182.0" fill="#2b2620"/>
+<svg x="205.0" y="135.0" width="150.0" height="112.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M12 28C52 28 62 70 102 70C124 70 136 56 148 56V86C136 86 126 100 102 100C58 100 50 58 12 58Z" fill="#bfdaec"/><path d="M22 43C54 43 64 85 98 85" stroke-width="2" stroke="#3f7fb0" stroke-dasharray="8 6"/><path d="M110.0 85.0 L100.0 90.0 L100.0 80.0Z" fill="#3f7fb0" stroke="#3f7fb0"/></g></svg>
+<svg x="262.0" y="100.0" width="44.0" height="33.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M80 14L148 104H12Z" fill="#f2c14e"/><path d="M80 44V74" stroke-width="8"/><circle cx="80" cy="89" r="5" fill="#2b2620" stroke="none"/></g></svg>
+<text x="280.0" y="266.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Hazard</text>
+<path d="M360.0 180.0L460.3 107.1" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="470.0,100.0 465.0,113.5 455.6,100.6" fill="#2b2620"/>
+<rect x="480.0" y="68.0" width="130.0" height="44.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="545.0" y="95.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Primary</text>
+<path d="M360.0 200.0L460.3 272.9" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="470.0,280.0 455.6,279.4 465.0,266.5" fill="#2b2620"/>
+<rect x="480.0" y="258.0" width="130.0" height="44.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="545.0" y="285.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Secondary</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Same first road means not two routes.</text>
+</svg>

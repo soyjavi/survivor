@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360">
+<rect x="0" y="0" width="640" height="360" fill="#ffffff" stroke="none"/>
+<g fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<line x1="50" y1="200" x2="600" y2="200"/>
+<polyline points="589.2,205.2 600,200 589.2,194.8"/>
+<circle cx="80" cy="200" r="8"/>
+<text x="80" y="170" font-size="16" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Add dose</text>
+<line x1="160" y1="200" x2="500" y2="200"/>
+<line x1="160" y1="185" x2="160" y2="215"/>
+<line x1="500" y1="185" x2="500" y2="215"/>
+<text x="330" y="250" font-size="16" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Wait the full contact time</text>
+<text x="330" y="280" font-size="15" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">(30 minutes or more)</text>
+<text x="560" y="170" font-size="16" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Drink</text>
+</g>
+</svg>

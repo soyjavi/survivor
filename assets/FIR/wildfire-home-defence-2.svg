@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<path d="M160 185a60 60 0 1 0 120 0a60 60 0 1 0 -120 0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="9 7"/>
+<path d="M80 185a140 140 0 1 0 280 0a140 140 0 1 0 -280 0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="9 7"/>
+<svg x="182.0" y="157.0" width="76.0" height="57.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><clipPath id="FIR-wildfire-home-defence-2-0-c17"><path d="M36 58H124V104H36Z"/></clipPath><path d="M36 58H124V104H36Z" fill="#e6c99b" stroke="none"/><rect x="104" y="0" width="56" height="120" fill="#c08f5a" stroke="none" clip-path="url(#FIR-wildfire-home-defence-2-0-c17)"/><path d="M36 58H124V104H36Z"/><path d="M36 70H68M36 82H68M36 94H68M92 70H124M92 82H124M92 94H124" stroke-width="2"/><path d="M104 46V28H116V54" fill="#ffffff"/><clipPath id="FIR-wildfire-home-defence-2-0-c18"><path d="M22 64L80 20L138 64Z"/></clipPath><path d="M22 64L80 20L138 64Z" fill="#c4432f" stroke="none"/><rect x="98" y="0" width="62" height="120" fill="#9e3424" stroke="none" clip-path="url(#FIR-wildfire-home-defence-2-0-c18)"/><path d="M22 64L80 20L138 64Z"/><path d="M68 104V76H92V104Z" fill="#4a4036"/><path d="M12 104H148"/></g></svg>
+<path d="M260.0 185.0L266.0 185.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="278.0,185.0 266.0,193.0 266.0,177.0" fill="#2b2620"/>
+<path d="M220.0 155.0L220.0 59.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="220.0,47.0 228.0,59.0 212.0,59.0" fill="#2b2620"/>
+<path d="M220.0 47.0L220.0 143.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="220.0,155.0 212.0,143.0 228.0,143.0" fill="#2b2620"/>
+<rect x="400.0" y="92.0" width="200.0" height="56.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="500.0" y="116.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="500.0" dy="0.0">5 metres</tspan><tspan x="500.0" dy="19.2">Zone 1</tspan></text>
+<path d="M400.0 120.0L278.0 179.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="278.0" cy="179.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<rect x="400.0" y="212.0" width="200.0" height="56.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="500.0" y="236.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620"><tspan x="500.0" dy="0.0">30 metres</tspan><tspan x="500.0" dy="19.2">Zone 2 and beyond</tspan></text>
+<path d="M400.0 240.0L358.0 215.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="358.0" cy="215.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+</svg>

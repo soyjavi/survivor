@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="200.0" y="33.0" width="240.0" height="34.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="55.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Bow</text>
+<path d="M180.0 90.0L448.0 90.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="460.0,90.0 448.0,98.0 448.0,82.0" fill="#2b2620"/>
+<path d="M460.0 90.0L192.0 90.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="180.0,90.0 192.0,82.0 192.0,98.0" fill="#2b2620"/>
+<rect x="265.0" y="133.0" width="110.0" height="34.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="155.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Spindle</text>
+<rect x="180.0" y="222.0" width="280.0" height="36.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="320.0" y="245.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Fireboard</text>
+<path d="M320.0 67.0L320.0 133.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<path d="M320.0 167.0L320.0 222.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<svg x="350.0" y="255.0" width="110.0" height="82.5" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M62 50Q56 42 62 34Q68 26 62 18M80 48Q74 40 80 32Q86 24 80 16M98 50Q92 42 98 34Q104 26 98 18" stroke-width="2" stroke="#e0702f"/><ellipse cx="52" cy="94" rx="18" ry="10" fill="#4a4036"/><path d="M43 95L50 91L59 96" stroke-width="2.5" stroke="#f6b84b"/><ellipse cx="108" cy="94" rx="18" ry="10" fill="#4a4036"/><path d="M99 95L106 91L115 96" stroke-width="2.5" stroke="#f6b84b"/><ellipse cx="80" cy="92" rx="20" ry="12" fill="#4a4036"/><path d="M70 93L78 89L88 94" stroke-width="2.5" stroke="#f6b84b"/><ellipse cx="66" cy="78" rx="15" ry="9" fill="#4a4036"/><path d="M58 79L64 75L72 80" stroke-width="2.5" stroke="#f6b84b"/><ellipse cx="94" cy="78" rx="15" ry="9" fill="#4a4036"/><path d="M86 79L92 75L100 80" stroke-width="2.5" stroke="#f6b84b"/><ellipse cx="80" cy="66" rx="13" ry="8" fill="#4a4036"/><path d="M74 67L78 63L85 68" stroke-width="2.5" stroke="#f6b84b"/><path d="M24 104H136"/></g></svg>
+<text x="520.0" y="300.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Ember</text>
+<path d="M515.0 295.0L440.0 290.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="440.0" cy="290.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="320.0" y="345.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">The ember forms slowly, so keep the dust collecting.</text>
+</svg>

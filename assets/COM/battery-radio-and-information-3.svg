@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<rect x="30.0" y="122.0" width="120.0" height="56.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="90.0" y="155.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Crank</text>
+<path d="M154.0 150.0L228.0 150.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="240.0,150.0 228.0,158.0 228.0,142.0" fill="#2b2620"/>
+<svg x="235.0" y="90.0" width="200.0" height="150.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M124 50H134V74H124Z" fill="#b3bec4"/><path d="M34 36H118Q124 36 124 42V82Q124 88 118 88H34Q28 88 28 82V42Q28 36 34 36Z" fill="#ffffff"/><path d="M38 46H58V78H38ZM62 46H82V78H62ZM86 46H106V78H86Z" fill="#9dbb6a" stroke-width="2"/><path d="M34 36H118Q124 36 124 42V82Q124 88 118 88H34Q28 88 28 82V42Q28 36 34 36Z"/><path d="M70 100H82M76 94V106M40 100H52" stroke-width="3"/></g></svg>
+<text x="335.0" y="250.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Internal cell</text>
+<path d="M390 118C400 30 270 30 280 112" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="280.0,112.0 272.0,100.0 288.0,100.0" fill="#2b2620"/>
+<path d="M430.0 150.0L468.0 150.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="480.0,150.0 468.0,158.0 468.0,142.0" fill="#2b2620"/>
+<rect x="490.0" y="122.0" width="120.0" height="56.0" rx="12" fill="#faf7f0" stroke="#2b2620" stroke-width="3"/>
+<text x="550.0" y="155.6" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Indicator</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Cranking charges the cell; the indicator shows enough is stored.</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="20.0" y="80.0" width="240.0" height="180.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><g transform="rotate(-25 80 60)"><path d="M22 52H104V68H22Q14 68 14 60Q14 52 22 52Z" fill="#dfe4e6"/><circle cx="26" cy="60" r="4" fill="#ffffff" stroke-width="2"/><path d="M104 44Q104 34 116 32H130L134 46H120V52H104Z" fill="#dfe4e6"/><path d="M104 68V76Q104 86 116 88H130L134 74H120V68Z" fill="#b3bec4"/><ellipse cx="98" cy="60" rx="4" ry="8" fill="#d9a32c" stroke-width="2"/><path d="M95 55H101M95 60H101M95 65H101" stroke-width="1"/></g></g></svg>
+<svg x="400.0" y="100.0" width="200.0" height="150.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M22 44H44V76H22Z" fill="#dfe4e6"/><path d="M22 54H44M22 66H44" stroke-width="2"/><path d="M44 52H136V68H44Z" fill="#dfe4e6"/><path d="M70 52L74 68M76 52L80 68M82 52L86 68M88 52L92 68M94 52L98 68M100 52L104 68M106 52L110 68M112 52L116 68M118 52L122 68M124 52L128 68M130 52L134 68" stroke-width="1.5"/><path d="M84 40H92V80H84Z" fill="#b3bec4"/><path d="M96 36H116V84H96Z" fill="#dfe4e6"/><path d="M96 48H116M96 72H116" stroke-width="2"/></g></svg>
+<path d="M250.0 170.0L408.0 170.0" fill="none" stroke="#2b2620" stroke-width="4" stroke-linecap="round"/>
+<polygon points="420.0,170.0 408.0,178.0 408.0,162.0" fill="#2b2620"/>
+<text x="330.0" y="140.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Jaws close onto the flats</text>
+<path d="M100.0 70.0L163.0 152.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="163.0" cy="152.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="90.0" y="66.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Jaw screw</text>
+<path d="M529.0 256.0L529.0 190.0" fill="none" stroke="#2b2620" stroke-width="2" stroke-linecap="round"/>
+<circle cx="529.0" cy="190.0" r="4" fill="#ffffff" stroke="#2b2620" stroke-width="2"/>
+<text x="529.0" y="276.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Hex nut</text>
+<text x="320.0" y="340.0" text-anchor="middle" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#4a4238">Flats, not corners, so the nut does not round.</text>
+</svg>

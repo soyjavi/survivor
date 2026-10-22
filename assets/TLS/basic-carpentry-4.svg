@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360"><rect width="640" height="360" fill="#f5f1e8"/>
+<svg x="190.0" y="106.0" width="260.0" height="195.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M16 64L120 38L146 50L42 78Z" fill="#e6c99b"/><path d="M16 64L42 78V90L16 76Z" fill="#c08f5a"/><path d="M42 78L146 50V62L42 90Z" fill="#c08f5a"/><path d="M40 66Q70 56 104 50M56 70Q90 60 124 52" stroke-width="2"/></g></svg>
+<svg x="190.0" y="20.0" width="260.0" height="195.0" viewBox="0 0 160 120"><g fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M16 64L120 38L146 50L42 78Z" fill="#e6c99b"/><path d="M16 64L42 78V90L16 76Z" fill="#c08f5a"/><path d="M42 78L146 50V62L42 90Z" fill="#c08f5a"/><path d="M40 66Q70 56 104 50M56 70Q90 60 124 52" stroke-width="2"/></g></svg>
+<path d="M200.0 192.0L480.0 122.0" fill="none" stroke="#c4432f" stroke-width="3" stroke-linecap="round" stroke-dasharray="9 7"/>
+<path d="M250.0 24.0L250.0 66.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="250.0,78.0 242.0,66.0 258.0,66.0" fill="#2b2620"/>
+<path d="M250.0 330.0L250.0 274.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="250.0,262.0 258.0,274.0 242.0,274.0" fill="#2b2620"/>
+<path d="M320.0 24.0L320.0 66.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="320.0,78.0 312.0,66.0 328.0,66.0" fill="#2b2620"/>
+<path d="M320.0 330.0L320.0 274.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="320.0,262.0 328.0,274.0 312.0,274.0" fill="#2b2620"/>
+<path d="M390.0 24.0L390.0 66.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="390.0,78.0 382.0,66.0 398.0,66.0" fill="#2b2620"/>
+<path d="M390.0 330.0L390.0 274.0" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round"/>
+<polygon points="390.0,262.0 398.0,274.0 382.0,274.0" fill="#2b2620"/>
+<text x="490.0" y="122.0" text-anchor="start" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Glue line</text>
+<text x="170.0" y="124.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Boards</text>
+<text x="170.0" y="200.0" text-anchor="end" font-family="Source Sans 3, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#2b2620">Boards</text>
+</svg>

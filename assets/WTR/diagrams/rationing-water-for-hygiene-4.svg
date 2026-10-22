@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360">
+<rect x="0" y="0" width="640" height="360" fill="#ffffff" stroke="none"/>
+<g fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<rect x="60" y="70" width="630" height="240" rx="0"/>
+<line x1="60" y1="130" x2="690" y2="130"/>
+<line x1="60" y1="190" x2="690" y2="190"/>
+<line x1="60" y1="250" x2="690" y2="250"/>
+<line x1="180" y1="70" x2="180" y2="310"/>
+<line x1="350" y1="70" x2="350" y2="310"/>
+<line x1="520" y1="70" x2="520" y2="310"/>
+<text x="120.0" y="106.0" font-size="14" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Day</text>
+<text x="265.0" y="106.0" font-size="14" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Allowance</text>
+<text x="435.0" y="106.0" font-size="14" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Used</text>
+<text x="605.0" y="106.0" font-size="14" font-family="sans-serif" fill="#000000" stroke="none" text-anchor="middle">Left over</text>
+</g>
+</svg>
